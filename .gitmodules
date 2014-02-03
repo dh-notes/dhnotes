@@ -1,7 +1,3 @@
-[submodule "pandoc-workflow"]
-	path = pandoc-workflow
-	url = git@github.com:dhcolumbia/pandoc-workflow.git
-    branch = master
 [submodule "dhnotes.wiki"]
 	path = dhnotes.wiki
 	url = git@github.com:denten/dhnotes.wiki.git
