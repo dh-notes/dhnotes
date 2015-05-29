@@ -27,8 +27,8 @@ by Bash without modification.<sup>1</sup>
 
 ## Table of contnets
 
-[Level 1: Finidng your way](https://github.com/denten/dhnotes/blob/master/cli-basics.md#level-1-finding-your-way)
-[Level 2: Files and folders](https://github.com/denten/dhnotes/blob/master/cli-basics.md#level-2-files-and-folders)
+- [Level 1: Finidng your way](https://github.com/denten/dhnotes/blob/master/cli-basics.md#level-1-finding-your-way)
+- [Level 2: Files and folders](https://github.com/denten/dhnotes/blob/master/cli-basics.md#level-2-files-and-folders)
 ## Level 1: Finding your way
 
 ```
