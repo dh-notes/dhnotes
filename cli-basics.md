@@ -53,12 +53,12 @@ cd /
 history
 ```
 
-*Notes*: Tab complete everything. Do not advance until you understand the difference
+**Notes**: Tab complete everything. Do not advance until you understand the difference
 between relative and absolute paths.
 
-*Explore*: [Filesystem Hierarchy Standard](http://www.pathname.com/fhs/)
+**Explore**: [Filesystem Hierarchy Standard](http://www.pathname.com/fhs/)
 
-*Bonus*: `pushd`, `popd`, `cd -`
+**Bonus**: `pushd`, `popd`, `cd -`
 
 ## Unit 2: Files and folders
 
@@ -80,13 +80,13 @@ tail filename
 > *Figure 1* Anatomy of a UNIX Command. Via
 [Texas A\&M High Performance Research Computing](http://web.archive.org/web/20150529023907/http://sc.tamu.edu/help/general/unix/unix.html)
 
-*Notes*: Think of the syntax as "verb, adverb, object noun". Man everything.
+**Notes**: Think of the syntax as "verb, adverb, object noun". Man everything.
 Rename with `mv`. Open your graphical file manager and follow along as you move
 / create / delete files. `cat` a `.pdf` file, `.docx`, and `.txt`.
 
-*Explore*: [Take the Linux Filesystem Tour](http://web.archive.org/web/20140224004333/http://tuxradar.com/content/take-linux-filesystem-tour#null)
+**Explore**: [Take the Linux Filesystem Tour](http://web.archive.org/web/20140224004333/http://tuxradar.com/content/take-linux-filesystem-tour#null)
 
-*Bonus*: `ctr+shift+R [start typing one of the commands you used above]`, repeat to
+**Bonus**: `ctr+shift+R [start typing one of the commands you used above]`, repeat to
 cycle through
 
 ## Unit 3: Permissions
@@ -105,6 +105,8 @@ nano test.txt
 
 > *Figure 2* Via
 [Via UC Irvine](http://www.ics.uci.edu/computing/linux/file-security.php)
+
+**Explore**: [IBM developerWorks: Manage file permissions and ownership](http://www.ibm.com/developerworks/library/l-lpic1-v3-104-5/)
 
 ## Unit 4: Streams, pipes, and redirects
 
