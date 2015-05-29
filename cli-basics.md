@@ -28,24 +28,18 @@ by Bash without modification.<sup>1</sup>
 
 ## Table of contents
 
-- [Unit 1: Finidng your way](https://github.com/denten/dhnotes/blob/master/cli-basics.md#level-1-finding-your-way)
-- [Unit 2: Files and folders](https://github.com/denten/dhnotes/blob/master/cli-basics.md#level-2-files-and-folders)
-- [Unit 4:]()
-- [Unit 5:]()
-- [Unit 6:]()
-- [Unit 7:]()
-- [Unit 8:]()
-- [Unit 9:]()
-- [Unit 10:]()
-- [Unit 11:]()
-- [Unit 12:]()
-
-
-
-
-
-
-
+- [Unit 1: Finding your way](https://github.com/denten/dhnotes/blob/master/cli-basics/101-gps.md)
+- [Unit 2: Files and folders](https://github.com/denten/dhnotes/blob/master/cli-basics/102-files.md)
+- [Unit 3: Permissions](https://github.com/denten/dhnotes/blob/master/cli-basics/103-permissions.md)
+- [Unit 4: Pipes and redirects](https://github.com/denten/dhnotes/blob/master/cli-basics/104-pipes.md)
+- [Unit 5: Search](https://github.com/denten/dhnotes/blob/master/cli-basics/105-search.md)
+- [Unit 6: Filters](https://github.com/denten/dhnotes/blob/master/cli-basics/106-filters.md)
+- [Unit 7: Networking](https://github.com/denten/dhnotes/blob/master/cli-basics/107-network.md)
+- [Unit 8: Users and Groups](https://github.com/denten/dhnotes/blob/master/cli-basics/108-users.md)
+- [Unit 9: Text Manipulation](https://github.com/denten/dhnotes/blob/master/cli-basics/109-text.md)
+- [Unit 10: Scripting](https://github.com/denten/dhnotes/blob/master/cli-basics/110-script.md)
+- [Unit 11: Scheduling](https://github.com/denten/dhnotes/blob/master/cli-basics/111-schedule.md)
+- [Unit 12: Package management](https://github.com/denten/dhnotes/blob/master/cli-basics/112-package.md)
 
 ## Resources
 
