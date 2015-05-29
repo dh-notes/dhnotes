@@ -52,6 +52,8 @@ rm -ri path/filname
 
 Notes: Think of the syntax as "verb, adverb, object noun". Man everything. Rename with mv. 
 
+Explore: [Take the Linux Filesystem Tour](http://web.archive.org/web/20140224004333/http://tuxradar.com/content/take-linux-filesystem-tour#null)
+
 ### Level 3: Search
 up and down to cycle through history, `history`, pipes!, `history | less`, `history | grep "test.txt"`, `nano`, `cat`
 
