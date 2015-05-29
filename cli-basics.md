@@ -37,10 +37,6 @@ Bonus: `pushd`, `popd`, `cd -`
 
 ## Level 2: Files and folders
 
-![Anatomy of a UNIX Command.](images/cmd-anatomy.jpg)
-
-|*Figure 1*: Anatomy of a UNIX Command. Via [Texas A&M High Performance Research Computing](http://web.archive.org/web/20150529023907/http://sc.tamu.edu/help/general/unix/unix.html)|
--------
 
 
 ```
@@ -51,6 +47,11 @@ cp oldpath/oldfile newpath/newfile
 mv oldpath/file newpath/file
 rm -ri path/filname
 ```
+
+![Anatomy of a UNIX Command.](images/cmd-anatomy.jpg)
+
+|*Figure 1*: Anatomy of a UNIX Command. Via [Texas A&M High Performance Research Computing](http://web.archive.org/web/20150529023907/http://sc.tamu.edu/help/general/unix/unix.html)|
+-------
 
 
 Man everything. Rename with mv. 
