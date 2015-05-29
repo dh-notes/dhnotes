@@ -130,6 +130,9 @@ octal | decimal   | ls -l |permission
 110   | 6 (4+2+0) | rw-   | read + write
 111   | 7 (4+2+1) | rwx   | read + write + execute
 
+Instead of `chmod +rwx test.txt` (give all permessions to everything) you can
+use `chmod 777 text.txt`.
+
 ## Unit 4: Pipes and redirects
 
 ```
