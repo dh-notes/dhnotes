@@ -28,6 +28,15 @@ by Bash without modification.<sup>1</sup>
 
 - [Unit 1: Finidng your way](https://github.com/denten/dhnotes/blob/master/cli-basics.md#level-1-finding-your-way)
 - [Unit 2: Files and folders](https://github.com/denten/dhnotes/blob/master/cli-basics.md#level-2-files-and-folders)
+- [Unit 4:]()
+- [Unit 5:]()
+- [Unit 6:]()
+- [Unit 7:]()
+- [Unit 8:]()
+- [Unit 9:]()
+- [Unit 10:]()
+- [Unit 11:]()
+- [Unit 12:]()
 
 ## Unit 1: Finding your way
 
@@ -71,7 +80,8 @@ cat filename
 head filename
 tail filename
 ```
-<img src="images/cmd-anatomy.jpg>
+
+![Anatomy of a UNIX Command.](images/cmd-anatomy.jpg)
 
 > *Figure 1* Anatomy of a UNIX Command. Via
 [Texas A\&M High Performance Research Computing](http://web.archive.org/web/20150529023907/http://sc.tamu.edu/help/general/unix/unix.html)
