@@ -1,7 +1,6 @@
 ---
 title: "Intro to Operating Systems and Command Line Interfaces (CLI)"
 author: Dennis Tenen
-
 ---
 
 ## Why command line?
