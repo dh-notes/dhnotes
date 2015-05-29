@@ -27,9 +27,10 @@ by Bash without modification.<sup>1</sup>
 
 ## Table of contnets
 
-- [Level 1: Finidng your way](https://github.com/denten/dhnotes/blob/master/cli-basics.md#level-1-finding-your-way)
-- [Level 2: Files and folders](https://github.com/denten/dhnotes/blob/master/cli-basics.md#level-2-files-and-folders)
-## Level 1: Finding your way
+- [Unit 1: Finidng your way](https://github.com/denten/dhnotes/blob/master/cli-basics.md#level-1-finding-your-way)
+- [Unit 2: Files and folders](https://github.com/denten/dhnotes/blob/master/cli-basics.md#level-2-files-and-folders)
+
+## Unit 1: Finding your way
 
 ```
 ls
@@ -57,7 +58,7 @@ between relative and absolute paths.
 
 `pushd`, `popd`, `cd -`
 
-## Level 2: Files and folders
+## Unit 2: Files and folders
 
 ```
 man man
@@ -79,7 +80,7 @@ tail filename
 ### Notes
 
 Think of the syntax as "verb, adverb, object noun". Man everything. Rename with
-mv. Open your graphical file manager and follow along as you move / create /
+`mv`. Open your graphical file manager and follow along as you move / create /
 delete files. `cat` a `.pdf` file, `.docx`, and `.txt`.
 
 ### Explore
@@ -91,8 +92,7 @@ delete files. `cat` a `.pdf` file, `.docx`, and `.txt`.
 `ctr+shift+R [start typing one of the commands you used above]`, repeat to
 cycle through
 
-
-## Level 3: Permissions
+## Unit 3: Permissions
 
 ![List view.](images/fig-permissions.jpg)
 
@@ -104,20 +104,21 @@ touch test.txt
 sudo !!
 cd -
 touch test.txt
-chomd u-w test.txt
+chmod u-w test.txt
 nano test.txt
 ```
 ### Notes
 
-## Level 4: Streams, pipes, and redirects
+## Unit 4: Streams, pipes, and redirects
 
 ```
 cat filename | less
 man less
 man more
+echo "hello world"
 ```
 
-## Level 5: Search
+## Unit 5: Search
 
 up and down to cycle through history, `history`, pipes!, `history | less`,
 `history | grep "test.txt"`, `nano`, `cat`
@@ -129,7 +130,24 @@ Bonus: `ctrl-r`, repeat to cycle
 Note the complimentary use of `-print0` and `-0` to handle white spaces in file names.
 `find -name "*.pdf" -print0 | xargs -0 lpr`
 
-## Level 6: Text manipulation
+## Unit 6: Networking
+
+TBA
+
+## Unit 7: Users & Groups
+
+TBA
+
+## Unit 8: Text manipulation
+
+TBA
+
+## Unit 9: Scripting
+
+TBA
+
+## Unit 10: Scheduling
+## Unit 11: Package management
 
 ## Resources
 
