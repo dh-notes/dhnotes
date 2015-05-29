@@ -39,7 +39,7 @@ Bonus: `pushd`, `popd`, `cd -`
 
 ![Anatomy of a UNIX Command.](images/cmd-anatomy.jpg)
 
-> *Figure 1*: [Via Texas A&M High Performance Research Computing](http://web.archive.org/web/20150529023907/http://sc.tamu.edu/help/general/unix/unix.html)
+> *Figure 1*: Anatomy of a UNIX Command. Via [Texas A&M High Performance Research Computing](http://web.archive.org/web/20150529023907/http://sc.tamu.edu/help/general/unix/unix.html)
 
 ```
 man man
