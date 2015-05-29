@@ -28,7 +28,7 @@ cd ~
 cd /
 ```
 
-Tab complete everything. Do not advance until you understand the difference
+Notes: Tab complete everything. Do not advance until you understand the difference
 between relative and absolute paths.
 
 Explore: [Filesystem Hierarchy Standard](http://www.pathname.com/fhs/)
@@ -36,8 +36,6 @@ Explore: [Filesystem Hierarchy Standard](http://www.pathname.com/fhs/)
 Bonus: `pushd`, `popd`, `cd -`
 
 ## Level 2: Files and folders
-
-
 
 ```
 man man
@@ -53,8 +51,7 @@ rm -ri path/filname
 |*Figure 1*: Anatomy of a UNIX Command. Via [Texas A&M High Performance Research Computing](http://web.archive.org/web/20150529023907/http://sc.tamu.edu/help/general/unix/unix.html)|
 -------
 
-
-Man everything. Rename with mv. 
+Notes: Think of the syntax as "verb, adverb, object noun". Man everything. Rename with mv. 
 
 ### Level 3: Search
 up and down to cycle through history, `history`, pipes!, `history | less`, `history | grep "test.txt"`, `nano`, `cat`
