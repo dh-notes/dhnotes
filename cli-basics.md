@@ -14,6 +14,17 @@ author: Dennis Tenen
 - hackable
 - fun
 
+## Bash
+
+> Bash is the GNU Project's shell. Bash is the Bourne Again SHell. Bash is an
+sh-compatible shell that incorporates useful features from the Korn shell (ksh)
+and C shell (csh). It is intended to conform to the IEEE POSIX P1003.2/ISO
+9945.2 Shell and Tools standard. It offers functional improvements over sh for
+both programming and interactive use. In addition, most sh scripts can be run
+by Bash without modification.<sup>1</sup>
+
+1. http://www.gnu.org/software/bash/
+
 ## Level 1: Finding your way
 
 ```
@@ -26,18 +37,19 @@ cd test
 cd ..
 cd ~
 cd /
+history
 ```
 
-##### Notes
+### Notes
 
 Tab complete everything. Do not advance until you understand the difference
 between relative and absolute paths.
 
-#### Explore
+### Explore
 
 [Filesystem Hierarchy Standard](http://www.pathname.com/fhs/)
 
-#### Bonus
+### Bonus
 
 `pushd`, `popd`, `cd -`
 
@@ -49,40 +61,69 @@ mkdir
 touch filename
 cp oldpath/oldfile newpath/newfile
 mv oldpath/file newpath/file
-rm -ri path/filname
+rm -i path/filname
+rm -r foldername
+cat filename
+head filename
+tail filename
 ```
 
 ![Anatomy of a UNIX Command.](images/cmd-anatomy.jpg)
 
 > *Figure 1*: Anatomy of a UNIX Command. Via [Texas A&M High Performance Research Computing](http://web.archive.org/web/20150529023907/http://sc.tamu.edu/help/general/unix/unix.html)
 
-Notes: Think of the syntax as "verb, adverb, object noun". Man everything. Rename with mv. 
+### Notes
 
-Explore: [Take the Linux Filesystem Tour](http://web.archive.org/web/20140224004333/http://tuxradar.com/content/take-linux-filesystem-tour#null)
+Think of the syntax as "verb, adverb, object noun". Man everything. Rename with
+mv. Open your graphical file manager and follow along as you move / create /
+delete files. `cat` a `.pdf` file, `.docx`, and `.txt`.
 
-### Level 3: Search
-up and down to cycle through history, `history`, pipes!, `history | less`, `history | grep "test.txt"`, `nano`, `cat`
+### Explore
+
+[Take the Linux Filesystem Tour](http://web.archive.org/web/20140224004333/http://tuxradar.com/content/take-linux-filesystem-tour#null)
+
+### Bonus
+
+`ctr+shift+R [start typing one of the commands you used above]`, repeat to
+cycle through
+
+
+
+## Level 3: Permissions
+
+```
+cd /
+touch test.txt
+sudo !!
+cd -
+touch test.txt
+chomd u-w test.txt
+nano test.txt
+```
+Test
+
+## Level 4: Streams, pipes, and redirects
+
+```
+cat filename | less
+man less
+man more
+```
+
+## Level 5: Search
+
+up and down to cycle through history, `history`, pipes!, `history | less`,
+`history | grep "test.txt"`, `nano`, `cat`
 
 Bonus: `ctrl-r`, repeat to cycle
 
-### Level 4: Advanced
 `grep`, `find`, `awk`
 
 Note the complimentary use of `-print0` and `-0` to handle white spaces in file names.
 `find -name "*.pdf" -print0 | xargs -0 lpr`
 
-## Misc Notes
-### Files and Folders 
-- `ls *.md | wc -l` to count the number of .md files in a directory
-- to flatten directories in zsh run something like `mv folder-name/*/**/*(.markdown) .`
+## Level 6: Text manipulation
 
-## Text manipulation in Bash\*
+## Resources
 
-<sub>* Bash is the GNU Project's shell. Bash is the Bourne Again SHell. Bash is an
-sh-compatible shell that incorporates useful features from the Korn shell (ksh)
-and C shell (csh). It is intended to conform to the IEEE POSIX P1003.2/ISO
-9945.2 Shell and Tools standard. It offers functional improvements over sh for
-both programming and interactive use. In addition, most sh scripts can be run
-by Bash without modification.</sub>
-### Symbolic links
-- Specifying symbolic links with just the target will implicitly create the link in the current directory (works for folders as well. Something like: `$ ln -s gDrive/Articles/` will create `Articles@`
+- [commandlinefu.com](http://www.commandlinefu.com)
