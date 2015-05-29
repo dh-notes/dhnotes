@@ -24,7 +24,7 @@ by Bash without modification.<sup>1</sup>
 
 1. http://www.gnu.org/software/bash/
 
-## Table of contnets
+## Table of contents
 
 - [Unit 1: Finidng your way](https://github.com/denten/dhnotes/blob/master/cli-basics.md#level-1-finding-your-way)
 - [Unit 2: Files and folders](https://github.com/denten/dhnotes/blob/master/cli-basics.md#level-2-files-and-folders)
