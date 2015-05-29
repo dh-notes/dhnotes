@@ -99,6 +99,7 @@ cd -
 touch test.txt
 chmod u-w test.txt
 nano test.txt
+```
 
 ![List view.](images/fig-permissions.jpg)
 
