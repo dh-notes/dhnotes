@@ -72,10 +72,10 @@ cat filename
 head filename
 tail filename
 ```
+<img src="images/cmd-anatomy.jpg>
 
-![Anatomy of a UNIX Command.](images/cmd-anatomy.jpg)
-
-> *Figure 1*: Anatomy of a UNIX Command. Via [Texas A&M High Performance Research Computing](http://web.archive.org/web/20150529023907/http://sc.tamu.edu/help/general/unix/unix.html)
+> *Figure 1* Anatomy of a UNIX Command. Via
+[Texas A\&M High Performance Research Computing](http://web.archive.org/web/20150529023907/http://sc.tamu.edu/help/general/unix/unix.html)
 
 ### Notes
 
@@ -94,10 +94,6 @@ cycle through
 
 ## Unit 3: Permissions
 
-![List view.](images/fig-permissions.jpg)
-
-> *Figure 1*: Anatomy of a UNIX Command. Via [Texas A&M High Performance Research Computing](http://web.archive.org/web/20150529023907/http://sc.tamu.edu/help/general/unix/unix.html)
-
 ```
 cd /
 touch test.txt
@@ -106,8 +102,11 @@ cd -
 touch test.txt
 chmod u-w test.txt
 nano test.txt
-```
-### Notes
+
+![List view.](images/fig-permissions.jpg)
+
+> *Figure 2* Via
+[CSIT Linux Lab](http://www.csit.parkland.edu/~smauney/csc128/permissions_and_links.html)
 
 ## Unit 4: Streams, pipes, and redirects
 
