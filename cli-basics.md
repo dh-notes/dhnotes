@@ -115,11 +115,11 @@ man sudo
 
 **Notes**: Think twice before sudo. The user flags are `u` for user, `g` for
 group, `o` for other, `a` for all. The permission flags are `r` for read, `w`
-for write, and `x` for execute. `x`chmod -x test.sh` implies `chmod a-x`. 
+for write, and `x` for execute. `chmod -x test.sh` implies `chmod a-x text.sh`.
 
 **Explore**: [IBM developerWorks: Manage file permissions and ownership](http://www.ibm.com/developerworks/library/l-lpic1-v3-104-5/)
 
-**Bonus**: 
+**Bonus**:
 
 octal | decimal   | ls -l |permission
 ------|-----------|-------|--------------
@@ -132,7 +132,7 @@ octal | decimal   | ls -l |permission
 110   | 6 (4+2+0) | rw-   | read + write
 111   | 7 (4+2+1) | rwx   | read + write + execute
 
-Instead of `chmod +rwx test.txt` (give all permessions to everything) you can
+Instead of `chmod +rwx test.txt` (give everyone permissions to everything) you can
 use `chmod 777 text.txt`.
 
 ## Unit 4: Pipes and redirects
@@ -144,38 +144,134 @@ echo "hello world"
 echo "hello world" > test.txt
 echo "hello world 2" > test.txt
 echo "hello world 3" >> test.txt
+history
+history | tail -5
+history | tail -5 >> history-dump.txt
+wc -l < history-dump.txt >
 ```
 
 ## Unit 5: Search
 
-up and down to cycle through history, `history`, pipes!, `history | less`,
-`history | grep "test.txt"`, `nano`, `cat`
+```
+find
+locate
+grep
+```
+**Notes**: Globbing and regex.
+**Explore**: [Finding Files](http://www.gnu.org/software/findutils/manual/html_mono/find.html) from
+[gnu.org](http://www.gnu.org).
 
-Bonus: `ctrl-r`, repeat to cycle
+## Unit 6: Filters
 
-`grep`, `find`, `awk`
+```
+sort
+uniq
+grep
+head
+tail
+tr
+sed
+awk
+```
 
-Note the complimentary use of `-print0` and `-0` to handle white spaces in file names.
-`find -name "*.pdf" -print0 | xargs -0 lpr`
 
-## Unit 6: Networking
+## Unit 7: Networking
+
+```
+ping
+traceroute
+ssh
+wget
+curl
+rsync
+```
+
+## Unit 8: Users & Groups
 
 TBA
 
-## Unit 7: Users & Groups
+## Unit 9: Text manipulation
+
+### Popping the hood
+
+```
+wget link/moby.pdf (use curl on macs)
+pdftotext moby.txt``
+cat moby.txt
+cat moby.pdf
+clear
+xxd moby.txt
+xxd moby.pdf
+echo "how many words does it take?" > test.txt
+wc -w test.txt
+wc -l test.txt
+wc -m test.txt
+man wc
+```
+
+### Putting all your fruits into one basket
+
+> lines and words, destructive vs. non-destructive transformations
+> (munging), more pipes
+
+1. add your fruits  
+`   echo "orange banana pear tomato banana pear orange apple apple strawberry nectarine" > fruit.txt`
+
+2. add another one  
+`    echo "banana" >> fruit.txt`
+
+3. substitute space for newlines  
+`    sed 's/\s/\n/g'` (Linux)  
+`    sed 's/[[:space:]]/\'$'\n/g' fruits.txt` (Mac)  
+
+4. remove bad fruit  
+`    echo "nectarine" > bad-fruit.txt`  
+`    echo "tomato" >> bad-fruit.txt`  
+`    cat fruit.txt | grep -vf bad-fruit.txt`  
+`    cat fruit.txt` (to see if it worked)  
+
+5. sort and count  
+
+
+`    sort fruits.txt > sorted-fruits.txt`  
+`    uniq -c sorted-fruits.txt`  
+
+### Rewriting *Moby Dick*  
+
+> dataflow programming, bag of words, stop words
+
+1. find the whale  
+`    grep "whale" moby.txt`
+
+2. substitute whale for chicken  
+`    cat moby.txt | sed 's/whale/chicken' > chicken.txt`
+
+3. find the remaining whales  
+`    grep "Whale" chicken.txt`
+
+4. remove punctuation  
+`    cat file.txt | tr -d "[:punct:]" > moby-nopunct.txt`
+
+5. make all lower case  
+`    cat moby-nopunct.txt | tr "[:upper:] [:lower:]" > moby-clean.txt`
+
+6. sort by word frequency  
+`    cat file.txt | sed 's/\s/\n/g' | sort | uniq -c | sort -hr > test.txt`
+(Linux)  
+`    cat file.txt | sed 's/[[:space:]]/\'$'\n/g' | sort | uniq -c | sort -k1 >
+file_wc.txt` (Mac)
+
+## Unit 10: Scripting
 
 TBA
 
-## Unit 8: Text manipulation
+## Unit 11: Scheduling
 
-TBA
-
-## Unit 9: Scripting
-
-TBA
-
-## Unit 10: Scheduling
-## Unit 11: Package management
+```
+cron
+crontab
+```
+## Unit 12: Package management
 
 ## Resources
 
