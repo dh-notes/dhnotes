@@ -88,8 +88,11 @@ delete files. `cat` a `.pdf` file, `.docx`, and `.txt`.
 cycle through
 
 
-
 ## Level 3: Permissions
+
+![List view.](images/fig-permissions.jpg)
+
+> *Figure 1*: Anatomy of a UNIX Command. Via [Texas A&M High Performance Research Computing](http://web.archive.org/web/20150529023907/http://sc.tamu.edu/help/general/unix/unix.html)
 
 ```
 cd /
@@ -100,7 +103,7 @@ touch test.txt
 chomd u-w test.txt
 nano test.txt
 ```
-Test
+### Notes
 
 ## Level 4: Streams, pipes, and redirects
 
