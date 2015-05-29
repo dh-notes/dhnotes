@@ -19,7 +19,7 @@ nano test.txt
 man sudo
 ```
 
-![List view.](images/perm.png)
+![List view.](../images/perm.png)
 
 > *Figure 2* Via
 [Via UC Irvine](http://www.ics.uci.edu/computing/linux/file-security.php)
