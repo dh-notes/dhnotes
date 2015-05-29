@@ -28,7 +28,7 @@ cd ~
 cd /
 ```
 
-### Notes 
+#### Notes 
 Notes: Tab complete everything. Do not advance until you understand the difference
 between relative and absolute paths.
 
