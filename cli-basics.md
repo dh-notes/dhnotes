@@ -28,13 +28,18 @@ cd ~
 cd /
 ```
 
-#### Notes 
-Notes: Tab complete everything. Do not advance until you understand the difference
+#### Notes
+
+Tab complete everything. Do not advance until you understand the difference
 between relative and absolute paths.
 
-Explore: [Filesystem Hierarchy Standard](http://www.pathname.com/fhs/)
+#### Explore
 
-Bonus: `pushd`, `popd`, `cd -`
+[Filesystem Hierarchy Standard](http://www.pathname.com/fhs/)
+
+#### Bonus
+
+`pushd`, `popd`, `cd -`
 
 ## Level 2: Files and folders
 
