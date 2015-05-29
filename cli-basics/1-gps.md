@@ -1,0 +1,29 @@
+---
+tutorial: "Command Line Basics"
+section: "Unit 1: Finding your way"
+author: Dennis Tenen
+update: "5/29/15"
+---
+
+## Unit 1: Finding your way
+
+```
+ls
+ls -l
+pwd
+man man (q to exit)
+mkdir test/
+cd test
+cd ..
+cd ~
+cd /
+history
+```
+
+**Notes**: Tab complete everything. Do not advance until you understand the difference
+between relative and absolute paths. Man everything, *nix has amazing
+documentation.
+
+**Explore**: [Filesystem Hierarchy Standard](http://www.pathname.com/fhs/)
+
+**Bonus**: `pushd`, `popd`, `cd -`
