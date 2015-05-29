@@ -47,11 +47,14 @@ rm -ri path/filname
 ```
 
 <figure>
-    <img src="images/cmd-anatomy.jpg" alt="Anatomy of a UNIX Command">
+    <img src="/images/cmd-anatomy.jpg" alt="Anatomy of a UNIX Command">
     <figcaption>
-    Anatomy of a UNIX Command. Via [Texas A&M High Performance Research Computing](http://web.archive.org/web/20150529023907/http://sc.tamu.edu/help/general/unix/unix.html)
+    Anatomy of a UNIX Command. Via 
+    [Texas A&M High Performance Research Computing](http://web.archive.org/web/20150529023907/http://sc.tamu.edu/help/general/unix/unix.html)
     </figcaption>
 </figure>
+
+![Anatomy of a UNIX Command.](images/cmd-anatomy.jpg)
 
 Man everything. Rename with mv. 
 
