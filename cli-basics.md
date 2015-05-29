@@ -113,7 +113,9 @@ man sudo
 > *Figure 2* Via
 [Via UC Irvine](http://www.ics.uci.edu/computing/linux/file-security.php)
 
-**Notes**: Think twice before sudo.
+**Notes**: Think twice before sudo. The user flags are `u` for user, `g` for
+group, `o` for other, `a` for all. The permission flags are `r` for read, `w`
+for write, and `x` for execute. `x`chmod -x test.sh` implies `chmod a-x`. 
 
 **Explore**: [IBM developerWorks: Manage file permissions and ownership](http://www.ibm.com/developerworks/library/l-lpic1-v3-104-5/)
 
