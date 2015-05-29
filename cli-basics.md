@@ -26,7 +26,9 @@ by Bash without modification.<sup>1</sup>
 1. http://www.gnu.org/software/bash/
 
 ## Table of contnets
+
 [Level 1: Finidng your way](#level-1-finding-your-way)
+[Level 2](#level-2-files-and-folders)
 
 ## Level 1: Finding your way
 
