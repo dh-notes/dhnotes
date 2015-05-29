@@ -54,7 +54,8 @@ history
 ```
 
 **Notes**: Tab complete everything. Do not advance until you understand the difference
-between relative and absolute paths.
+between relative and absolute paths. Man everything, *nix has amazing
+documentation.
 
 **Explore**: [Filesystem Hierarchy Standard](http://www.pathname.com/fhs/)
 
@@ -80,9 +81,14 @@ tail filename
 > *Figure 1* Anatomy of a UNIX Command. Via
 [Texas A\&M High Performance Research Computing](http://web.archive.org/web/20150529023907/http://sc.tamu.edu/help/general/unix/unix.html)
 
-**Notes**: Think of the syntax as "verb, adverb, object noun". Man everything.
-Rename with `mv`. Open your graphical file manager and follow along as you move
-/ create / delete files. `cat` a `.pdf` file, `.docx`, and `.txt`.
+**Notes**: File names are case sensitive. Think of the syntax as "verb, adverb,
+object noun". What separates these? Blank space. What happens to blank space in
+file names? For this reason, it is good hygiene not to use spaces or capitals
+when naming files. Rename with `mv`. Open your graphical file manager and
+follow along as you move / create / delete files. `cat` a `.pdf` file, `.docx`,
+and `.txt`. `rm` is dangerous! Consider creating an `archive/` folder and using
+`mv` instead of `rm` for a safer alternative. The `-i` flag will ask for
+confirmation at least.
 
 **Explore**: [Take the Linux Filesystem Tour](http://web.archive.org/web/20140224004333/http://tuxradar.com/content/take-linux-filesystem-tour#null)
 
@@ -99,6 +105,7 @@ cd -
 touch test.txt
 chmod u-w test.txt
 nano test.txt
+man sudo
 ```
 
 ![List view.](images/perm.png)
@@ -106,15 +113,32 @@ nano test.txt
 > *Figure 2* Via
 [Via UC Irvine](http://www.ics.uci.edu/computing/linux/file-security.php)
 
+**Notes**: Think twice before sudo.
+
 **Explore**: [IBM developerWorks: Manage file permissions and ownership](http://www.ibm.com/developerworks/library/l-lpic1-v3-104-5/)
 
-## Unit 4: Streams, pipes, and redirects
+**Bonus**: 
+
+octal | decimal   | ls -l |permission
+------|-----------|-------|--------------
+000   | 0 (0+0+0) | ---   | none
+001   | 1 (0+0+1) | --x   | execute
+010   | 2 (0+2+0) | -w-   | write
+011   | 3 (0+2+1) | -wx   | write + execute
+100   | 4 (4+0+0) | r--   | read
+101   | 5 (4+0+1) | r-x   | read + execute
+110   | 6 (4+2+0) | rw-   | read + write
+111   | 7 (4+2+1) | rwx   | read + write + execute
+
+## Unit 4: Pipes and redirects
 
 ```
 cat filename | less
 man less
-man more
 echo "hello world"
+echo "hello world" > test.txt
+echo "hello world 2" > test.txt
+echo "hello world 3" >> test.txt
 ```
 
 ## Unit 5: Search
