@@ -101,10 +101,10 @@ chmod u-w test.txt
 nano test.txt
 ```
 
-![List view.](images/fig-permissions.jpg)
+![List view.](images/perm.png)
 
 > *Figure 2* Via
-[CSIT Linux Lab](http://www.csit.parkland.edu/~smauney/csc128/permissions_and_links.html)
+[Via UC Irvine](http://www.ics.uci.edu/computing/linux/file-security.php)
 
 ## Unit 4: Streams, pipes, and redirects
 
