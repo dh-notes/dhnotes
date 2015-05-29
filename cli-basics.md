@@ -37,6 +37,10 @@ Bonus: `pushd`, `popd`, `cd -`
 
 ## Level 2: Files and folders
 
+![Anatomy of a UNIX Command.](images/cmd-anatomy.jpg)
+
+> *[Figure 1: Via Texas A&M High Performance Research Computing](http://web.archive.org/web/20150529023907/http://sc.tamu.edu/help/general/unix/unix.html)*
+
 ```
 man man
 mkdir
@@ -46,16 +50,6 @@ mv oldpath/file newpath/file
 rm -ri path/filname
 ```
 
-<figure>
-    <img src="/images/cmd-anatomy.jpg" alt="Anatomy of a UNIX Command">
-    <figcaption>
-    Anatomy of a UNIX Command. Via 
-        </figcaption>
-</figure>
-
-![Anatomy of a UNIX Command.](images/cmd-anatomy.jpg)
-
-> [Texas A&M High Performance Research Computing](http://web.archive.org/web/20150529023907/http://sc.tamu.edu/help/general/unix/unix.html)
 
 Man everything. Rename with mv. 
 
