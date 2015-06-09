@@ -14,6 +14,7 @@ locate
 grep
 ```
 **Notes**: Globbing and regex.
+
 **Explore**: [Finding Files](http://www.gnu.org/software/findutils/manual/html_mono/find.html) from
 [gnu.org](http://www.gnu.org).
 
