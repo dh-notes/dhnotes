@@ -11,6 +11,7 @@ update: "5/29/15"
 `cat filename | less`
 
 > what is a paginator?
+
 `man less`
 
 # read about "standard input" and "standard output"
