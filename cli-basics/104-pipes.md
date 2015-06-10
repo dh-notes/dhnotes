@@ -8,11 +8,12 @@ update: "5/29/15"
 
 ## Unit 4: Pipes and redirects
 
-`cat filename | less`
+```
+cat filename | less
 
-> what is a paginator?
+# what is a paginator?
 
-`man less`
+man less
 
 # read about "standard input" and "standard output"
 echo "hello world"
