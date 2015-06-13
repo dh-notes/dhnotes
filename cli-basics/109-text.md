@@ -67,7 +67,7 @@ man wc
 4. remove punctuation  
 `    cat file.txt | tr -d "[:punct:]" > moby-nopunct.txt`
 
-5. translate all upper case into lower
+5. translate all upper case into lower  
 `    cat moby-nopunct.txt | tr '[:upper:]' '[:lower:]' > moby-clean.txt`
 
 6. sort by word frequency  
