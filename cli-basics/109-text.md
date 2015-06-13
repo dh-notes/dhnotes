@@ -48,7 +48,6 @@ man wc
 
 5. sort and count  
 
-
 `    sort fruits.txt > sorted-fruits.txt`  
 `    uniq -c sorted-fruits.txt`  
 
@@ -68,8 +67,8 @@ man wc
 4. remove punctuation  
 `    cat file.txt | tr -d "[:punct:]" > moby-nopunct.txt`
 
-5. translate all upper case into lower  
-`    tr '[:upper:][:lower:]' moby-nopunct.txt > moby-clean.txt`
+5. translate all upper case into lower
+`    cat moby-nopunct.txt | tr '[:upper:]' '[:lower:]' > moby-clean.txt`
 
 6. sort by word frequency  
 `    cat file.txt | sed 's/\s/\n/g' | sort | uniq -c | sort -hr > test.txt`
