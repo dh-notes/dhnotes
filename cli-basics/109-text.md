@@ -58,7 +58,7 @@ man wc
 1. find the whale  
 `    grep "whale" moby.txt`
 
-2. substitute whale for chicken globally
+2. substitute whale for chicken globally  
 `    cat moby.txt | sed 's/whale/chicken/g' > chicken.txt`
 
 3. find the remaining whales  
