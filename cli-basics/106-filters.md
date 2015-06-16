@@ -17,6 +17,10 @@ tail
 tr
 sed
 awk
+shuf
+fmt
+look
+pr
 ```
 
 ### Findly

@@ -18,6 +18,9 @@ rm -r foldername
 cat filename
 head filename
 tail filename
+man rename
+split
+file
 ```
 
 ![Anatomy of a UNIX Command.](../images/cmd-anatomy.jpg)

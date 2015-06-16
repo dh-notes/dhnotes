@@ -8,6 +8,13 @@ update: "5/29/15"
 
 ## Unit 9: Text manipulation
 
+```
+cut
+paste
+join
+strings
+```
+
 ### Popping the hood
 
 ```

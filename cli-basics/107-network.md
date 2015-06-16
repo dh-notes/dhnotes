@@ -11,8 +11,13 @@ update: "5/29/15"
 ```
 ping
 traceroute
-ssh
+ssh -LD
 wget
 curl
 rsync
+dig
+ip
+ifconfig
+netstat
+mtr
 ```
