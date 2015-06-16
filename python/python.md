@@ -21,9 +21,9 @@ control structures + data types + built-in functions + syntax + interpreter
 
 ## Table of contents
 
-- [Unit 1](https://github.com/denten/dhnotes/blob/master/python/python-1.md)
-- [Unit 2](https://github.com/denten/dhnotes/blob/master/python/python-2.md)
-- [Unit 3](https://github.com/denten/dhnotes/blob/master/python/python-3.md)
+- [Unit 1: Introduction](https://github.com/denten/dhnotes/blob/master/python/python-1.md)
+- [Unit 2: Control Structures](https://github.com/denten/dhnotes/blob/master/python/python-2.md)
+- [Unit 3: Data Types](https://github.com/denten/dhnotes/blob/master/python/python-3.md)
 - [Unit 4: NLTK](https://github.com/denten/dhnotes/blob/master/python/python-4.md)
 - [Unit 5]()
 - [Unit 6]()

@@ -29,6 +29,8 @@ colored_things = [ (x,y) for x in colours for y in things ]
 # note that print is kind of an exception as far as functions go (in 2.7, at
 least)
 print coloured_things
+```
 
-# iterators (over lists and string)
-# do this in ipython
+**Explore:** [Git, list authors sorted by the time of their first
+contribution](https://gehrcke.de/2015/06/git-list-authors-sorted-by-the-time-of-their-first-contribution/),
+by Jan-Philip Gehrcke
