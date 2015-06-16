@@ -8,4 +8,11 @@ update: "5/29/15"
 
 ## Unit 8: Users and Groups
 
+```
+w
+adduser
+whoami
+whois
+```
+
 TBA
