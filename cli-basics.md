@@ -45,4 +45,10 @@ by Bash without modification.<sup>1</sup>
 
 ## Resources
 
+- [The Command Line Crash Course](http://cli.learncodethehardway.org/book/) by
+  Zed Shaw
+- [Data Science at the Command Line](http://datascienceatthecommandline.com/)
+  by Jeroen Janssens
+- [The Art of Command Line](https://github.com/jlevy/the-art-of-command-line)
+  by jlevy
 - [commandlinefu.com](http://www.commandlinefu.com)
