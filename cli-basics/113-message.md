@@ -1,0 +1,9 @@
+```
+wall
+say
+write
+talk
+finger
+talk
+ytalk
+```
