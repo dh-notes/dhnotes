@@ -36,10 +36,12 @@ by Bash without modification.<sup>1</sup>
 - [Unit 6: Filters](https://github.com/denten/dhnotes/blob/master/cli-basics/106-filters.md)
 - [Unit 7: Networking](https://github.com/denten/dhnotes/blob/master/cli-basics/107-network.md)
 - [Unit 8: Users and Groups](https://github.com/denten/dhnotes/blob/master/cli-basics/108-users.md)
-- [Unit 9: Text Manipulation](https://github.com/denten/dhnotes/blob/master/cli-basics/109-text.md)
-- [Unit 10: Scripting](https://github.com/denten/dhnotes/blob/master/cli-basics/110-script.md)
-- [Unit 11: Scheduling](https://github.com/denten/dhnotes/blob/master/cli-basics/111-schedule.md)
-- [Unit 12: Package management](https://github.com/denten/dhnotes/blob/master/cli-basics/112-package.md)
+- [Unit 9: Messaging](https://github.com/denten/dhnotes/blob/master/cli-basics/113-message.md)
+- [Unit 10: Multiplexing](https://github.com/denten/dhnotes/blob/master/cli-basics/114-multiplex.md)
+- [Unit 11: Text Manipulation](https://github.com/denten/dhnotes/blob/master/cli-basics/109-text.md)
+- [Unit 12: Scripting](https://github.com/denten/dhnotes/blob/master/cli-basics/110-script.md)
+- [Unit 13: Scheduling](https://github.com/denten/dhnotes/blob/master/cli-basics/111-schedule.md)
+- [Unit 14: Package management](https://github.com/denten/dhnotes/blob/master/cli-basics/112-package.md)
 
 ## Resources
 
