@@ -22,7 +22,7 @@ netstat
 mtr
 ```
 
-Excercise: Parse the following code which mirrors a single page along with all
+**Excercise:** Parse the following code which mirrors a single page along with all
 visible dependencies (like images and styles). From [dannguyen/wget-snapshotpage.md]
 (https://gist.github.com/dannguyen/03a10e850656577cfb57).
 
