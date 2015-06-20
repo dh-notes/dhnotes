@@ -34,3 +34,9 @@ history | tail -5
 history | tail -5 >> history-dump.txt
 wc -l < history-dump.txt >
 ```
+```
+# somewhat more advanced
+# how to sudo a file with tee pipe fit
+# tee -a appends
+echo "change stuff" | sudo tee -a donottouch.txt
+```
