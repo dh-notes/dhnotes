@@ -1,5 +1,0 @@
-```
-screen
-tmux
-tmate
-```
