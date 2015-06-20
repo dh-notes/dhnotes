@@ -1,12 +1,12 @@
 ---
 tutorial: "Command Line Fundamentals"
-section: "Unit 10: Scripting"
+section: "Unit 12: Shell Scripting"
 author: Dennis Tenen
 update: "5/29/15"
 
 ---
 
-## Unit 10: Scripting
+## Unit 10: Shell Scripting
 
 TBA
 
