@@ -1,5 +1,5 @@
 ---
-tutorial: "Command Line Basics"
+tutorial: "Command Line Fundamentals"
 section: "Unit 9: Text Manipulation"
 author: Dennis Tenen
 update: "5/29/15"

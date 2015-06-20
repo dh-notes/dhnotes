@@ -1,5 +1,5 @@
 ---
-tutorial: "Command Line Basics"
+tutorial: "Command Line Fundamentals"
 section: "Unit 10: Scripting"
 author: Dennis Tenen
 update: "5/29/15"

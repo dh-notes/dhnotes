@@ -1,3 +1,11 @@
+---
+tutorial: "Command Line Fundamentals"
+section: "Unit 9: Messaging"
+author: Dennis Tenen
+update: "5/29/15"
+
+---
+
 ```
 wall
 say

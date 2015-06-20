@@ -1,5 +1,5 @@
 ---
-tutorial: "Command Line Basics"
+tutorial: "Command Line Fundamentals"
 section: "Unit 3: Permissions"
 author: Dennis Tenen
 update: "5/29/15"
