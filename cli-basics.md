@@ -42,7 +42,7 @@ by Bash without modification.<sup>1</sup>
 - [Unit 12: Scripting](https://github.com/denten/dhnotes/blob/master/cli-basics/110-script.md)
 - [Unit 13: Scheduling](https://github.com/denten/dhnotes/blob/master/cli-basics/111-schedule.md)
 - [Unit 14: Package management](https://github.com/denten/dhnotes/blob/master/cli-basics/112-package.md)
-- [Unit 15: Debugging](https://github.com/denten/dhnotes/blob/master/cli-basics/114-debug.md)
+- [Unit 15: Debugging](https://github.com/denten/dhnotes/blob/master/cli-basics/115-debug.md)
 
 ## Resources
 
