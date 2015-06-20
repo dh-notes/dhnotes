@@ -1,6 +1,6 @@
 ---
 tutorial: "Command Line Fundamentals"
-section: "Unit 12: Package management"
+section: "Unit 14: Package management"
 author: Dennis Tenen
 update: "5/29/15"
 
