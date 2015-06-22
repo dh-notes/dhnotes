@@ -6,9 +6,17 @@ update: "5/29/15"
 
 ---
 
-## Unit 11: Scheduling
+## Unit 14: Scheduling
 
 ```
 cron
 crontab
+```
+
+```
+# Crontab log
+/var/log/syslog
+
+# To check error messages
+cat /var/spool/mail/user-name
 ```
