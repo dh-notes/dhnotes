@@ -1,6 +1,6 @@
 ---
 tutorial: "Command Line Fundamentals"
-section: "Unit 15: Debugging"
+section: "Unit 16: Debugging"
 author: Dennis Tenen
 update: "6/19/15"
 ---

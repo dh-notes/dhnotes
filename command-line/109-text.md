@@ -1,6 +1,6 @@
 ---
 tutorial: "Command Line Fundamentals"
-section: "Unit 11: Text Manipulation"
+section: "Unit 12: Text Manipulation"
 author: Dennis Tenen
 update: "5/29/15"
 

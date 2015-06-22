@@ -1,6 +1,6 @@
 ---
 tutorial: "Command Line Fundamentals"
-section: "Unit 12: Shell Scripting"
+section: "Unit 13: Shell Scripting"
 author: Dennis Tenen
 update: "5/29/15"
 
