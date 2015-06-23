@@ -9,5 +9,9 @@ update: "6/19/15"
 Koalaman.
 
 ```
+bash -x my_prog.sh
+
 shellcheck
 ```
+
+**Explore**: [Defensive BASH Programming](http://web.archive.org/web/20150623032341/http://www.kfirlavi.com/blog/2012/11/14/defensive-bash-programming/)
