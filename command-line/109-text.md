@@ -82,3 +82,5 @@ man wc
 (Linux)  
 `    cat file.txt | sed 's/[[:space:]]/\'$'\n/g' | sort | uniq -c | sort -k1 >
 file_wc.txt` (Mac)
+
+**Explore:** [My Advisor Rewrote Himself in Bash](http://web.archive.org/web/20150623031217/http://matt.might.net/articles/shell-scripts-for-passive-voice-weasel-words-duplicates/)
