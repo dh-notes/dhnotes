@@ -10,3 +10,5 @@ update: "5/29/15"
 
 TBA
 
+**Explore:**
+- [Writing Robust Bash Shell Scripts](http://web.archive.org/web/20150623044220/http://www.davidpashley.com/articles/writing-robust-shell-scripts/) by David Pashley
