@@ -9,11 +9,15 @@ update: "5/29/15"
 ## Unit 14: Scheduling
 
 ```
-cron
-crontab
+man cron
+man crontab
+man anacron
+man anacrontab
 ```
 
 ```
+crontab -e
+
 # Crontab log
 /var/log/syslog
 
