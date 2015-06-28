@@ -21,6 +21,9 @@ tail filename
 man rename
 split
 file
+
+man df
+df -h
 ```
 
 ![Anatomy of a UNIX Command.](../images/cmd-anatomy.jpg)
