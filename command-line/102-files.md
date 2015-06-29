@@ -19,11 +19,16 @@ cat filename
 head filename
 tail filename
 man rename
-split
-file
+man split
+man file
 
 man df
 df -h
+
+cat mypaper.doxc
+
+# explore one of your word files
+unzip -qc mypaper.docx > mypaper.xml
 ```
 
 ![Anatomy of a UNIX Command.](../images/cmd-anatomy.jpg)
