@@ -37,6 +37,7 @@ control structures + data types + built-in functions + syntax + interpreter
 ## Resources
 
 - [Python Documentation](https://www.python.org/doc/)
+- [Python Programming for the Humanities](http://fbkarsdorp.github.io/python-course/)
 - [Learn Python the Hard Way](http://learnpythonthehardway.org/book/index.html)
 - [Think Python](http://www.greenteapress.com/thinkpython/html/index.html)
 - [Python NLTK](http://www.nltk.org/)
