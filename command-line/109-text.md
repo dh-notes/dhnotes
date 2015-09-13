@@ -18,7 +18,8 @@ strings
 ### Popping the hood
 
 ```
-wget link/moby.pdf (use curl on macs)
+wget http://link/moby.pdf OR
+curl -O link/moby.pdf
 pdftotext moby.txt``
 cat moby.txt
 cat moby.pdf
