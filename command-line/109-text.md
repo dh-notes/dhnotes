@@ -59,29 +59,53 @@ man wc
 `    sort fruits.txt > sorted-fruits.txt`  
 `    uniq -c sorted-fruits.txt`  
 
-### Rewriting *Moby Dick*  
+### Counting Whales 
 
-> dataflow programming, bag of words, stop words
+> dataflow programming, bag of words, tokens vs. types
 
-1. find the whale  
-`    grep "whale" moby.txt`
+```
+# make a project directory where we experiment
+mkdir hunting-whale
 
-2. substitute whale for chicken globally  
-`    cat moby.txt | sed 's/whale/chicken/g' > chicken.txt`
+# cd into the directory
+cd hunting-whale
 
-3. find the remaining whales  
-`    grep "Whale" chicken.txt`
+# let's grab moby dick (or use another novel"
+# make sure it is in plain text!
+# the angle bracket is a redirect into a file
+curl http://www.textfiles.com/etext/FICTION/melville-moby-106.txt > moby.txt
 
-4. remove punctuation  
-`    cat file.txt | tr -d "[:punct:]" > moby-nopunct.txt`
+# let's peek inside
+cat moby.txt
 
-5. translate all upper case into lower  
-`    cat moby-nopunct.txt | tr '[:upper:]' '[:lower:]' > moby-clean.txt`
+# find the whale
+grep "whale" moby.txt
 
-6. sort by word frequency  
-`    cat moby-clean.txt | sed 's/\s/\n/g' | sort | uniq -c | sort -hr > test.txt`
+# substitute whale for chicken globally
+cat moby.txt | sed 's/whale/chicken/g' > chicken.txt
+
+# see what happened to the whales
+grep "chicken" chicken.txt
+
+# remove punctuation.
+cat moby.txt | tr -d "[:punct:]" > moby-nopunct.txt
+
+# check if it worked
+tail moby-nopunct.txt
+
+# translate all upper case into lower
+cat moby-nopunct.txt | tr '[:upper:]' '[:lower:]' > moby-clean.txt
+tail moby-clean.txt
+
+# sort by word frequency (Mac)
+cat moby-clean.txt | sed 's/[[:space:]]/\'$'\n/g' | sort | uniq -c | sort -gr -k1 > word-count.txt
+
+# sort by word frequency (Linux)
+cat moby-clean.txt | sed 's/\s/\n/g' | sort | uniq -c | sort -hr > test.txt`
 (Linux)  
-`    cat moby-clean.txt | sed 's/[[:space:]]/\'$'\n/g' | sort | uniq -c | sort -k1 >
-file_wc.txt` (Mac)
+
+# see what we did there
+head word-count.txt
+```
 
 **Explore:** [My Advisor Rewrote Himself in Bash](http://web.archive.org/web/20150623031217/http://matt.might.net/articles/shell-scripts-for-passive-voice-weasel-words-duplicates/)
