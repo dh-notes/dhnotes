@@ -59,7 +59,7 @@ man wc
 `    sort fruits.txt > sorted-fruits.txt`  
 `    uniq -c sorted-fruits.txt`  
 
-### Counting Whales 
+### Hunting the Whale 
 
 > dataflow programming, bag of words, tokens vs. types
 
