@@ -1,10 +1,11 @@
 # Strings
 
 ## Hunting the Whale
+<sup>†</sup><sub>Mimics a [similar excercise](https://github.com/xpmethod/dhnotes/blob/master/command-line/109-text.md#hunting-the-whale) in the command line tutorial</sub>
+
 
 ```
 # open file and read contents into a list of lines
-# mimics the shell behavior in the previous example
 with open('moby.txt', 'r') as f:
     lines = f.read().splitlines()
 ```
