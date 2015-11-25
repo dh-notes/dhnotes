@@ -62,7 +62,7 @@ man wc
 
 > dataflow programming, bag of words, tokens vs. types
 
-```
+```bash
 # make a project directory where we experiment
 mkdir hunting-whale
 
@@ -101,6 +101,16 @@ cat moby-clean.txt | tr ' ' '\n' | sort | uniq -c | sort -hr > word-count.txt`
 
 # see what we did there
 head word-count.txt
+
+# explore the word frequency list
+# what rank does the word "whale" have? 
+
+grep -nw whale word-count.txt
+
+# what respective ranks do gendered pronouns have? 
+
+grep -nw he word-count.txt
+grep -nw she word-count.txt
 ```
 
 **Explore:** [My Advisor Rewrote Himself in Bash](http://web.archive.org/web/20150623031217/http://matt.might.net/articles/shell-scripts-for-passive-voice-weasel-words-duplicates/)
