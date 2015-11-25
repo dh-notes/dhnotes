@@ -97,7 +97,7 @@ cat moby-nopunct.txt | tr '[:upper:]' '[:lower:]' > moby-clean.txt
 tail moby-clean.txt
 
 # sort by word frequency
-cat moby-clean.txt | tr ' ' '\n' | sort | uniq -c | sort -hr > test.txt`
+cat moby-clean.txt | tr ' ' '\n' | sort | uniq -c | sort -hr > word-count.txt`
 
 # see what we did there
 head word-count.txt
