@@ -45,8 +45,7 @@ man wc
 `    echo "banana" >> fruit.txt`
 
 3. substitute space for newlines  
-`    sed 's/\s/\n/g'` (Linux)  
-`    sed 's/[[:space:]]/\'$'\n/g' fruits.txt` (Mac)  
+`    cat fruit.txt | tr ' ' '\n'`
 
 4. remove bad fruit  
 `    echo "nectarine" > bad-fruit.txt`  
@@ -97,12 +96,8 @@ tail moby-nopunct.txt
 cat moby-nopunct.txt | tr '[:upper:]' '[:lower:]' > moby-clean.txt
 tail moby-clean.txt
 
-# sort by word frequency (Mac)
-cat moby-clean.txt | sed 's/[[:space:]]/\'$'\n/g' | sort | uniq -c | sort -gr -k1 > word-count.txt
-
-# sort by word frequency (Linux)
-cat moby-clean.txt | sed 's/\s/\n/g' | sort | uniq -c | sort -hr > test.txt`
-(Linux)  
+# sort by word frequency
+cat moby-clean.txt | tr ' ' '\n' | sort | uniq -c | sort -hr > test.txt`
 
 # see what we did there
 head word-count.txt
