@@ -108,4 +108,14 @@ cat moby-clean.txt | sed 's/\s/\n/g' | sort | uniq -c | sort -hr > test.txt`
 head word-count.txt
 ```
 
+###A Whale of a Function 
+
+Let's put this all together into a function, so we don't have to run so many commands: 
+
+`function wordfrequency { cat $1 | tr -d "[:punct:]" | tr '[:upper:]' '[:lower:]' | tr ' ' '\n' | sort | uniq -c | sort -hr }`
+
+This function allows you to run `wordfrequency moby.txt` and see a word frequency list. To scroll through it, you can pipe it through less: `wordfrequency moby.txt | less`. To write it to a file, you can run something like: `wordfrequency moby.txt > moby-wordfrequencies.txt`. 
+
+If you want to be able to save your `wordfrequency` function so that you can run it later, add the function declaration to your `.bashrc` file if you use Linux, or your `.bashprofile` file if you use MacOS. 
+
 **Explore:** [My Advisor Rewrote Himself in Bash](http://web.archive.org/web/20150623031217/http://matt.might.net/articles/shell-scripts-for-passive-voice-weasel-words-duplicates/)
