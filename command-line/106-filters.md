@@ -54,10 +54,13 @@ or find . -name "test*" -exec sed -i 's/apple/orange/g'
 ### Parse column data 
 
 ```
-echo "column1-1 column1-2 column1-3" > test.txt
-echo "column2-1 column2-2 column2-3" >> test.txt
-echo "column3-1 column3-2 column3-3" >> test.txt
+# note the two spaces to make it more challenging
+echo "column1-1  column1-2  column1-3" > test.txt
+echo "column2-1  column2-2  column2-3" >> test.txt
+echo "column3-1  column3-2  column3-3" >> test.txt
 
 cat test.txt
 cat test.txt | tr -s ' ' | cut -d' ' -f2
+
+# try it without the tr to see what happens
 ```
