@@ -59,5 +59,5 @@ echo "column2-1 column2-2 column2-3" >> test.txt
 echo "column3-1 column3-2 column3-3" >> test.txt
 
 cat test.txt
-cat test.txt tr -s ' ' | cut -d' ' -f2
+cat test.txt | tr -s ' ' | cut -d' ' -f2
 ```
