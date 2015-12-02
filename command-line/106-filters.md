@@ -50,3 +50,12 @@ cat pg2701.txt | sed 's/\s/\n/g' | sort | uniq -c | sort -hr > test.txt
 find . -name "test*" | xargs sed -i 's/apple/orange/g'
 or find . -name "test*" -exec sed -i 's/apple/orange/g'
 ```
+
+### Parse column data 
+
+'''
+echo "column1-1 column1-2 column1-3" > test.txt
+echo "column2-1 column2-2 column2-3" >> test.txt
+cat test.txt
+cat test.txt tr -s ' ' | cut -d' ' -f7
+```
