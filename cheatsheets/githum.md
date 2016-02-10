@@ -2,7 +2,7 @@
 title: Git Cheatsheet
 ---
 
-### TLDR
+### Basic Workflow
 `pull or init > (add / rm / modify) > commit > push`
 
 [Version Control for the Humanities with Git Workshop](https://github.com/xpmethod-workshops/githum)
