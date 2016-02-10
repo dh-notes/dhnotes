@@ -3,8 +3,9 @@ title: Git Cheatsheet
 ---
 
 ### TLDR
-|pull or init > (add / rm / modify) > commit > push|
----------------------
+`pull or init > (add / rm / modify) > commit > push`
+
+[Version Control for the Humanities with Git Workshop](https://github.com/xpmethod-workshops/githum)
 
 ### Starting a New Project
 1. `git init` to start watching the current directory  
