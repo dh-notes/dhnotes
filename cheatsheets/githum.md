@@ -6,18 +6,6 @@ title: Git Cheatsheet
 |pull or init > (add / rm / modify) > commit > push|
 ---------------------
 
-### Why Git and Github?
-
-- powerful
-- universal
-- enables collaboration
-- critical mass
-- journaling (lab notebook)
-- publishing platform
-- API for data feeds
-- project management tools
-- ethical labor practices (fixed attribution)
-
 ### Starting a New Project
 1. `git init` to start watching the current directory  
 2. `git add foo.txt` to stage the file  
@@ -161,6 +149,4 @@ directory.
 - run `git config --global merge.tool p4merge` to set your default merge tool
 - `git mergetool` after "unable to merge" errors
 
-### Resources
-- http://git-scm.com/book
 
