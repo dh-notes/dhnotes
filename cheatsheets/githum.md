@@ -1,11 +1,11 @@
 ---
 title: Git Cheatsheet
 ---
+[Version Control for the Humanities with Git Workshop](https://github.com/xpmethod-workshops/githum)
 
 ### Basic Workflow
 `pull or init > (add / rm / modify) > commit > push`
 
-[Version Control for the Humanities with Git Workshop](https://github.com/xpmethod-workshops/githum)
 
 ### Starting a New Project
 1. `git init` to start watching the current directory  
