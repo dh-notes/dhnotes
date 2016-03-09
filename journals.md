@@ -696,7 +696,7 @@ features “the Tank,” a forum for comment on provocative new scholarly work.
 ## P
 
 [**Philological
-Encounters**](http://booksandjournals.brillonline.com/content/journals/24519197)
+Encounters**](http://www.brill.com/products/journal/philological-encounters)
 is a double-blind peer-reviewed journal dedicated to the historical and
 philosophical critique of philology. The journal encourages critical and
 comparative perspectives that integrate textual scholarship and the study of
