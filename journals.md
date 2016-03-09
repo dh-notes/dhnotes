@@ -56,6 +56,15 @@ culture, publishing articles, interviews, book reviews and "event-scenes." It
 is edited by Arthur and Marilouise Kroker. The journal is published by the
 University of Victoria, BC, Canada. 
 
+[**Catalyst: Feminism, Theory, and
+Technoscience**](http://catalystjournal.org/ojs/index.php/catalyst/index)
+serves the expanding interdisciplinary field of feminist science and
+technology studies (STS) by supporting theoretically inventive and
+methodologically creative scholarship incorporating approaches from critical
+public health, disability studies, postcolonial studies, queer theory,
+sci-art, technology and digital media studies, history and philosophy of
+science and medicine.
+
 \*[**Computational Culture**](http://computationalculture.net/) is an online
 open-access peer-reviewed journal of  inter-disciplinary enquiry into the
 nature of cultural computational objects, practices, processes and structures.
@@ -685,6 +694,25 @@ features “the Tank,” a forum for comment on provocative new scholarly work.
 \*[**Open Library of the Humanities**](https://www.openlibhums.org/) is a trans-disciplinary open-access journal with no author fees, professional digital preservation, DOIs and Committee on Publication Ethics-approved peer-review practices.
 
 ## P
+
+[**Philological
+Encounters**](http://booksandjournals.brillonline.com/content/journals/24519197)
+is a double-blind peer-reviewed journal dedicated to the historical and
+philosophical critique of philology. The journal encourages critical and
+comparative perspectives that integrate textual scholarship and the study of
+language from across the world. Alongside four issues a year, monographs and/
+or collected volumes will occasionally be published as supplements to the
+journal. The journal is open to contributions in all fields studying the
+history of textual practices, hermeneutics and philology, philological
+controversies, and the intellectual and global history of writing, archiving,
+tradition-making and publishing. Neither confined to any discipline nor bound
+by any geographical or temporal limits, Philological Encounters takes as its
+point of departure the growing concern with the global significance of
+philology and the potential of historically conscious and politically critical
+philology to challenge exclusivist notions of the self and the canon.
+Philological Encounters welcomes innovative and critical contributions in the
+form of articles as well as review articles, usually of two or three related
+books, and preferably from different disciplines.
 
 [**Philosophy and
 Technology**](http://www.springer.com/philosophy/epistemology+and+philosophy+of+science/journal/13347)
