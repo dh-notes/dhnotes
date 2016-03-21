@@ -2,7 +2,7 @@
 
 - [Agile Humanities Agency](https://github.com/agile-humanities)
 - [Performant Software](http://www.performantsoftware.com/)
-- <http://manufacturaindependente.org/>
-- <http://www.miguelripoll.com/>
-- <http://positionstudios.com/>
-- <http://www.projectprojects.com/>
+- [Miguel Ripoll](http://www.miguelripoll.com/)
+- [Manufactura independente](http://manufacturaindependente.org/)
+- [Position studios](http://positionstudios.com/)
+- [Project projects](http://www.projectprojects.com/)
