@@ -1,6 +1,7 @@
 # DH- and New Media-friendly Journals*  
 *Indicates open access 
 
+## Directory 
 [A](#a) | [B](#b) | [C](#c) | [D](#d) | [E](#e) | [F](#f) |
 [G](#g) | [H](#h) | [I](#i) | [J](#j) | [K](#k) | [L](#l) |
 [M](#m) | [N](#n) | [O](#o) | [P](#p) | Q | [R](#r) |
@@ -37,7 +38,9 @@ unrestricted by national, ethnic, religious, or gender borders and boundaries,
 and is committed to exploring the full cultural and geographic diversity, as
 well as the creative and conceptual rigor, of the contemporary arts.
 
-## B
+[[top]](#directory)
+
+## B 
 
 \*[**Big Data & Society**](http://bds.sagepub.com/) is an open access
 peer-reviewed scholarly journal that publishes interdisciplinary work
@@ -47,6 +50,8 @@ Data for societies. The Journal's key purpose is to provide a space for
 connecting debates about the emerging field of Big Data practices and how they
 are reconfiguring academic, social, industry, business and government
 relations, expertise, methods, concepts and knowledge.
+
+[[top]](#directory)
 
 ## C
 
@@ -112,6 +117,8 @@ Journal has followed the trend of social networking and virtual reality for the
 past 15 years. It is known for its rapid communication articles and in-depth
 studies surrounding the  effects of interactive technologies on behavior and
 society, both positive and negative.
+
+[[top]](#directory)
 
 ## D
 
@@ -230,6 +237,8 @@ on the one hand, and social, political or cultural  micro- and macrostructures
 and cognitive social representations, on the other. It is edited by Teun A. van
 Dijk.
 
+[[top]](#directory)
+
 ## E
 
 [**Enculturation**](http://www.enculturation.net/) is a refereed journal devoted to contemporary theories of rhetoric, writing, and culture. We accept academic work in all media forms suitable for web-based publication, including conventional articles, videos, and multimedia projects. Submitted articles and projects are blind-reviewed and considered for publication on the understanding that they are not under consideration elsewhere. Traditional articles should be approximately 5000-7000 words long and reviews should be approximately 1000-2000 words. We also welcome submissions to our Responses section, which invites projects and essays that take up events, controversies, topics, themes, terms, and ideas. Responses are scholarly works that are theoretically informed but publicly accessible for wide audiences in a wide variety of media.
@@ -265,6 +274,8 @@ journal aims to foster and promote reflection and analysis which is intended to
 make a constructive contribution to answering the ethical, social and political
 questions associated with the adoption, use, and development of ICT.
 
+[[top]](#directory)
+
 ## F
 
 \*[**The Fibreculture Journal**](http://fibreculturejournal.org/) is a peer
@@ -297,6 +308,8 @@ procedure, if unable to be published in a normal way, can be deposited as
 supplementary material -   we also accept manuscripts communicating to a
 broader audience with regard to research projects financed with public funds.
 
+[[top]](#directory)
+
 ## G
 
 [**Game Studies**](http://gamestudies.org/1103) explores the rich cultural
@@ -316,6 +329,8 @@ appeals to a wide range of readers, including architects, artists, scholars,
 students, and critics. Zeynep Çelik Alexander, Lucia Allais, Eric C.H. de
 Bruyn, Gabriella Coleman, Noam M. Elcott, John Harwood, Matthew C. Hunter,
 Editors. 
+
+[[top]](#directory)
 
 ## H
 
@@ -377,6 +392,8 @@ and digital inquiry.
 
 \*[**Hyperrhiz**](http://hyperrhiz.io/) is an open access publication produced twice-yearly along with our parent journal Rhizomes: Cultural Studies in Emerging Knowledge and our monograph series project Electric Press. We welcome submissions of net art, new media scholarship and criticism, and reviews of media-related books or blogs. For submission criteria, please read our latest call for papers and our guidelines for submissions.
 
+[[top]](#directory)
+
 ## I
 
 [**Information & Culture: A Journal of
@@ -417,6 +434,8 @@ world. The International Journal of Communication is an interdisciplinary
 journal that, while centered in communication, is open and welcoming to
 contributions from the many disciplines and approaches that meet at the
 crossroads that is communication study. We encourage readers to REGISTER now. 
+
+[[top]](#directory)
 
 ## J
 
@@ -553,6 +572,8 @@ that illustrate applications in the Cultural Heritage sector that challenge the
 computational technologies and suggest new research opportunities in computer
 science. JOCCH is published by the Association for Computing Machinery.
 
+[[top]](#directory)
+
 ## K
 
 [**Kairos: A Journal of Rhetoric, Technology, and
@@ -563,6 +584,8 @@ month—hailing from Ascension Island to Zimbabwe (and from every top-level
 domain country code in between); our international readership typically runs
 about 4,000 readers per month. Kairos publishes bi-annually, in August and
 January, with regular special issues in May.
+
+[[top]](#directory)
 
 ## L
 
@@ -594,6 +617,8 @@ international journal which publishes material on all aspects of  computing and
 information technology applied to literature and language  research and
 teaching. Papers include results of research projects,  description and
 evaluation of techniques and methodologies, and reports  on work in progress.
+
+[[top]](#directory)
 
 ## M
 
@@ -690,8 +715,12 @@ an online peer-reviewed quarterly journal of scholarship in the humanities,
 plus poetry, editorials, reviews, visual art and more.  nonsite.org also
 features “the Tank,” a forum for comment on provocative new scholarly work.
 
+[[top]](#directory)
+
 ## O
 \*[**Open Library of the Humanities**](https://www.openlibhums.org/) is a trans-disciplinary open-access journal with no author fees, professional digital preservation, DOIs and Committee on Publication Ethics-approved peer-review practices.
+
+[[top]](#directory)
 
 ## P
 
@@ -756,6 +785,8 @@ a programming skill or technique that they’d like to share. All of our lessons
 are peer-reviewed before they are incorporated as part of the live project to
 ensure only high quality work reaches our learners. 
 
+[[top]](#directory)
+
 ## R
 
 [**Rhetoric Review**](http://www.tandf.co.uk/journals/titles/07350198.asp) is a
@@ -786,6 +817,8 @@ only to the traditional virtues and vices of any edition, but also to the
 progressing methodology and its technical implications. Read more about RIDE in
 our editorial.
 
+[[top]](#directory)
+
 ## S
 
 \*[**Sociological Science**](http://www.sociologicalscience.com/) is an
@@ -812,6 +845,8 @@ evaluation, and world-wide web resources for social scientists.
 
 [**Sphe­res: Journal for Digital Cultures**](http://www.leuphana.de/en/research-centers/cdc/publications/spheres.html) is concerned with contemporary, historical and emerging discussions about ‘Digital Cultures’ and exploring the theoretical, political and social stakes within these debates by reassembling key concepts like public spheres, media spheres and atmospheres./*
 
+[[top]](#directory)
+
 ## T
 
 [**TEXT: An Interdisciplinary Annual of Textual
@@ -832,6 +867,8 @@ think, feel and interact with others both in a contemporary and historical
 sense. We welcome writing from the perspective of cultural theory, critical
 philosophy, aesthetics, media studies and other humanities approaches. 
 
+[[top]](#directory)
+
 ## V
 
 [**Vectors**](http://www.vectorsjournal.org/issues/index.php) maps the multiple
@@ -843,3 +880,5 @@ issues of  globalization, mobility, power, and access. Operating at the
 intersection of culture, creativity, and technology, the journal focuses  on
 the myriad ways technology shapes, transforms, reconfigures, and/or  impedes
 social relations, both in the past and in the present.
+
+[[top]](#directory)
