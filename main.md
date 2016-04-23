@@ -24,11 +24,8 @@
 
 > **Tools**
 
-- [Common Linux Tools | Linux-Alternatives](https://github.com/dh-notes/dhnotes/blob/master/pages/linux-tools.md)
-- [[Gephi | Gephi]]
-- [[MongoDB to NLTK | MongoDB-to-NLTK ]]
-- [[Sci2 | Sci2]]
-- [[Tmux | Tmux]]
+- [Common Linux Tools](https://github.com/dh-notes/dhnotes/blob/master/pages/linux-tools.md)
+- [Tmux Shared Session](https://github.com/dh-notes/dhnotes/blob/master/pages/tmux-wemux-cheat.md)
 
 > **Cloud Computing**
 
