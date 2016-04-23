@@ -7,7 +7,7 @@
 
 - **[Conferences](https://github.com/dh-notes/dhnotes/blob/master/pages/conferences.md)**
 - **[Peer Review and T&P Guidelines](https://github.com/dh-notes/dhnotes/blob/master/pages/evaluating-digital-work.md)**
-- **[DH- and New Media-friendly Journals](https://github.com/xpmethod/dhnotes/blob/master/journals.md)**
+- **[DH- and New Media-friendly Journals](https://github.com/xpmethod/dhnotes/blob/master/pages/journals.md)**
 - [Funding](https://github.com/achorg/dhfunding/blob/gh-pages/index.md)
 
 > **Tutorials**
@@ -44,6 +44,6 @@ Servers](https://github.com/dh-notes/dhnotes/blob/master/tutorials/command-line/
 
 > **Misc**
 
-- [Friendly Design + Development Studios](https://github.com/xpmethod/dhnotes/blob/master/design.md)
+- [Friendly Design + Development Studios](https://github.com/xpmethod/dhnotes/blob/master/pages/design.md)
 - [Linux on ChromeOS with Crouton](https://github.com/dh-notes/dhnotes/blob/master/pages/chromeos-crouton.md)
 - [VPN for Linux at Columbia](https://github.com/dh-notes/dhnotes/blob/master/pages/columbia-linux-vpn.md)
