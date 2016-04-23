@@ -37,8 +37,8 @@ Servers](https://github.com/dh-notes/dhnotes/blob/master/tutorials/command-line/
 
 > **Collections & Datasets**
 
-- [[Electronic Libraries | Electronic-Libraries]]
-- [[Corpora & Datasets | Datasets]]
+- [Online Archives](https://github.com/dh-notes/dhnotes/blob/master/pages/online-archives.md)
+- [Corpora & Datasets](https://github.com/dh-notes/dhnotes/blob/master/pages/datasets.md)
 
 > **Misc**
 
