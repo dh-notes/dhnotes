@@ -1,13 +1,13 @@
 ## DH Notes<sup>†</sup><sup>
 <sup>† Bold titles indicate substantially complete resources.</sup>  
 
-> These documents contain the working notes, tutorials, manuals, and other "local knowledge" materials from [Columbia's Group for Experimental Methods in the Humanities](http://xpmethod.plaintext.in/).
+*These documents contain the working notes, tutorials, manuals, and other "local knowledge" materials from [Columbia's Group for Experimental Methods in the Humanities](http://xpmethod.plaintext.in/).*
 
 > **Funding, Journals, Review and Conferences**
 
 - **[Conferences](https://github.com/dh-notes/dhnotes/blob/master/pages/conferences.md)**
 - **[Peer Review and T&P Guidelines](https://github.com/dh-notes/dhnotes/blob/master/pages/evaluating-digital-work.md)**
-- **[DH- and New Media-friendly Journals](https://github.com/xpmethod/dhnotes/blob/master/journals.md)**
+- **[DH- and New Media-friendly Journals](https://github.com/xpmethod/dhnotes/blob/master/pages/journals.md)**
 - [Funding](https://github.com/achorg/dhfunding/blob/gh-pages/index.md)
 
 > **Tutorials**
@@ -44,6 +44,11 @@ Servers](https://github.com/dh-notes/dhnotes/blob/master/tutorials/command-line/
 
 > **Misc**
 
-- [Friendly Design + Development Studios](https://github.com/xpmethod/dhnotes/blob/master/design.md)
+- [Friendly Design + Development Studios](https://github.com/xpmethod/dhnotes/blob/master/pages/design.md)
 - [Linux on ChromeOS with Crouton](https://github.com/dh-notes/dhnotes/blob/master/pages/chromeos-crouton.md)
 - [VPN for Linux at Columbia](https://github.com/dh-notes/dhnotes/blob/master/pages/columbia-linux-vpn.md)
+
+<hr>
+made with plain text + vim + git | 
+[cc-by](http://creativecommons.org/licenses/by/2.0/) | 
+Comments, questions, suggestions? [@denten](https://github.com/denten)
