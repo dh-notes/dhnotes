@@ -33,7 +33,7 @@
 - **[Copying Files Between
 Servers](https://github.com/denten/dhnotes/blob/master/command-line/116-moving-data.md)**
 - [[Launching an AWS Instance | Launching-an-AWS-Instance]]
-- [[Working with AWS Elastic Blocks | Working-with-AWS-Elastic-Blocks]]
+- [AWS Elastic Blocks](https://github.com/dh-notes/dhnotes/blob/master/pages/aws-elastic-blocks.md)
 
 > **Collections & Datasets**
 
