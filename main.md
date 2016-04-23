@@ -7,9 +7,7 @@
 - **[Conferences](https://github.com/dh-notes/dhnotes/blob/master/pages/conferences.md)**
 - **[Peer Review and T&P Guidelines](https://github.com/dh-notes/dhnotes/blob/master/pages/evaluating-digital-work.md)**
 - **[DH- and New Media-friendly Journals](https://github.com/xpmethod/dhnotes/blob/master/journals.md)**
-- [Postdocs](https://github.com/dh-notes/dhnotes/blob/master/pages/postdocs.md)
-- [[Junior Faculty Funding | Junior-faculty-funding]]
-- [Funding Opportunities](https://github.com/achorg/dhfunding/blob/gh-pages/index.md)
+- [Funding](https://github.com/achorg/dhfunding/blob/gh-pages/index.md)
 
 > **Tutorials**
 
