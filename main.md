@@ -43,6 +43,5 @@ Servers](https://github.com/dh-notes/dhnotes/blob/master/tutorials/command-line/
 > **Misc**
 
 - [Friendly Design + Development Studios](https://github.com/xpmethod/dhnotes/blob/master/design.md)
-- [[Linux on ChromeOS with Crouton | Linux-on-ChromeOS-with-Crouton]]
-- [[VPN for Linux at Columbia | VPN-for-Linux-at-Columbia]]
-- **[[Wordnet | Wordnet]]**
+- [Linux on ChromeOS with Crouton](https://github.com/dh-notes/dhnotes/blob/master/pages/chromeos-crouton.md)
+- [VPN for Linux at Columbia](https://github.com/dh-notes/dhnotes/blob/master/pages/columbia-linux-vpn.md)
