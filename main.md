@@ -29,10 +29,10 @@
 
 > **System Administration**
 
-- **[Automate Backups to AWS S3 with Cron](https://github.com/dh-notes/dhnotes/blob/master/pages/s3-backup.md)**
+- **[Automate Backups to AWS S3 with Cron](https://github.com/dh-notes/dhnotes/blob/master/pages/aws-s3-backup.md)**
 - **[Copying Files Between
 Servers](https://github.com/denten/dhnotes/blob/master/command-line/116-moving-data.md)**
-- [[Launching an AWS Instance | Launching-an-AWS-Instance]]
+- [AWS Instances](https://github.com/dh-notes/dhnotes/wiki/Launching-an-AWS-instance/_edit)
 - [AWS Elastic Blocks](https://github.com/dh-notes/dhnotes/blob/master/pages/aws-elastic-blocks.md)
 
 > **Collections & Datasets**
