@@ -31,7 +31,7 @@
 
 - **[Automate Backups to AWS S3 with Cron](https://github.com/dh-notes/dhnotes/blob/master/pages/aws-s3-backup.md)**
 - **[Copying Files Between
-Servers]https://github.com/dh-notes/dhnotes/blob/master/tutorials/command-line/116-moving-data.md)**
+Servers](https://github.com/dh-notes/dhnotes/blob/master/tutorials/command-line/116-moving-data.md)**
 - [AWS Instances](https://github.com/dh-notes/dhnotes/wiki/Launching-an-AWS-instance/_edit)
 - [AWS Elastic Blocks](https://github.com/dh-notes/dhnotes/blob/master/pages/aws-elastic-blocks.md)
 
