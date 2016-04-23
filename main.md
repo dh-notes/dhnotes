@@ -5,7 +5,7 @@
 > **Funding, Journals, Review and Conferences**
 
 - **[Conferences](https://github.com/dh-notes/dhnotes/blob/master/pages/conferences.md)**
-- **[[ Peer Review and T&P Guidelines | Peer Review and T&P Guidelines]]**
+- **[Peer Review and T&P Guidelines](https://github.com/dh-notes/dhnotes/blob/master/pages/evaluating-digital-work.md)**
 - **[DH- and New Media-friendly Journals](https://github.com/xpmethod/dhnotes/blob/master/journals.md)**
 - [[Postdocs | Postdocs]]
 - [[Junior Faculty Funding | Junior-faculty-funding]]
