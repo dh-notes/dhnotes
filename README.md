@@ -1,6 +1,8 @@
 ## DH Notes<sup>†</sup><sup>
 <sup>† Bold titles indicate substantially complete resources.</sup>  
 
+> These documents contain the working notes, tutorials, manuals, and other "local knowledge" materials from [Columbia's Group for Experimental Methods in the Humanities](http://xpmethod.plaintext.in/).
+
 > **Funding, Journals, Review and Conferences**
 
 - **[Conferences](https://github.com/dh-notes/dhnotes/blob/master/pages/conferences.md)**
