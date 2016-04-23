@@ -49,6 +49,6 @@ Servers](https://github.com/dh-notes/dhnotes/blob/master/tutorials/command-line/
 - [VPN for Linux at Columbia](https://github.com/dh-notes/dhnotes/blob/master/pages/columbia-linux-vpn.md)
 
 <hr>
-<sup>made with plain text + vim + git | 
+made with plain text + vim + git | 
 [cc-by](http://creativecommons.org/licenses/by/2.0/) | 
-Comments, questions, suggestions? [@denten](https://github.com/denten)</sup>
+Comments, questions, suggestions? [@denten](https://github.com/denten)
