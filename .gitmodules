@@ -1,4 +1,0 @@
-[submodule "dhnotes.wiki"]
-	path = dhnotes.wiki
-	url = git@github.com:denten/dhnotes.wiki.git
-    branch = master
