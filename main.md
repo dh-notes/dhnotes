@@ -27,7 +27,7 @@
 - [Common Linux Tools](https://github.com/dh-notes/dhnotes/blob/master/pages/linux-tools.md)
 - [Tmux Shared Session](https://github.com/dh-notes/dhnotes/blob/master/pages/tmux-wemux-cheat.md)
 
-> **Cloud Computing**
+> **System Administration**
 
 - **[[Automate backups to AWS S3 | Backup to S3 with Cron]]**
 - **[Copying Files Between
