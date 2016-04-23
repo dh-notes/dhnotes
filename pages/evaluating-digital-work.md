@@ -1,4 +1,5 @@
 ## Peer Review Guidelines
+*Ed. Alex Gil*
 
 - [DH Commons: Review Guidelines](http://dhcommons.org/journal/review-guidelines)
 - [Institut für Dokumentologie und Editorik: Kriterien für die Besprechung digitaler Editionen, Version 1.0](http://www.i-d-e.de/publikationen/weitereschriften/kriterien-version-1-0/)
