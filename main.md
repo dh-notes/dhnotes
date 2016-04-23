@@ -24,8 +24,7 @@
 
 > **Tools**
 
-- [[Common Linux Alternatives | Linux-Alternatives]]
-- [[Windows Shell Emulators | windows-console-emulators]]
+- [Common Linux Tools | Linux-Alternatives](https://github.com/dh-notes/dhnotes/blob/master/pages/linux-tools.md)
 - [[Gephi | Gephi]]
 - [[MongoDB to NLTK | MongoDB-to-NLTK ]]
 - [[Sci2 | Sci2]]
