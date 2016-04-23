@@ -1,6 +1,5 @@
-## DH Notes<sup>†</sup><sup>,††</sup>
+## DH Notes<sup>†</sup><sup>
 <sup>† Bold titles indicate substantially complete resources.</sup>  
-<sup>†† We are slowly migrating to <https://github.com/xpmethod/dhnotes>.</sup>
 
 > **Funding, Journals, Review and Conferences**
 
