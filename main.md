@@ -29,7 +29,7 @@
 
 > **System Administration**
 
-- **[[Automate backups to AWS S3 | Backup to S3 with Cron]]**
+- **[Automate Backups to AWS S3 with Cron](https://github.com/dh-notes/dhnotes/blob/master/pages/s3-backup.md)**
 - **[Copying Files Between
 Servers](https://github.com/denten/dhnotes/blob/master/command-line/116-moving-data.md)**
 - [[Launching an AWS Instance | Launching-an-AWS-Instance]]
