@@ -14,7 +14,7 @@
 - **[Markdown + Pandoc][3]**
 - **[Python for Human(s|ists)][1]**
 - **[Version Control with Git][4]**
-- **[[ Minimal Computing | Minimal Computing ]]**
+- **[Minimal Computing](https://github.com/dh-notes/dhnotes/blob/master/pages/minimal-computing.md)**
 
 
 [1]: https://github.com/dh-notes/dhnotes/tree/master/tutorials/python
