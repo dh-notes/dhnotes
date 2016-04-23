@@ -28,6 +28,7 @@
 
 - [Common Linux Tools](https://github.com/dh-notes/dhnotes/blob/master/pages/linux-tools.md)
 - [Tmux Shared Session](https://github.com/dh-notes/dhnotes/blob/master/pages/tmux-wemux-cheat.md)
+- [Natural Language Processing Resources](https://github.com/dh-notes/dhnotes/blob/master/pages/nlp-resources.md)
 
 > **System Administration**
 
