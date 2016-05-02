@@ -39,6 +39,9 @@ One of the most significant classics collections online. The Perseus project inv
 - [**Public Data Sets on AWS**](http://aws.amazon.com/publicdatasets/)  
 Public Data Sets on AWS provides a centralized repository of public data  sets that can be seamlessly integrated into AWS cloud-based  applications. AWS is hosting the public data sets at no charge for the  community, and like all AWS services, users pay only for the compute and  storage they use for their own applications.
 
+- [**Sci-Hub download data**](http://datadryad.org/resource/doi:10.5061/dryad.q447c)
+These data include 28 million download request events from the server logs of Sci-Hub from 1 September 2015 through 29 February 2016. The uncompressed 2.7 gigabytes of data are separated into 6 data files, one for each month, in tab-delimited text format.
+
 - [**Webb Spam Corpus 2011**](http://www.cc.gatech.edu/projects/doi/WebbSpamCorpus.html)  
 Web spam is defined as Web pages that are created to manipulate search engines and deceive Web users. As such, Web spam is regarded as one of the most important challenges currently facing search engines and Web users, and recent studies suggest that it accounts for a significant portion of all Web content. Although the problems associated with Web spam have been widely acknowledged, research efforts have been somewhat limited by the lack of a publicly available Web spam data set. To help combat this situation, the Webb Spam Corpus was created. The Webb Spam Corpus 2011 was collected by De Wang (original Webb Spam Corpus collected by Steve Webb) as part of the Denial of Information Project at the Georgia Institute of Technology. It is a first-of-its-kind, large-scale, and publicly available Web spam data set that was created using a novel, fully automated Web spam collection method. The corpus consists of nearly 350,000 Web spam pages, making it more than two orders of magnitude larger than any other previously cited Web spam data set. 
 
