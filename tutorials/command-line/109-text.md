@@ -1,12 +1,12 @@
 ---
 tutorial: "Command Line Fundamentals"
-section: "Unit 12: Text Manipulation"
+section: "Text Manipulation"
 author: Dennis Tenen
 update: "5/29/15"
 
 ---
 
-## Unit 9: Text manipulation
+## Text manipulation
 
 ```
 cut
