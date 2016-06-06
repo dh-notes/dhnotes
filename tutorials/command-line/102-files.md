@@ -1,11 +1,11 @@
----
-tutorial: "Command Line Fundamentals"
-section: "Unit 2: Files and folders"
-author: Dennis Tenen
-update: "5/29/15"
----
+# Files, Paths, & Folders
 
-## Unit 2: Files, Paths, & Folders
+![Anatomy of a UNIX Command.](http://sc.tamu.edu/help/general/unix/cmd-anatomy.jpg)
+
+> *Figure 1* Anatomy of a UNIX Command. Via
+[Texas A\&M High Performance Research Computing](http://web.archive.org/web/20150529023907/http://sc.tamu.edu/help/general/unix/unix.html)
+
+## Follow Along
 
 ```
 man man
@@ -27,14 +27,27 @@ df -h
 
 cat mypaper.doxc
 
+```
+
+## Your Turn
+
+```
+# Create three directories
+
+# Download several files into them
+
+# rename the files
+
+# see what happens when you move one file into the other
+
+```
+
+**Bonus!**  
+
+```
 # explore one of your word files
 unzip -qc mypaper.docx > mypaper.xml
 ```
-
-![Anatomy of a UNIX Command.](http://sc.tamu.edu/help/general/unix/cmd-anatomy.jpg)
-
-> *Figure 1* Anatomy of a UNIX Command. Via
-[Texas A\&M High Performance Research Computing](http://web.archive.org/web/20150529023907/http://sc.tamu.edu/help/general/unix/unix.html)
 
 **Notes**: File names are case sensitive. Think of the syntax as "verb, adverb,
 object noun". What separates these? Blank space. What happens to blank space in
