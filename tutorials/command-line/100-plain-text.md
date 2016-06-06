@@ -7,11 +7,13 @@ mkdir test/
 cd test
 
 echo "hello world" > hello.txt
+cat hello.txt
 wc -c hello.txt
 
 # open Microsoft Word
 # type hello world
 # save file to your test folder as hello.docx
+cat hello.docx
 wc -c hello.docx
 
 # What other information accounts for the disparity between hello.txt and hello.docx?
@@ -29,3 +31,8 @@ wc -c hello.docx
 ---
 
 ![ASCII](https://raw.githubusercontent.com/dh-notes/dhnotes/master/images/ascii.jpg)
+## Your Turn
+
+- Find three different types of files online
+- Download to your `test/` directory
+- use `cat` to peak inside
