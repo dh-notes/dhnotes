@@ -10,7 +10,7 @@
 ```
 man man
 mkdir
-touch filename
+base64 /dev/urandom | head -c 10000000 > file.txt
 cp oldpath/oldfile newpath/newfile
 mv oldpath/file newpath/file
 rm -i path/filname
