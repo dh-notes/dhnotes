@@ -21,4 +21,11 @@ wc -c hello.docx
 
 
 ![Morse Code](https://beckchris.files.wordpress.com/2013/11/americanmorsechart.jpg)
+
+---
+
 ![Baudot Tape](http://www.clivemaxfield.com/diycalculator/imgs/qkbd-fig3.gif)
+
+---
+
+![ASCII](https://raw.githubusercontent.com/dh-notes/dhnotes/master/images/ascii.jpg)
