@@ -5,7 +5,7 @@ author: Dennis Tenen
 update: "5/29/15"
 ---
 
-## Unit 2: Files and folders
+## Unit 2: Files, Paths, & Folders
 
 ```
 man man
