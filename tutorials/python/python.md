@@ -7,7 +7,7 @@ update: "5/29/15"
 
 ## What is a programming language?
 
-control structures + data types + built-in functions + syntax + interpreter
+control structures + data types + standard library + syntax + interpreter
 
 ## Why Python
 
