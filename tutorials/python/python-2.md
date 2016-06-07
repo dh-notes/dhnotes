@@ -1,8 +1,17 @@
-[https://docs.python.org/2/library/functions.html][1]
+## Comparisons
 
-[1]: https://docs.python.org/2/library/functions.html
+https://docs.python.org/3/library/stdtypes.html#comparisons
 
-## Conditionals and Recursion
+| Operation | Meaning                 |
+|-----------|-------------------------|
+| `<`       | strictly less than      |
+| `<=`      | less than or equal      |
+| `>`       | strictly greater than   |
+| `>=`      | greater than or equal   |
+| `==`      | equal                   |
+| `!=`	    | not equal               |
+| `is`      | object identity         |
+| `is not`  | negated object identity |
 
 ```
 # Booleans
