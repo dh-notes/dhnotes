@@ -6,7 +6,7 @@
 
 > A method is a piece of code that is called by a name that is associated with an object. 
 
-[A.E.](http://stackoverflow.com/questions/155609/difference-between-a-method-and-a-function]
+[A.E.](http://stackoverflow.com/questions/155609/difference-between-a-method-and-a-function)
 
 [1]: https://docs.python.org/2/library/functions.html 
 
