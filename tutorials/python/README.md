@@ -2,7 +2,7 @@
 
 ## What is a programming language?
 
-control structures + data types + standard library + syntax + interpreter
+built-in types + standard library + syntax + interpreter + ecosystem
 
 ## Why Python
 
