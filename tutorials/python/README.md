@@ -1,9 +1,4 @@
----
-title: "Python for Human(s|ists)"
-author: Dennis Tenen
-update: "5/29/15"
-
----
+# Python Tutorial
 
 ## What is a programming language?
 
