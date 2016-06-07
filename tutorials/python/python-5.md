@@ -5,7 +5,11 @@
 [1]: https://docs.python.org/2/library/functions.html 
 
 ```
-a.[tab]
+# what can a cat do?
+# in iPython tab after the period to see what functions are attached to the object
+
+# tab here
+a. 
 
 def print_twice(bob):
     print(bob)
