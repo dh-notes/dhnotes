@@ -1,6 +1,6 @@
 # Built-in Types & Variables
 
-**R**ead **T**he **F**antastic **M**anual:
+**R**ead **T**he **F**antastic **M**anual:  
 https://docs.python.org/2/library/stdtypes.html
 
 ## INT
