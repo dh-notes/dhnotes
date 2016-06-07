@@ -2,28 +2,43 @@
 
 https://docs.python.org/2/library/stdtypes.html
 
-## INT, STR
+## INT
 
 ```
-$ python
-a = "hello world!"
-b = 57
-c = 75
-d = b + c
-d = a + b [!]
+# Use the vanilla python console for this excercise
+# oh look at that, a comment
+
+a = 57
+b = 75
+c = a + b
+
 type(a)
+type(b)
 type(c)
 ```
 
-## Operator overload & weak typing
+## Operator overload & type casting
 
 ```
-exit()
-$ ipython
+
 a = "hello"
 b = "world"
 c = a + b
 print(c)
+
+a = "hello world!"
+b = 57
+c = 75
+d = b + c
+
+# what will this do?
+e = a + b 
+
+type(a)
+type(b)
+type(c)
+type(d)
+type(e)
 ```
 
 
