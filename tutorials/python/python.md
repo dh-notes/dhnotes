@@ -21,11 +21,11 @@ control structures + data types + standard library + syntax + interpreter
 
 ## Table of contents
 
-- [Unit 1: Introduction](https://github.com/dh-notes/dhnotes/blob/master/tutorials/python/python-1.md)
-- [Unit 2: Control Structures](https://github.com/dh-notes/dhnotes/blob/master/tutorials/python/python-2.md)
-- [Unit 3: Data Types](https://github.com/dh-notes/dhnotes/blob/master/tutorials/python/python-3.md)
-- [Unit 4: Strings ](https://github.com/dh-notes/dhnotes/blob/master/tutorials/python/python-4.md)
-- [Unit 5]()
+- [Unit 1:][1] Built-in Types & Variables
+- [Unit 2:][2] Control Structures
+- [Unit 3:][3] Data Types
+- [Unit 4:][4] Working w/ Strings
+- [Unit 5:][5] Functions
 - [Unit 6]()
 - [Unit 7]()
 - [Unit 8]()
@@ -33,6 +33,14 @@ control structures + data types + standard library + syntax + interpreter
 - [Unit 10]()
 - [Unit 11]()
 - [Unit 12]()
+
+[1]: https://github.com/dh-notes/dhnotes/blob/master/tutorials/python/python-1.md
+[2]: https://github.com/dh-notes/dhnotes/blob/master/tutorials/python/python-2.md
+[3]: https://github.com/dh-notes/dhnotes/blob/master/tutorials/python/python-3.md
+[4]: https://github.com/dh-notes/dhnotes/blob/master/tutorials/python/python-4.md
+[5]: https://github.com/dh-notes/dhnotes/blob/master/tutorials/python/python-5.md
+
+
 
 ## Resources
 
