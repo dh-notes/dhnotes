@@ -1,4 +1,6 @@
-## Types & Variables
+## Built-in Types & Variables
+
+[https://docs.python.org/2/library/stdtypes.html]
 
 ```
 $ python
@@ -40,5 +42,7 @@ a = "hello world!"
 print_twice(a)
 
 ```
+
+
 
 
