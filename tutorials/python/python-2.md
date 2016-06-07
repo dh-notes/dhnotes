@@ -1,3 +1,14 @@
+## Booleans
+
+https://docs.python.org/3/library/stdtypes.html#boolean-operations-and-or-not
+
+| Operation      |           Result                      |
+|----------------|---------------------------------------|
+| x or y         | if x is false, then y, else x         |
+| x and y        | if x is false, then x, else y         |
+| not x          | if x is false, then True, else False  |
+
+
 ## Comparisons
 
 https://docs.python.org/3/library/stdtypes.html#comparisons
@@ -14,7 +25,7 @@ https://docs.python.org/3/library/stdtypes.html#comparisons
 | `is not`  | negated object identity |
 
 ```
-# Booleans
+
 # this differs from assignment
 5 == 5
 5 == 6
