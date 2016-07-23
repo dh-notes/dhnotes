@@ -494,6 +494,8 @@ qualitative or quantitative analyses. The Journal also publishes research
 notes, review articles, theoretical essays, and book reviews relevant for
 comparative research.
 
+[**Journal of Cultural Analytics**](http://culturalanalytics.org/) is a new open-access journal dedicated to the computational study of culture. Its aim is to promote high quality scholarship that intervenes in contemporary debates about the study of culture using computational and quantitative methods.
+
 [**Journal of Data Mining and Digital
 Humanities**](http://jdmdh.episciences.org/) is concerned with the intersection
 of computing and the disciplines of the humanities, with tools provided by
@@ -844,6 +846,8 @@ administration, social impacts of computing and telecommunications, software
 evaluation, and world-wide web resources for social scientists. 
 
 [**Sphe­res: Journal for Digital Cultures**](http://www.leuphana.de/en/research-centers/cdc/publications/spheres.html) is concerned with contemporary, historical and emerging discussions about ‘Digital Cultures’ and exploring the theoretical, political and social stakes within these debates by reassembling key concepts like public spheres, media spheres and atmospheres./*
+
+[**sx archipelagos**](http://smallaxe.net/sxarchipelagos/) sx archipelagos is the latest born-digital articulation of the Small Axe Project. It is a peer-reviewed publication platform devoted to creative exploration, debate, and critical thinking about and through digital practices in contemporary scholarly and artistic work in and on the Caribbean.
 
 [[top]](#directory)
 
