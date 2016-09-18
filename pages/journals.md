@@ -823,6 +823,8 @@ our editorial.
 
 ## S
 
+[**Science, Technology, & Human Values**](https://us.sagepub.com/en-us/nam/science-technology-human-values/journal200858) is a peer-reviewed, international, interdisciplinary journal containing research, analyses and commentary on the development and dynamics of science and technology, including their relationship to politics, society and culture. The journal provides you with work from scholars in a diverse range of disciplines across the social sciences. Among the disciplines you will find in Science, Technology, & Human Values are: political science, sociology, environmental studies, anthropology, literature, history, economics, and philosophy. Donna Haraway and Bruno Latour among current / past editorial board members.
+
 \*[**Sociological Science**](http://www.sociologicalscience.com/) is an
 open-access, online, peer-reviewed, international journal for social scientists
 committed to advancing a general understanding of social processes.
