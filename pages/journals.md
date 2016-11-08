@@ -175,6 +175,7 @@ social, political, economic, cultural and historical contexts.
 [**Digital Humanities Journal**](http://journalofdigitalhumanities.org/) offers
 expanded coverage  of the digital humanities in three ways. First, by
 publishing scholarly  work beyond the traditional research article. Second, by
+
 selecting  content from open and public discussions in the field. Third, by 
 encouraging continued discussion through peer-to-peer review.
 
@@ -184,6 +185,7 @@ media in the humanities. Published by the [Alliance of Digital Humanities
 Organizations](http://www.digitalhumanities.org/
 "http://www.digitalhumanities.org/") (ADHO), DHQ is also a community experiment
 in journal publication, with a commitment to: -   experimenting with
+
 publication formats and the rhetoric of digital authoring -   co-publishing 
 articles with Literary and Linguistic Computing (a well-established  print
 digital humanities journal) in ways that -   using open standards to deliver
@@ -227,6 +229,8 @@ Organisations (ADHO)](http://www.digitalhumanities.org/
 "http://www.digitalhumanities.org/"). DS/CN was founded for SDH/SEMI at the
 Electronic Textual Cultures Lab, University of Victoria, in 2008 by Ray Siemens
 and Christian Vandendorpe.
+
+[**Discourse: Journal for Theoretical Studies in Media and Culture**](http://digitalcommons.wayne.edu/discourse/) explores a variety of topics in contemporary cultural studies, theories of media and literature, and the politics of sexuality, including questions of language and psychoanalysis. The journal publishes valuable and innovative essays on a wide range of cultural phenomena, promoting theoretical approaches to literature, film, the visual arts, and related media.
 
 [**Discourse & Society**](http://das.sagepub.com/) is a leading international 
 peer-reviewed journal whose major aim is to publish outstanding research  at
