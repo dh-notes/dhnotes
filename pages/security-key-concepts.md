@@ -5,11 +5,17 @@ access to a computer or network server in order to deliver a payload or
 malicious outcome. Attack vectors enable hackers to exploit system
 vulnerabilities, including the human element.
 
-## threat modeling
+## threat 
 
 > In computer security, a threat is a potential event that could undermine your efforts to defend your data. Threats can be intentional (conceived by attackers), or they could be accidental (you might leave your computer turned on and unguarded).
 
 https://ssd.eff.org/en/glossary/threat
+
+## risk analysis
+
+> In computer security, risk analysis is calculating the chance that threats might succeed, so you know how much effort to spend defending against them. There may be many different ways that you might lose control or access to your data, but some of them are less likely than others. Assessing risk means deciding which threats you are going to take seriously, and which may be too rare or too harmless (or too difficult to combat) to worry about. 
+
+https://ssd.eff.org/en/glossary/risk-analysis
 
 ## hardening
 
