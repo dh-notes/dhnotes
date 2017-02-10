@@ -39,13 +39,14 @@ warrant to gain access to the data.
     - Sustained but temporary attention at places like the border.
     - Opportunistic agents that target obvious “soft” spots.
 
-2. Attack vectors, vulnerability analysis. Understand your vulnerabilities.
+2. Attack vectors, threat modeling. Understand your vulnerabilities.
 The importance of physical access. Virtual is real. Thinking about location.
 Cloud vs. local vulnerabilities. Hardware, software, vs. social vectors.
 
 3. Hardening. Common strategies. Two factor authentication. Encryption.
 
-4. Obfuscation. Multiple accounts. Separating work from personal, by year, or place. Cheap disposable devices.  
+4. Obfuscation. Multiple accounts. Separating work from personal, by year, or
+place.
 
 5. Operational security and hygiene. Security is a practice, not something to
 be done once. Good habits:
@@ -63,6 +64,15 @@ Review it with a friend and/or expert. Practice before traveling, when not
 under duress.
 
 8. Limiting access. Travel devices.
+
+## Threat Topography Exercise
+
+1. Make a map of all of your services, platforms, devices, accounts (no IDs).
+
+2. Visualize vectors of attack. Discuss in your group.
+
+3. Make a plan for hardening. Redraw the map to expose only a narrow "band" of
+the topography when traveling.
 
 ## Further Reading & Resources
 
