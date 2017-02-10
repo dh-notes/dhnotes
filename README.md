@@ -18,11 +18,20 @@
 - **[Version Control with Git][4]**
 - **[Minimal Computing](https://github.com/dh-notes/dhnotes/blob/master/pages/minimal-computing.md)**
 
-
 [1]: https://github.com/dh-notes/dhnotes/tree/master/tutorials/python
 [2]: https://github.com/dh-notes/dhnotes/blob/master/tutorials/command-line/000-cli.md
-[4]: https://github.com/xpmethod/dhnotes/blob/master/cheatsheets/githum.md
 [3]: http://programminghistorian.org/lessons/sustainable-authorship-in-plain-text-using-pandoc-and-markdown
+[4]: https://github.com/xpmethod/dhnotes/blob/master/cheatsheets/githum.md
+
+> **Technologies of Dissent**
+A series of workshops and teach-ins to address the needs of scholars and
+activists at risk.
+
+- **[Electronic Device Security at the Border][5]**
+- **[Online Security Glossary][6]**
+
+[5]: https://github.com/dh-notes/dhnotes/blob/master/pages/border-security.md
+[6]: https://github.com/dh-notes/dhnotes/blob/master/pages/security-key-concepts.md
 
 > **Tools**
 
