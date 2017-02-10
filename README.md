@@ -23,7 +23,7 @@
 [3]: http://programminghistorian.org/lessons/sustainable-authorship-in-plain-text-using-pandoc-and-markdown
 [4]: https://github.com/xpmethod/dhnotes/blob/master/cheatsheets/githum.md
 
-> **Technologies of Dissent**
+> **Technologies of Dissent**  
 A series of workshops and teach-ins to address the needs of scholars and
 activists at risk.
 

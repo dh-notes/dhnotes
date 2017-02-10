@@ -35,9 +35,9 @@ warrant to gain access to the data.
 
 1. Security on a scale. Parity of resources. Common breaches:
 
-- State actors, with near unlimited resources.
-- Sustained but temporary attention at places like the border.
-- Opportunistic agents that target obvious “soft” spots.
+    - State actors, with near unlimited resources.
+    - Sustained but temporary attention at places like the border.
+    - Opportunistic agents that target obvious “soft” spots.
 
 2. Attack vectors, vulnerability analysis. Understand your vulnerabilities.
 The importance of physical access. Virtual is real. Thinking about location.
@@ -50,11 +50,11 @@ Cloud vs. local vulnerabilities. Hardware, software, vs. social vectors.
 5. Operational security and hygiene. Security is a practice, not something to
 be done once. Good habits:
 
-- Using multiple accounts / platforms
-- Logging out
-- Two factor authentication
-- Prevent password dependencies
-- Limit use of social media
+    - Using multiple accounts / platforms
+    - Logging out
+    - Two factor authentication
+    - Prevent password dependencies
+    - Limit use of social media
 
 6. Canary. Buddy system. Currier drops. Backups.
 
@@ -66,4 +66,11 @@ under duress.
 
 ## Further Reading & Resources
 
+- xpMethod [Digital Security Key
+Concepts](https://github.com/dh-notes/dhnotes/blob/master/pages/security-key-concepts.md)
 
+- EFF [Surveillance
+  Self-Defence](https://github.com/dh-notes/dhnotes/blob/master/pages/security-key-concepts.md)
+
+- ACLU's [The Constitution in the 100-mile Border
+  Zone](https://www.aclu.org/other/constitution-100-mile-border-zone)
