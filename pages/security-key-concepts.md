@@ -13,6 +13,10 @@ https://ssd.eff.org/en/glossary/threat
 
 ## hardening
 
+> Hardening your computer is an important step in the fight to protect your personal data and information. This process works to eliminate means of attack by patching threats and turning off inessential services. Hardening a computer involves several steps to form layers of protection. It involves using antivirus and antispyware protection, regularly downloading the latest manufacturers patches, and disabling unneeded software and applications, making computers harder to break into. 
+
+http://www.colorado.edu/oit/it-security/security-awareness/hardening-your-computer
+
 ## two-factor authentication
 
 ## encryption
