@@ -7,6 +7,9 @@
  
 ## November
 ## December
+
+- December 31st. British Society for Literature and Science book prize.
+
 ## January
 ## February
 
@@ -16,8 +19,14 @@
 
 - March 1st. MLA James Russell Lowell Prize.
 - March 1st. MLA First Book Prize.
+- March 15th. Modernist Studies Association first book prize.
 
 ## April
+
+- April 15th. IEEE best paper in the history of electrotechnology—power,
+  electronics, telecommunications, and computer science—published during the
+preceding year.
+
 ## May
 
 - May 1st. MLA's Aldo and Jeanne Scaglione Prize for Comparative Literary
