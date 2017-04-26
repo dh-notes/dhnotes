@@ -9,6 +9,7 @@
 - **[Peer Review and T&P Guidelines](https://github.com/dh-notes/dhnotes/blob/master/pages/evaluating-digital-work.md)**
 - **[DH- and New Media-friendly Journals](https://github.com/xpmethod/dhnotes/blob/master/pages/journals.md)**
 - [Funding](https://github.com/achorg/dhfunding/blob/gh-pages/index.md)
+- **[Essay and Book Prizes in Literary/Media/DH](https://github.com/dh-notes/dhnotes/blob/master/pages/conferences.md)
 
 > **Tutorials**
 
