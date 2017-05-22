@@ -791,6 +791,9 @@ a programming skill or technique that they’d like to share. All of our lessons
 are peer-reviewed before they are incorporated as part of the live project to
 ensure only high quality work reaches our learners. 
 
+
+[**Public Culture**](http://publicculture.dukejournals.org/) is a peer-reviewed interdisciplinary journal of cultural studies, sponsored by the Institute for Public Knowledge. The journal provides a forum for the discussion of the places and occasions where cultural, social, and political differences emerge as public phenomena, manifested in everything from highly particular and localized events in popular or folk culture to global advertising, consumption, and information networks. Artists, activists, and both well-established and younger scholars, from across the humanities and social sciences and around the world, present some of their most innovative and exciting work in the pages of Public Culture.
+
 [[top]](#directory)
 
 ## R
