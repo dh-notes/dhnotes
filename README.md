@@ -6,10 +6,15 @@
 > **Funding, Journals, Review and Conferences**
 
 - **[Conferences](https://github.com/dh-notes/dhnotes/blob/master/pages/conferences.md)**
-- **[Peer Review and T&P Guidelines](https://github.com/dh-notes/dhnotes/blob/master/pages/evaluating-digital-work.md)**
-- **[DH- and New Media-friendly Journals](https://github.com/xpmethod/dhnotes/blob/master/pages/journals.md)**
+- **[Peer Review and T&P
+  Guidelines](https://github.com/dh-notes/dhnotes/blob/master/pages/evaluating-digital-work.md)**
+- **[DH- and New Media-friendly
+  Journals](https://github.com/xpmethod/dhnotes/blob/master/pages/journals.md)**
 - [Funding](https://github.com/xpmethod/dhnotes/blob/master/pages/funding.md)
-- **[Essay and Book Prizes in Literary/Media/DH](https://github.com/dh-notes/dhnotes/blob/master/pages/book-essay-prizes.md)**
+- **[Essay and Book Prizes in
+  Literary/Media/DH](https://github.com/dh-notes/dhnotes/blob/master/pages/book-essay-prizes.md)**
+- [**Selected Journals in Literary
+  Studies**](https://github.com/xpmethod/dhnotes/blob/master/pages/lit-journals.md)**
 
 > **Tutorials**
 

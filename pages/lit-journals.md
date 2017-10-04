@@ -1,0 +1,273 @@
+# Selected Literature Journals*  
+*Indicates open access 
+
+## Directory 
+[A](#a) | [B](#b) | [C](#c) | [D](#d) | [E](#e) | [F](#f) |
+[G](#g) | [H](#h) | [I](#i) | [J](#j) | [K](#k) | [L](#l) |
+[M](#m) | [N](#n) | [O](#o) | [P](#p) | Q | [R](#r) |
+[S](#s) | [T](#t) | U | [V](#v) | W | X | Y | Z
+
+## A
+
+[**Amodern**](http://amodern.net/) is a peer-reviewed, open-access scholarly
+journal  devoted to the study of media, culture, and poetics. Its purpose is
+to  provide a forum for interdisciplinary conversations about the role of 
+media and technology in contemporary cultural practices. We are  particularly
+interested in those topics that normally escape scrutiny,  or are ignored or
+excluded for whatever reason.
+
+[**ASAP/Journal**](http://www.artsofthepresent.org/#!about/c3aa), the scholarly
+journal of The Association for the Study of the Arts of the Present, is a forum
+for groundbreaking scholarship that examines the range and significance of the
+visual, media, literary, architectural, and performing arts. ASAP/Journal
+recognizes the increasingly interdisciplinary nature of contemporary art and
+the increasingly cross-disciplinary nature of dialogue about it. We invite
+submission of scholarly essays that examine contemporary arts fields
+(literature, sculpture, film, theater, music, media art, etc.) or topics
+related to the intersection of these fields in art and theory. The journal
+welcomes essays on international arts and arts movements of any kind,
+unrestricted by national, ethnic, religious, or gender borders and boundaries,
+and is committed to exploring the full cultural and geographic diversity, as
+well as the creative and conceptual rigor, of the contemporary arts.
+
+[[top]](#directory)
+
+## B
+
+[[top]](#directory)
+
+## C
+
+[**Configurations**](https://www.press.jhu.edu/journals/configurations/)
+explores the relations of literature and the arts to the sciences and
+technology. Founded in 1993, the journal continues to set the stage for
+transdisciplinary research concerning the interplay between science,
+technology, and the arts. Configurations is the official publication of the
+Society for Literature, Science, and the Arts (SLSA). 
+
+[[top]](#directory)
+
+## D
+
+[**Digital Literary Studies**](http://journals.psu.edu/dls/index) is an
+international peer-reviewed interdisciplinary publication with a focus on those
+aspects of Digital Humanities primarily concerned with literary studies.
+Digital Literary Studies publishes scholarly articles on research concerned
+with computational approaches to literary analysis/criticism, or
+critical/literary approaches to electronic literature, digital media, and
+textual resources. In addition to longer, more traditionally-formed articles,
+this journal publishes positional papers and articles with a shorter
+experimental focus, as well as reviews of books and electronic literature.
+Contributors may also submit curated electronic texts for peer-review, as well
+as thoroughly-documented hermeneutical methods and tools. Any digital project
+with a literary focus, whether that be a digital edition, tool, or otherwise,
+may be considered for peer-review.
+
+[**Digital Philology: A Journal of Medieval
+Cultures**](http://muse.jhu.edu/journals/digital_philology/toc/dph.2.2.html)
+reveals alternative modes of contact for medieval scholars, librarians and
+archivists specializing in Middle Ages study and Medieval texts, made possible
+by the emergence of digital resources and by engagement with the Digital
+Humanities. The Journal pushes traditional national and temporal boundaries as
+the first such publication linking peer-reviewed research and scholarship with
+the digital libraries of medieval manuscripts such as The Digital Library of
+Medieval Manuscripts and Parker on the Web. Published twice a year, Digital
+Philology includes scholarly essays, manuscript studies, and reviews of
+relevant resources such as websites, digital projects, and books. 
+
+[**Digital Studies / Le champ
+numérique**](http://www.digitalstudies.org/ojs/index.php/digital_studies) is
+a refereed academic journal serving as a formal arena for scholarly  activity
+and as an academic resource for researchers in the digital  humanities. DS/CN
+is published by the [Society for Digital Humanities / Société pour l'étude des
+médias interactifs (SDH/SEMI)](http://www.sdh-semi.org/
+"http://www.sdh-semi.org/"), a partner in the [Alliance of Digital Humanities
+Organisations (ADHO)](http://www.digitalhumanities.org/
+"http://www.digitalhumanities.org/"). DS/CN was founded for SDH/SEMI at the
+Electronic Textual Cultures Lab, University of Victoria, in 2008 by Ray Siemens
+and Christian Vandendorpe.
+
+[[top]](#directory)
+
+## E
+
+[[top]](#directory)
+
+## F
+
+[[top]](#directory)
+
+## G
+
+[**Genre: Forms of Discourse and Culture**](https://www.dukeupress.edu/genre)
+is a triannual publication devoted to the study of the codes, conventions, and
+histories of generic forms in the context of their cultural manifestations and
+effects. It publishes articles that deal with questions of genre in both
+literary and nonliterary forms, that bring a broad range of disciplinary and
+interdisciplinary approaches to genre, or that consider theoretical,
+institutional, or political dimensions of discourse.
+
+[[top]](#directory)
+
+## H
+
+[**Historical Materialism**](http://www.historicalmaterialism.org/) is a
+Marxist journal, appearing four times a year, based in London. Founded in
+1997, it asserts that, notwithstanding the variety of its practical and
+theoretical articulations, Marxism constitutes the most fertile conceptual
+framework for analysing social phenomena, with an eye to their overhaul. In
+our selection of materials, we do not favour any one tendency, tradition or
+variant. Marx demanded the ‘merciless criticism of everything that exists’:
+for us that includes Marxism itself.
+
+[[top]](#directory)
+
+## I
+
+[[top]](#directory)
+
+## J
+
+[**Journal of Cultural Analytics**](http://culturalanalytics.org/) is a new
+open-access journal dedicated to the computational study of culture. Its aim
+is to promote high quality scholarship that intervenes in contemporary debates
+about the study of culture using computational and quantitative methods.
+
+[**The Journal of Modern Periodical
+Studies**](http://www.psupress.org/Journals/jnls_jmps.html) is a peer-reviewed
+scholarly journal devoted to the academic study of modern periodicals—by which
+we mean periodicals published roughly in the period from 1880 to 1950, whether
+they are aggressively modernist or anti-modernist, popular or elite, mass
+circulation or specialized, long-lasting or brief. Daily newspapers, weeklies,
+monthlies, quarterlies, and irregularly published little magazines are all
+part of the field covered by this journal. The journal publishes full-length
+articles, shorter notes and comments, bibliographies, biographical essays,
+review of books, digital projects, research archives, and other such
+significant scholarly resources.
+
+[[top]](#directory)
+
+## K
+
+[[top]](#directory)
+
+## L
+
+[[top]](#directory)
+
+## M
+
+[**Modernism/modernity**](https://www.press.jhu.edu/journals/modernismmodernity)
+focuses on the methodological, archival, and theoretical approaches particular
+to modernist studies. It encourages an interdisciplinary approach linking
+music, architecture, the visual arts, literature, and social and intellectual
+history. The journal's broad scope fosters dialogue about the history of
+modernism and its relations to modernization. Each issue features a selection
+of essays as well as book reviews. Additional articles and other peer-reviewed
+formats appear on the journal's Print Plus platform (modernismmodernity.org).
+Modernism/modernity is the official journal of the Modernist Studies
+Association (MSA). Winner of six awards from CELJ.
+
+[**Modern Language Quarterly**](https://depts.washington.edu/mlq/) publishes
+scholarly essays and book reviews pertaining to literary history. The journal
+is published by Duke University Press and housed at the University of
+Washington, Seattle.
+
+[[top]](#directory)
+
+## N
+
+[**Narrative**](http://narrative.georgetown.edu/journal/) is the official
+journal of the International Society for the Study of Narrative. *Narrative*'s
+broad range of scholarship includes the English, American, and European
+novel, nonfiction narrative, film, and narrative as used in performance  art.
+
+[**New Literary History**](https://muse.jhu.edu/journal/144) focuses on
+questions of theory, method, interpretation, and literary history. Rather than
+espousing a single ideology or intellectual framework, it canvasses a wide
+range of scholarly concerns. By examining the bases of criticism, the journal
+provokes debate on the relations between literary and cultural texts and
+present needs. A major international forum for scholarly exchange, New
+Literary History has received six awards from the Council of Editors of
+Learned Journals.
+
+[[top]](#directory)
+
+## O
+
+[[top]](#directory)
+
+## P
+
+[**Philological
+Encounters**](http://www.brill.com/products/journal/philological-encounters)
+is a double-blind peer-reviewed journal dedicated to the historical and
+philosophical critique of philology. The journal encourages critical and
+comparative perspectives that integrate textual scholarship and the study of
+language from across the world. Alongside four issues a year, monographs and/
+or collected volumes will occasionally be published as supplements to the
+journal. The journal is open to contributions in all fields studying the
+history of textual practices, hermeneutics and philology, philological
+controversies, and the intellectual and global history of writing, archiving,
+tradition-making and publishing. Neither confined to any discipline nor bound
+by any geographical or temporal limits, Philological Encounters takes as its
+point of departure the growing concern with the global significance of
+philology and the potential of historically conscious and politically critical
+philology to challenge exclusivist notions of the self and the canon.
+Philological Encounters welcomes innovative and critical contributions in the
+form of articles as well as review articles, usually of two or three related
+books, and preferably from different disciplines.
+
+[**Poetics**](http://www.journals.elsevier.com/poetics/#description) is an
+interdisciplinary journal of theoretical and  empirical research on culture,
+the media and the arts. Particularly  welcome are papers that make an original
+contribution to the major  disciplines - sociology, psychology, media and
+communication studies,  and economics - within which promising lines of
+research on culture,  media and the arts have been developed.
+
+[**Poetics Today**](https://www.dukeupress.edu/poetics-today/?viewby=journal)
+brings together scholars from throughout the world who are concerned with
+developing systematic approaches to the study of literature (e.g., semiotics
+and narratology) and with applying such approaches to the interpretation of
+literary works. Poetics Today presents a remarkable diversity of methodologies
+and examines a wide range of literary and critical topics. Several thematic
+review sections or special issues are published in each volume, and each issue
+contains a book review section, with article-length review essays.
+
+[**Public Culture**](http://publicculture.dukejournals.org/) is a
+peer-reviewed interdisciplinary journal of cultural studies, sponsored by the
+Institute for Public Knowledge. The journal provides a forum for the
+discussion of the places and occasions where cultural, social, and political
+differences emerge as public phenomena, manifested in everything from highly
+particular and localized events in popular or folk culture to global
+advertising, consumption, and information networks. Artists, activists, and
+both well-established and younger scholars, from across the humanities and
+social sciences and around the world, present some of their most innovative
+and exciting work in the pages of Public Culture.
+
+[[top]](#directory)
+
+## R
+
+[[top]](#directory)
+
+## S
+
+[[top]](#directory)
+
+## T
+
+[**TEXT: An Interdisciplinary Annual of Textual
+Studies**](http://www.textual.org/)  endeavors to investigate the meaning and 
+implications of textuality is designed to widen our understanding of how  new
+developments in fields like codicology, material philology, art  history,
+musicology and cultural studies are redefining and integrating  our notions of
+what constitutes a text in diverse cultural contexts.
+
+[**Textual Practice**](http://www.tandfonline.com/action/journalInformation?show=aimsScope&journalCode=rtpr20) is Britain’s principal international journal of radical literary studies, continually pressing theory into new engagements. Today, as customary relations among disciplines and media are questioned and transformed, Textual Practice works at the turning points of theory with politics, history and texts. It is intrigued by the processes through which hitherto marginal cultures of ethnicity and sexuality are becoming conceptually central, and by the consequences of these diverse disturbances for educational and cultural institutions.
+
+[[top]](#directory)
+
+## V
+
+[[top]](#directory)
