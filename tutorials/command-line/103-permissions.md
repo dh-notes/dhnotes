@@ -17,6 +17,7 @@ touch test.txt
 chmod u-w test.txt
 nano test.txt
 man sudo
+cat /etc/passwd ## list all users on the machine
 ```
 
 ![List view.](../images/perm.png)
