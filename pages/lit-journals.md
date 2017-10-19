@@ -253,6 +253,8 @@ and exciting work in the pages of Public Culture.
 
 ## S
 
+[**Sign Systems Studies**](http://www.sss.ut.ee/index.php/sss) was established in 1964 by Juri Lotman (initially as Труды по знаковым системам - Σημειωτικη), and is thus the oldest international semiotic periodical. Originally (until 1992) a Russian-language series, it is now published in English, and has become a central institution in the semiotics of culture.
+
 [[top]](#directory)
 
 ## T
