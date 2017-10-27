@@ -255,6 +255,8 @@ and exciting work in the pages of Public Culture.
 
 [**Sign Systems Studies**](http://www.sss.ut.ee/index.php/sss) was established in 1964 by Juri Lotman (initially as Труды по знаковым системам - Σημειωτικη), and is thus the oldest international semiotic periodical. Originally (until 1992) a Russian-language series, it is now published in English, and has become a central institution in the semiotics of culture.
 
+[**Style**](http://www.psupress.org/Journals/jnls_Style.html) invites submissions that address questions of style, stylistics, and poetics—as we have traditionally. These submissions may include research and theory in discourse analysis, literary and nonliterary genres, narrative, figuration, metrics, and rhetorical analysis. In addition, Style also now welcomes contributions employing recent developments in several psychologies—cognition, bioevolutionary psychology, family systems, and human development—as those may relate to the study of literature and the humanities. Furthermore, the editors will be pleased to consider submissions on pedagogy generally as such relate to the teaching of literature and the humanities. Contributions may draw from such fields as literary criticism, critical theory, linguistics, philosophy of language, rhetoric, narrative, and composition studies as well as the varieties of psychologies and pedagogies.
+
 [[top]](#directory)
 
 ## T
