@@ -74,15 +74,15 @@ science and medicine.
 open-access peer-reviewed journal of  inter-disciplinary enquiry into the
 nature of cultural computational objects, practices, processes and structures.
 
-[**Computers in the Humanities Working
-Papers**](http://projects.chass.utoronto.ca/chwp/) are an interdisciplinary
+[**Computers in the Humanities Working Papers**](http://projects.chass.utoronto.ca/chwp/) are an interdisciplinary
 series of refereed publications on computer-assisted  research. They are a
 vehicle for an intermediary stage at which  questions of computer methodology
 in relation to the corpus at hand are  of interest to the scholar before the
 computer disappears into the  background. 
 
-[**Computers and
-Composition**](http://www.journals.elsevier.com/computers-and-composition/) is
+\*[**communication +1**](http://communicationplusone.org/) provides an open forum for exploring and sharing ideas about communication across modes of inquiry and perspectives. Its primary objective is to push the theoretical frontiers of communication as an autonomous and distinct field of research. Suspending any judgment regarding distinction between theory and practice, this forum encourages critical reflections on communication and seeks to encourage these reflections to and among those who place communication at the center of their thinking and writing.
+
+[**Computers and Composition**](http://www.journals.elsevier.com/computers-and-composition/) is
 devoted to exploring the use of computers in writing classes, writing programs,
 and writing research. It provides a forum for discussing issues connected with
 writing and computer use. It also offers information about integrating
@@ -102,6 +102,8 @@ technology. Founded in 1993, the journal continues to set the stage for
 transdisciplinary research concerning the interplay between science,
 technology, and the arts. Configurations is the official publication of the
 Society for Literature, Science, and the Arts (SLSA). 
+
+\*[**Ctrl-Z**](http://www.ctrl-z.net.au/) Ctrl-Z is an ideas network, exhibition space and events machine, fostering and promoting contemporary humanities research into the broad areas of media, art, culture and philosophy. Committed to the dissemination of ideas and interests across specialist divides, Ctrl-Z prizes novel approaches to old problems, innovative forms of presentation, and unlikely collaborations and chance encounters. Through its arts and research events and its publishing operations, Ctrl-Z seeks to link researchers from different disciplines and cultural professions, and to connect specialist academic and arts practitioners with the diverse audiences that make up the “general” public.
 
 \*[**Culture Machine**](http://www.culturemachine.net) is an international
 open-access journal of culture and theory, founded in 1999. Its aim is to be to
@@ -711,6 +713,9 @@ journal of the International Society for the Study of Narrative. *Narrative*'s
 broad range of scholarship includes the English, American, and European  novel,
 nonfiction narrative, film, and narrative as used in performance  art.
 
+
+\*[**NECSUS European Journal of Media Studies**](https://necsus-ejms.org/) is an international, double blind peer-reviewed journal of media studies connected to NECS (European Network for Cinema and Media Studies) and published by Amsterdam University Press. The journal is multidisciplinary and strives to bring together the best work in the field of media studies across the humanities and social sciences. We aim to publish research that matters and that improves the understanding of media and culture inside and outside the academic community.
+
 [**New American Notes Online**](http://www.nanocrit.com/mission/) The goal at
 NANO is to invigorate humanities discourse by publishing brief, peer-reviewed
 reports with a fast turnaround enabled by new technologies. We welcome original
@@ -933,6 +938,8 @@ scholarly and artistic work in and on the Caribbean.
 
 ## T
 
+[**Teknocultura**](http://revistas.ucm.es/index.php/TEKN/) aborda el creciente protagonismo de la tecnología en contextos de comunicación y movilización social a través de una mirada crítica. Atiende a las maneras complejas en las que la tecnología y los nuevos medios sociales de comunicación, como sistemas de significación, reestructuran la vida social, económica, política y cultural. Para ello ofrece vías de discusión de estas problemáticas a partir de artículos destinados a la comunicación de resultados de investigaciones originales y ensayos innovadores.
+
 [**TEXT: An Interdisciplinary Annual of Textual
 Studies**](http://www.textual.org/)  endeavors to investigate the meaning and 
 implications of textuality is designed to widen our understanding of how  new
@@ -940,8 +947,9 @@ developments in fields like codicology, material philology, art  history,
 musicology and cultural studies are redefining and integrating  our notions of
 what constitutes a text in diverse cultural contexts.
 
-[**Textual
-Practice**](http://www.tandfonline.com/action/journalInformation?show=aimsScope&journalCode=rtpr20)
+\*[**Textshop Experiments**](http://textshopexperiments.org/) is an open access journal that aims to extend the work of Greg Ulmer and to foster experimental works that invent, operate in, or analyze the apparatus of Electracy.  We welcome innovative and hybrid works in new media and original scholarship on reading and writing, rhetoric, and culture.
+
+[**Textual Practice**](http://www.tandfonline.com/action/journalInformation?show=aimsScope&journalCode=rtpr20)
 is Britain’s principal international journal of radical literary studies,
 continually pressing theory into new engagements. Today, as customary
 relations among disciplines and media are questioned and transformed, Textual
@@ -987,5 +995,7 @@ Operating at the intersection of culture, creativity, and technology, the
 journal focuses  on the myriad ways technology shapes, transforms,
 reconfigures, and/or  impedes social relations, both in the past and in the
 present.
+
+\*[**View**](http://viewjournal.eu/), also known as the Journal of European Television History and Culture, is the first peer-reviewed, multi-media and open access e-journal in the field of European television history and culture. It offers an international platform for outstanding academic research and archival reflection on television as an important part of our European cultural heritage. With its interdisciplinary profile, the journal is open to many disciplinary perspectives on European television – including television history, media studies, media sociology, cultural studies and television studies.
 
 [[top]](#directory)
