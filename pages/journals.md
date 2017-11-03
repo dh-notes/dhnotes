@@ -178,7 +178,7 @@ publishing scholarly  work beyond the traditional research article. Second, by
 selecting  content from open and public discussions in the field. Third, by
 encouraging continued discussion through peer-to-peer review.
 
-[**Digital Humanities Quarterly**](http://digitalhumanities.org/dhq/) is an
+\*[**Digital Humanities Quarterly**](http://digitalhumanities.org/dhq/) is an
 open-access, peer-reviewed, digital journal covering all aspects of digital
 media in the humanities. Published by the [Alliance of Digital Humanities
 Organizations](http://www.digitalhumanities.org/
