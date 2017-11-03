@@ -178,7 +178,7 @@ publishing scholarly  work beyond the traditional research article. Second, by
 selecting  content from open and public discussions in the field. Third, by
 encouraging continued discussion through peer-to-peer review.
 
-[**Digital Humanities Quarterly**](http://digitalhumanities.org/dhq/) is an
+\*[**Digital Humanities Quarterly**](http://digitalhumanities.org/dhq/) is an
 open-access, peer-reviewed, digital journal covering all aspects of digital
 media in the humanities. Published by the [Alliance of Digital Humanities
 Organizations](http://www.digitalhumanities.org/
@@ -646,7 +646,7 @@ digital philosophy. The journal will have an  interdisciplinary character, and
 will welcome contributions from  philosophers, historians, philologists, and
 linguists.
 
-[**Literary and Linguistic Computing**](http://llc.oxfordjournals.org/) is an
+[**Digital Scholarship in the Humanities**](https://academic.oup.com/dsh) (Formerly Literary and Linguistic Computing) is an
 international journal which publishes material on all aspects of  computing and
 information technology applied to literature and language  research and
 teaching. Papers include results of research projects,  description and
