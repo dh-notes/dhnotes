@@ -70,6 +70,8 @@ public health, disability studies, postcolonial studies, queer theory,
 sci-art, technology and digital media studies, history and philosophy of
 science and medicine.
 
+The [**Code4Lib Journal**](http://journal.code4lib.org/) (C4LJ) exists to foster community and share information among those interested in the intersection of libraries, technology, and the future.
+
 \*[**Computational Culture**](http://computationalculture.net/) is an online
 open-access peer-reviewed journal of  inter-disciplinary enquiry into the
 nature of cultural computational objects, practices, processes and structures.
@@ -204,6 +206,8 @@ as thoroughly-documented hermeneutical methods and tools. Any digital project
 with a literary focus, whether that be a digital edition, tool, or otherwise,
 may be considered for peer-review.
 
+[**D-Lib Magazine**](http://www.dlib.org/dlib.html) is an electronic publication with a focus on digital library research and development, including new technologies, applications, and contextual social and economic issues. D-Lib Magazine appeals to a broad technical and professional audience. The primary goal of the magazine is timely and efficient information exchange for the digital library community to help digital libraries be a broad interdisciplinary field, and not a set of specialties that know little of each other.
+
 [**Digital Philology: A Journal of Medieval
 Cultures**](http://muse.jhu.edu/journals/digital_philology/toc/dph.2.2.html)
 reveals alternative modes of contact for medieval scholars, librarians and
@@ -299,7 +303,9 @@ Internet. Since its start in May 1996, First Monday has published 1,347 papers
 in 213 issues; these papers were written by 1,829 different authors. First
 Monday is indexed in Communication Abstracts, Computer & Communications
 Security Abstracts, DoIS, eGranary Digital Library, INSPEC, Information Science
-& Technology Abstracts, LISA, PAIS, and other services. 
+& Technology Abstracts, LISA, PAIS, and other services.
+
+[**Frontiers in Digital Humanities**](http://journal.frontiersin.org/journal/digital-humanities) publishes articles on the most outstanding discoveries in all the research areas where computer science and the humanities intersect, with the aim to bring all relevant Digital Humanities areas together on a single, open-access platform.
 
 \*[**Future Internet**](http://www.mdpi.com/journal/futureinternet) is a
 scholarly open access journal which provides an advanced forum for scientific
@@ -443,7 +449,9 @@ review and engages established and emerging scholars from anywhere in the
 world. The International Journal of Communication is an interdisciplinary
 journal that, while centered in communication, is open and welcoming to
 contributions from the many disciplines and approaches that meet at the
-crossroads that is communication study. We encourage readers to REGISTER now. 
+crossroads that is communication study. We encourage readers to REGISTER now.
+
+[**International Journal of Digital Curation**](http://www.ijdc.net/) is entirely devoted to papers, articles and news items on curation of digital objects and related issues.
 
 [[top]](#directory)
 
@@ -505,10 +513,24 @@ qualitative or quantitative analyses. The Journal also publishes research
 notes, review articles, theoretical essays, and book reviews relevant for
 comparative research.
 
-[**Journal of Cultural Analytics**](http://culturalanalytics.org/) is a new
-open-access journal dedicated to the computational study of culture. Its aim
-is to promote high quality scholarship that intervenes in contemporary debates
-about the study of culture using computational and quantitative methods.
+[**Journal on Computing and Cultural Heritage**](http://jocch.acm.org) (JOCCH)
+publishes papers of significant and lasting value in all areas relating to the
+use of information and communication technologies (ICT) in support of Cultural
+Heritage. The journal encourages the submission of manuscripts that demonstrate
+innovative use of technology for the discovery, analysis, interpretation and
+presentation of cultural material, as well as manuscripts that illustrate
+applications in the Cultural Heritage sector that challenge the computational
+technologies and suggest new research opportunities in computer science.
+(JOCCH) publishes papers of significant and lasting value in all areas relating
+to the use of information and communication technologies (ICT) in support of
+Cultural Heritage. The journal encourages the submission of manuscripts that
+demonstrate innovative use of technology for the discovery, analysis,
+interpretation and presentation of cultural material, as well as manuscripts
+that illustrate applications in the Cultural Heritage sector that challenge the
+computational technologies and suggest new research opportunities in computer
+science. JOCCH is published by the Association for Computing Machinery.
+
+
 
 [**Journal of Data Mining and Digital
 Humanities**](http://jdmdh.episciences.org/) is concerned with the
@@ -577,6 +599,15 @@ access journal that explores changes in media technologies, media policies,
 organizational structures, media management, media production, journalism,
 media services, and usages.
 
+
+The [*Journal of Librarianship and Scholarly Communication*](http://jlsc-pub.org/) seeks to share useful innovations, both in thought and in practice, with the aim of encouraging scholarly exchange and the subsequent benefits that are borne of scrutiny, experimentation and debate. As modes of scholarly communication, the technologies and economics of publishing and the roles of libraries evolve, it is our hope that the work shared in the journal will inform practices that strengthen librarianship and that increase access to the "common Stock of Knowledge."
+
+\*[**Journal of Media Innovation**](https://www.journals.uio.no/index.php/TJMI/index) is an open access journal that explores changes in media technologies, media policies, organizational structures, media management, media production, journalism, media services, and usages.
+
+The [**Journal of Open Archaeology Data**](http://openarchaeologydata.metajnl.com/) (JOAD) features peer reviewed data papers describing archaeology datasets with high reuse potential.
+
+The [**Journal of Open Humanities Data**](http://openhumanitiesdata.metajnl.com/) (JOHD) features peer reviewed publications describing humanities data or techniques with high potential for reuse.
+ 
 [**Journal of Peer Production**](http://peerproduction.net/) seeks high-quality
 contributions from researchers and practitioners of peer production. We
 understand peer  production as a mode of commons-based and oriented production
@@ -589,22 +620,11 @@ repository of knowledge from  thought leaders around the world that addresses
 the need for pragmatic  intellectual property solutions to the challenges faced
 by people in  developing countries.
 
-[**Journal on Computing and Cultural Heritage**](http://jocch.acm.org) (JOCCH)
-publishes papers of significant and lasting value in all areas relating to the
-use of information and communication technologies (ICT) in support of Cultural
-Heritage. The journal encourages the submission of manuscripts that demonstrate
-innovative use of technology for the discovery, analysis, interpretation and
-presentation of cultural material, as well as manuscripts that illustrate
-applications in the Cultural Heritage sector that challenge the computational
-technologies and suggest new research opportunities in computer science.
-(JOCCH) publishes papers of significant and lasting value in all areas relating
-to the use of information and communication technologies (ICT) in support of
-Cultural Heritage. The journal encourages the submission of manuscripts that
-demonstrate innovative use of technology for the discovery, analysis,
-interpretation and presentation of cultural material, as well as manuscripts
-that illustrate applications in the Cultural Heritage sector that challenge the
-computational technologies and suggest new research opportunities in computer
-science. JOCCH is published by the Association for Computing Machinery.
+
+
+The [**Journal of Religion, Media and Digital Culture**](https://www.jrmdc.com/journal/index) is an open access, peer-reviewed academic journal, publishing three issues each year. JRMDC publishes original work that considers any aspect of the relationship between religion and digital media. Published articles should contribute new insights to debates in the social sciences or digital humanities. Studies of any religious tradition are welcomed.
+
+
 
 [[top]](#directory)
 
@@ -618,6 +638,8 @@ month—hailing from Ascension Island to Zimbabwe (and from every top-level
 domain country code in between); our international readership typically runs
 about 4,000 readers per month. Kairos publishes bi-annually, in August and
 January, with regular special issues in May.
+
+[**KULA: Knowledge Creation, Dissemination, and Preservation Studies**](kula.uvic.ca) is a peer-reviewed, open access journal, encouraging the formation of a multi-disciplinary community of scholars studying human knowledge processes through the ages, understanding their role in human civilizations, and projecting them into the future from both humanistic and technological perspectives.
 
 [[top]](#directory)
 
@@ -773,6 +795,8 @@ peer-review practices.
 [[top]](#directory)
 
 ## P
+
+[**Palabra Clave**](http://palabraclave.unisabana.edu.co/index.php/palabraclave/index) es un espacio para la difusión de nuevo conocimiento como resultado de la investigación y la reflexión sobre temas vinculados con la comunicación y su relación con la sociedad. El contenido tiene un enfoque científico, analítico y crítico, soportado en el humanismo y con claros aportes al desarrollo y a la solución, desde la comunicación, de los problemas de la sociedad.
 
 [**Philological
 Encounters**](http://www.brill.com/products/journal/philological-encounters)
@@ -987,5 +1011,10 @@ Operating at the intersection of culture, creativity, and technology, the
 journal focuses  on the myriad ways technology shapes, transforms,
 reconfigures, and/or  impedes social relations, both in the past and in the
 present.
+
+[[top]](#directory)
+
+## Z
+Die [**Zeitschrift für digitale Geisteswissenschaften**](http://www.zfdg.de/) ist ein innovatives Forschungsperiodikum, das sich Themen an der Schnittstelle von geisteswissenschaftlicher und digitaler Forschung widmet. Adaptionen von Informatik und Informationswissenschaft eröffnen der Gesamtheit der Geisteswissenschaften neue Wege der Wissenserschließung, tragen zur Etablierung neuer Forschungsansätze bei und liefern neue Möglichkeiten der Auf- und Nachbereitung von Quellen, Dokumenten, Daten und Medien.
 
 [[top]](#directory)
