@@ -174,23 +174,23 @@ and education. The journal is devoted to analysing the impact of digital
 culture on identity, education, art, society, culture and narrative within
 social, political, economic, cultural and historical contexts. 
 
-[**Digital Humanities Journal**](http://journalofdigitalhumanities.org/) offers
-expanded coverage  of the digital humanities in three ways. First, by
+[**Digital Humanities Journal**](http://journalofdigitalhumanities.org/)
+offers expanded coverage  of the digital humanities in three ways. First, by
 publishing scholarly  work beyond the traditional research article. Second, by
-selecting  content from open and public discussions in the field. Third, by 
+selecting  content from open and public discussions in the field. Third, by
 encouraging continued discussion through peer-to-peer review.
 
 [**Digital Humanities Quarterly**](http://digitalhumanities.org/dhq/) is an
 open-access, peer-reviewed, digital journal covering all aspects of digital
 media in the humanities. Published by the [Alliance of Digital Humanities
 Organizations](http://www.digitalhumanities.org/
-"http://www.digitalhumanities.org/") (ADHO), DHQ is also a community experiment
-in journal publication, with a commitment to: -   experimenting with
-publication formats and the rhetoric of digital authoring -   co-publishing 
+"http://www.digitalhumanities.org/") (ADHO), DHQ is also a community
+experiment in journal publication, with a commitment to:---experimenting with
+publication formats and the rhetoric of digital authoring--- co-publishing
 articles with Literary and Linguistic Computing (a well-established  print
-digital humanities journal) in ways that -   using open standards to deliver
+digital humanities journal) in ways that---using open standards to deliver
 journal content -   developing translation services and multilingual reviewing
-in keeping with the strongly international character of ADHO 
+in keeping with the strongly international character of ADHO
 
 [**Digital Literary Studies**](http://journals.psu.edu/dls/index) is an
 international peer-reviewed interdisciplinary publication with a focus on those
@@ -218,19 +218,27 @@ the first such publication linking peer-reviewed research and scholarship with
 the digital libraries of medieval manuscripts such as The Digital Library of
 Medieval Manuscripts and Parker on the Web. Published twice a year, Digital
 Philology includes scholarly essays, manuscript studies, and reviews of
-relevant resources such as websites, digital projects, and books. 
+relevant resources such as websites, digital projects, and books.
 
 [**Digital Studies / Le champ
-numérique**](http://www.digitalstudies.org/ojs/index.php/digital_studies) is
-a refereed academic journal serving as a formal arena for scholarly  activity
+numérique**](http://www.digitalstudies.org/ojs/index.php/digital_studies) is a
+refereed academic journal serving as a formal arena for scholarly  activity
 and as an academic resource for researchers in the digital  humanities. DS/CN
 is published by the [Society for Digital Humanities / Société pour l'étude des
 médias interactifs (SDH/SEMI)](http://www.sdh-semi.org/
 "http://www.sdh-semi.org/"), a partner in the [Alliance of Digital Humanities
 Organisations (ADHO)](http://www.digitalhumanities.org/
 "http://www.digitalhumanities.org/"). DS/CN was founded for SDH/SEMI at the
-Electronic Textual Cultures Lab, University of Victoria, in 2008 by Ray Siemens
-and Christian Vandendorpe.
+Electronic Textual Cultures Lab, University of Victoria, in 2008 by Ray
+Siemens and Christian Vandendorpe.
+
+[**Discourse: Journal for Theoretical Studies in Media and
+Culture**](http://digitalcommons.wayne.edu/discourse/) explores a variety of
+topics in contemporary cultural studies, theories of media and literature, and
+the politics of sexuality, including questions of language and psychoanalysis.
+The journal publishes valuable and innovative essays on a wide range of
+cultural phenomena, promoting theoretical approaches to literature, film, the
+visual arts, and related media.
 
 [**Discourse & Society**](http://das.sagepub.com/) is a leading international 
 peer-reviewed journal whose major aim is to publish outstanding research  at
@@ -362,6 +370,8 @@ thanks to close cooperation with the network partners and user organizations
 within the field of historical social research, the journal participates
 intensively in current research discussions.
 
+[**History of the Present**](http://historyofthepresent.org) is a journal devoted to history as a critical endeavor. Its aim is twofold: to create a space in which scholars can reflect on the role history plays in establishing categories of contemporary debate by making them appear inevitable, natural, or culturally necessary; and to publish work that calls into question certainties about the relationship between past and present that are taken for granted by the majority of practicing historians. We seek to encourage the critical examination of history’s influence on politics and the politics of the discipline of history itself. No history journal currently published has devoted itself specifically to fostering this work and providing a dedicated forum for it. Indeed, at a moment when history, and the social sciences more generally, seems preoccupied with the fantasy of retrieving pre-critical empirical knowledge, a journal committed to history as a form of critique seems more necessary than ever. It is in the rigorous, theoretically-informed writing of history, based mainly on evidence from archives, texts, and other sources, rather than writing about “history” from an abstract philosophical or historiographical perspective, that our contributors will offer readers an alternative to approaches that predominate in existing journals.
+
 \*[**Human Computation**](http://hcjournal.org) is an international and
 interdisciplinary forum for the electronic publication and print archiving of
 high-quality scholarly articles in all areas of human computation, which
@@ -448,19 +458,20 @@ crossroads that is communication study. We encourage readers to REGISTER now.
 ## J
 
 [**Jahrbuch für
-Computerphilologie**](http://computerphilologie.digital-humanities.de/ejournal.html). Online bietet ein Forum für die Diskussion der vielfältigen Möglichkeiten,
-den Computer in der literaturwissenschaftlichen Arbeit einzusetzen: z.B. für
-die computergestützte Inhaltsanalyse und Stiluntersuchung, für
+Computerphilologie**](http://computerphilologie.digital-humanities.de/ejournal.html).
+Online bietet ein Forum für die Diskussion der vielfältigen Möglichkeiten, den
+Computer in der literaturwissenschaftlichen Arbeit einzusetzen: z.B. für die
+computergestützte Inhaltsanalyse und Stiluntersuchung, für
 computerunterstützte und elektronische Editionen, für digitale
-Fachinformationen, Hypertexterstellung und -analyse u.a.m. Der größere Teil der
-hier erscheinenden Aufsätze und Rezensionen wird auch im Jahrbuch für
-Computerphilologie (mentis Verlag) veröffentlicht. Die Online-Version der Texte
-und deren Druckfasssung sind nach der Veröffentlichung des Jahrbuchs
+Fachinformationen, Hypertexterstellung und -analyse u.a.m. Der größere Teil
+der hier erscheinenden Aufsätze und Rezensionen wird auch im Jahrbuch für
+Computerphilologie (mentis Verlag) veröffentlicht. Die Online-Version der
+Texte und deren Druckfasssung sind nach der Veröffentlichung des Jahrbuchs
 textidentisch.
 
 [**The Jefferson Journal of Science and
-Culture**](http://www.jeffersonjournal.org) was founded on the belief  that the
-cross-pollination of various disciplines will be a crucial  factor in the
+Culture**](http://www.jeffersonjournal.org) was founded on the belief  that
+the cross-pollination of various disciplines will be a crucial  factor in the
 advance of scholarship. To facilitate and focus such  exchange, this bi-annual
 journal is dedicated to publishing articles in  each edition, which address a
 specific topic of broader interest.  Scholars from various fields are expected
@@ -485,7 +496,7 @@ is the scholarly journal published quarterly by the Broadcast Education
 Association. Considered one of the leading publications in the Communication
 field, the Journal contains timely articles about new developments, trends and
 research in electronic media written by academicians, researchers and other
-electronic media professionals. 
+electronic media professionals.
 
 \*[**Journal of Comparative Research in Sociology and
 Anthropology**](http://compaso.eu/about/) is an online, open access,
@@ -519,24 +530,26 @@ that illustrate applications in the Cultural Heritage sector that challenge the
 computational technologies and suggest new research opportunities in computer
 science. JOCCH is published by the Association for Computing Machinery.
 
-[**Journal of Cultural Analytics**](http://culturalanalytics.org/) is a new open-access journal dedicated to the computational study of culture. Its aim is to promote high quality scholarship that intervenes in contemporary debates about the study of culture using computational and quantitative methods.
+
 
 [**Journal of Data Mining and Digital
-Humanities**](http://jdmdh.episciences.org/) is concerned with the intersection
-of computing and the disciplines of the humanities, with tools provided by
-computing such as data visualization, information retrieval, statistics, text
-mining by publishing scholarly work beyond the traditional humanities.
+Humanities**](http://jdmdh.episciences.org/) is concerned with the
+intersection of computing and the disciplines of the humanities, with tools
+provided by computing such as data visualization, information retrieval,
+statistics, text mining by publishing scholarly work beyond the traditional
+humanities.
 
 [**The Journal of Electronic
 Publishing**](http://www.journalofelectronicpublishing.org/) is a forum for
-research and discussion about contemporary publishing practices, and the impact
-of those practices upon users. Our contributors and readers are publishers,
-scholars, librarians, journalists, students, technologists, attorneys, and
-others with an interest in the methods and means of contemporary publishing. At
-its inception in January 1995, JEP carved out an important niche by recognizing
-that print communication was in the throes of significant change, and that
-digital communication would become an important—and in some cases
-predominant—means for transmitting published information. 
+research and discussion about contemporary publishing practices, and the
+impact of those practices upon users. Our contributors and readers are
+publishers, scholars, librarians, journalists, students, technologists,
+attorneys, and others with an interest in the methods and means of
+contemporary publishing. At its inception in January 1995, JEP carved out an
+important niche by recognizing that print communication was in the throes of
+significant change, and that digital communication would become an
+important—and in some cases predominant—means for transmitting published
+information. 
 
 [**Journal of Human-Robot
 Interaction**](http://humanrobotinteraction.org/journal/index.php/HRI) aims to
@@ -566,7 +579,26 @@ endeavors  in the humanities. Articles explore the intersection between
 narrative,  interactive media, material culture, education and public outreach 
 within the humanities from a variety of perspectives.
 
-\*[**The Journal of Interactive Technology and Pedagogy**](http://jitp.commons.gc.cuny.edu/) promotes open scholarly discourse around critical and creative uses of digital technology in teaching, learning, and research. Educational institutions have often embraced instrumentalist conceptions and market-driven implementations of technology that overdetermine its uses in academic environments. Such approaches underestimate the need for critical engagement with the integration of technological tools into pedagogical practice. The JITP endeavors to counter these trends by recentering questions of pedagogy in our discussions of technology in higher education. The journal also works to change what counts as scholarship—and how it is presented, disseminated, and reviewed—by allowing contributors to develop their ideas, publish their work, and engage their readers using multiple formats.
+\*[**The Journal of Interactive Technology and
+Pedagogy**](http://jitp.commons.gc.cuny.edu/) promotes open scholarly
+discourse around critical and creative uses of digital technology in teaching,
+learning, and research. Educational institutions have often embraced
+instrumentalist conceptions and market-driven implementations of technology
+that overdetermine its uses in academic environments. Such approaches
+underestimate the need for critical engagement with the integration of
+technological tools into pedagogical practice. The JITP endeavors to counter
+these trends by recentering questions of pedagogy in our discussions of
+technology in higher education. The journal also works to change what counts
+as scholarship—and how it is presented, disseminated, and reviewed—by allowing
+contributors to develop their ideas, publish their work, and engage their
+readers using multiple formats.
+
+\*[**Journal of Media
+Innovation**](https://www.journals.uio.no/index.php/TJMI/index) is an open
+access journal that explores changes in media technologies, media policies,
+organizational structures, media management, media production, journalism,
+media services, and usages.
+
 
 The [*Journal of Librarianship and Scholarly Communication*](http://jlsc-pub.org/) seeks to share useful innovations, both in thought and in practice, with the aim of encouraging scholarly exchange and the subsequent benefits that are borne of scrutiny, experimentation and debate. As modes of scholarly communication, the technologies and economics of publishing and the roles of libraries evolve, it is our hope that the work shared in the journal will inform practices that strengthen librarianship and that increase access to the "common Stock of Knowledge."
 
@@ -678,11 +710,23 @@ media theorists and practitioners such as:  Mark Amerika, Sarah Cook, Amy
 Franceschini, Lynn Hershman Leeson, Jennifer and Kevin McCoy, Ken Rinaldo,
 Laurence A. Rickels, Cornelia Sollfrank, and Faith Wilding.
 
-[**Multimedia & Technology Reviews**](https://arlisna.org/publications/multimedia-technology-reviews) The ARLIS/NA Multimedia & Technology Reviews target projects, products, events, and issues within the broad realm of multimedia and technology related to arts scholarship, research, and librarianship. While assessing current products and projects, these reviews are also designed to engage the membership in a conversation about how technologies and multimedia are being or can be deployed within our profession and by our constituents. The reviews are published bi-monthly.
+[**Multimedia & Technology
+Reviews**](https://arlisna.org/publications/multimedia-technology-reviews) The
+ARLIS/NA Multimedia & Technology Reviews target projects, products, events,
+and issues within the broad realm of multimedia and technology related to arts
+scholarship, research, and librarianship. While assessing current products and
+projects, these reviews are also designed to engage the membership in a
+conversation about how technologies and multimedia are being or can be
+deployed within our profession and by our constituents. The reviews are
+published bi-monthly.
+
+[[top]](#directory)
 
 ## N
 
-[**NANO**](http://www.nanocrit.com/) is an interdisciplinary academic journal whose goal is to invigorate humanities discourse by publishing brief, peer-reviewed reports with a fast turnaround enabled by digital technologies.
+[**NANO**](http://www.nanocrit.com/) is an interdisciplinary academic journal
+whose goal is to invigorate humanities discourse by publishing brief,
+peer-reviewed reports with a fast turnaround enabled by digital technologies.
 
 [**Narrative**](http://narrative.georgetown.edu/journal/) is the official
 journal of the International Society for the Study of Narrative. *Narrative*'s 
@@ -742,7 +786,11 @@ features “the Tank,” a forum for comment on provocative new scholarly work.
 [[top]](#directory)
 
 ## O
-\*[**Open Library of the Humanities**](https://www.openlibhums.org/) is a trans-disciplinary open-access journal with no author fees, professional digital preservation, DOIs and Committee on Publication Ethics-approved peer-review practices.
+
+\*[**Open Library of the Humanities**](https://www.openlibhums.org/) is a
+trans-disciplinary open-access journal with no author fees, professional
+digital preservation, DOIs and Committee on Publication Ethics-approved
+peer-review practices.
 
 [[top]](#directory)
 
@@ -811,18 +859,29 @@ a programming skill or technique that they’d like to share. All of our lessons
 are peer-reviewed before they are incorporated as part of the live project to
 ensure only high quality work reaches our learners. 
 
+[**Public Culture**](http://publicculture.dukejournals.org/) is a
+peer-reviewed interdisciplinary journal of cultural studies, sponsored by the
+Institute for Public Knowledge. The journal provides a forum for the
+discussion of the places and occasions where cultural, social, and political
+differences emerge as public phenomena, manifested in everything from highly
+particular and localized events in popular or folk culture to global
+advertising, consumption, and information networks. Artists, activists, and
+both well-established and younger scholars, from across the humanities and
+social sciences and around the world, present some of their most innovative
+and exciting work in the pages of Public Culture.
+
 [[top]](#directory)
 
 ## R
 
-[**Rhetoric Review**](http://www.tandf.co.uk/journals/titles/07350198.asp) is a
-scholarly interdisciplinary journal of  rhetoric, publishes in all areas of
+[**Rhetoric Review**](http://www.tandf.co.uk/journals/titles/07350198.asp) is
+a scholarly interdisciplinary journal of  rhetoric, publishes in all areas of
 rhetoric and writing and provides a  professional forum for its readers to
 consider and discuss current  topics and issues. The journal publishes
 manuscripts that explore the  breadth and depth of the discipline, including
-history, theory, writing,  praxis, philosophy, professional writing, rhetorical
-criticism,  cultural studies, multiple literacies, technology, literature,
-public  address, graduate education, and professional issues.
+history, theory, writing,  praxis, philosophy, professional writing,
+rhetorical criticism,  cultural studies, multiple literacies, technology,
+literature, public  address, graduate education, and professional issues.
 
 \*[**rhizomes**](http://www.rhizomes.net) oppose the idea that knowledge must
 grow in a tree structure from previously accepted ideas. New thinking need not
@@ -847,9 +906,21 @@ our editorial.
 
 ## S
 
+[**Science, Technology, & Human
+Values**](https://us.sagepub.com/en-us/nam/science-technology-human-values/journal200858)
+is a peer-reviewed, international, interdisciplinary journal containing
+research, analyses and commentary on the development and dynamics of science
+and technology, including their relationship to politics, society and culture.
+The journal provides you with work from scholars in a diverse range of
+disciplines across the social sciences. Among the disciplines you will find in
+Science, Technology, & Human Values are: political science, sociology,
+environmental studies, anthropology, literature, history, economics, and
+philosophy. Donna Haraway and Bruno Latour among current / past editorial
+board members.
+
 \*[**Sociological Science**](http://www.sociologicalscience.com/) is an
-open-access, online, peer-reviewed, international journal for social scientists
-committed to advancing a general understanding of social processes.
+open-access, online, peer-reviewed, international journal for social
+scientists committed to advancing a general understanding of social processes.
 Sociological Science welcomes original research and commentary from all
 subfields of sociology, and does not privilege any particular theoretical or
 methodological approach. Manuscripts of all types of sociological scholarship
@@ -869,9 +940,18 @@ systems, instructional media, instrumentation and research tools, public
 administration, social impacts of computing and telecommunications, software
 evaluation, and world-wide web resources for social scientists. 
 
-[**Sphe­res: Journal for Digital Cultures**](http://www.leuphana.de/en/research-centers/cdc/publications/spheres.html) is concerned with contemporary, historical and emerging discussions about ‘Digital Cultures’ and exploring the theoretical, political and social stakes within these debates by reassembling key concepts like public spheres, media spheres and atmospheres./*
+[**Spheres: Journal for Digital
+Cultures**](http://www.leuphana.de/en/research-centers/cdc/publications/spheres.html)
+is concerned with contemporary, historical and emerging discussions about
+‘Digital Cultures’ and exploring the theoretical, political and social stakes
+within these debates by reassembling key concepts like public spheres, media
+spheres and atmospheres./*
 
-[**sx archipelagos**](http://smallaxe.net/sxarchipelagos/) sx archipelagos is the latest born-digital articulation of the Small Axe Project. It is a peer-reviewed publication platform devoted to creative exploration, debate, and critical thinking about and through digital practices in contemporary scholarly and artistic work in and on the Caribbean.
+[**sx archipelagos**](http://smallaxe.net/sxarchipelagos/) sx archipelagos is
+the latest born-digital articulation of the Small Axe Project. It is a
+peer-reviewed publication platform devoted to creative exploration, debate,
+and critical thinking about and through digital practices in contemporary
+scholarly and artistic work in and on the Caribbean.
 
 [[top]](#directory)
 
@@ -884,30 +964,53 @@ developments in fields like codicology, material philology, art  history,
 musicology and cultural studies are redefining and integrating  our notions of
 what constitutes a text in diverse cultural contexts.
 
-[**Textual Practice**](http://www.tandfonline.com/action/journalInformation?show=aimsScope&journalCode=rtpr20) is Britain’s principal international journal of radical literary studies, continually pressing theory into new engagements. Today, as customary relations among disciplines and media are questioned and transformed, Textual Practice works at the turning points of theory with politics, history and texts. It is intrigued by the processes through which hitherto marginal cultures of ethnicity and sexuality are becoming conceptually central, and by the consequences of these diverse disturbances for educational and cultural institutions.
+[**Textual
+Practice**](http://www.tandfonline.com/action/journalInformation?show=aimsScope&journalCode=rtpr20)
+is Britain’s principal international journal of radical literary studies,
+continually pressing theory into new engagements. Today, as customary
+relations among disciplines and media are questioned and transformed, Textual
+Practice works at the turning points of theory with politics, history and
+texts. It is intrigued by the processes through which hitherto marginal
+cultures of ethnicity and sexuality are becoming conceptually central, and by
+the consequences of these diverse disturbances for educational and cultural
+institutions.
 
-[**Thresholds**](http://openthresholds.org/) is a digital journal for criticism in the spaces between, expected to debut Summer 2016. The journal's platform bears witness to the dynamic processes that constitute reading and writing by way of a split-screen digital architecture. On the left side of the screen, we publish short essays (essayer — trial, attempt, test). The right side of the screen is populated by the various text fragments, images, audio, and video clips that inspired the author and propelled the corresponding work. Unlike a footnote or endnote, these fragments are not explicitly harnessed to the essay's main body; they do not rustle the reader toward a specific interpretative conclusion. Instead, they invite the reader to engage in a series of generative traversals across the central threshold. In this way, thresholds models criticism as a restless and unruly venture that takes place in the spaces between readers, writers, and texts.
+[**Thresholds**](http://openthresholds.org/) is a digital journal for
+criticism in the spaces between, expected to debut Summer 2016. The journal's
+platform bears witness to the dynamic processes that constitute reading and
+writing by way of a split-screen digital architecture. On the left side of the
+screen, we publish short essays (essayer — trial, attempt, test). The right
+side of the screen is populated by the various text fragments, images, audio,
+and video clips that inspired the author and propelled the corresponding work.
+Unlike a footnote or endnote, these fragments are not explicitly harnessed to
+the essay's main body; they do not rustle the reader toward a specific
+interpretative conclusion. Instead, they invite the reader to engage in a
+series of generative traversals across the central threshold. In this way,
+thresholds models criticism as a restless and unruly venture that takes place
+in the spaces between readers, writers, and texts.
 
-[**Transformations**](http://www.transformationsjournal.org) is an independent,
-double-blind peer-reviewed electronic journal addressing the transformative
-processes of new technologies and mediating practices that change the way we
-think, feel and interact with others both in a contemporary and historical
-sense. We welcome writing from the perspective of cultural theory, critical
-philosophy, aesthetics, media studies and other humanities approaches. 
+[**Transformations**](http://www.transformationsjournal.org) is an
+independent, double-blind peer-reviewed electronic journal addressing the
+transformative processes of new technologies and mediating practices that
+change the way we think, feel and interact with others both in a contemporary
+and historical sense. We welcome writing from the perspective of cultural
+theory, critical philosophy, aesthetics, media studies and other humanities
+approaches.
 
 [[top]](#directory)
 
 ## V
 
-[**Vectors**](http://www.vectorsjournal.org/issues/index.php) maps the multiple
-contours of daily life in an unevenly digital  era, crystallizing around themes
-that highlight the social, political,  and cultural stakes of our increasingly
-technologically-mediated  existence. As such, the journal speaks both
-implicitly and explicitly to  key debates across varied disciplines, including
-issues of  globalization, mobility, power, and access. Operating at the 
-intersection of culture, creativity, and technology, the journal focuses  on
-the myriad ways technology shapes, transforms, reconfigures, and/or  impedes
-social relations, both in the past and in the present.
+[**Vectors**](http://www.vectorsjournal.org/issues/index.php) maps the
+multiple contours of daily life in an unevenly digital  era, crystallizing
+around themes that highlight the social, political,  and cultural stakes of
+our increasingly technologically-mediated  existence. As such, the journal
+speaks both implicitly and explicitly to  key debates across varied
+disciplines, including issues of  globalization, mobility, power, and access.
+Operating at the intersection of culture, creativity, and technology, the
+journal focuses  on the myriad ways technology shapes, transforms,
+reconfigures, and/or  impedes social relations, both in the past and in the
+present.
 
 [[top]](#directory)
 

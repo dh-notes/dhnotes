@@ -6,9 +6,14 @@
 > **Funding, Journals, Review and Conferences**
 
 - **[Conferences](https://github.com/dh-notes/dhnotes/blob/master/pages/conferences.md)**
-- **[Peer Review and T&P Guidelines](https://github.com/dh-notes/dhnotes/blob/master/pages/evaluating-digital-work.md)**
-- **[DH- and New Media-friendly Journals](https://github.com/xpmethod/dhnotes/blob/master/pages/journals.md)**
-- [Funding](https://github.com/achorg/dhfunding/blob/gh-pages/index.md)
+- **[Peer Review and T&P
+  Guidelines](https://github.com/dh-notes/dhnotes/blob/master/pages/evaluating-digital-work.md)**
+- **[DH- and New Media-friendly
+  Journals](https://github.com/xpmethod/dhnotes/blob/master/pages/journals.md)**
+- [Funding](https://github.com/xpmethod/dhnotes/blob/master/pages/funding.md)
+- **[Essay and Book Prizes in
+  Literary/Media/DH](https://github.com/dh-notes/dhnotes/blob/master/pages/book-essay-prizes.md)**
+- [**Selected Journals in Literary Studies**](https://github.com/xpmethod/dhnotes/blob/master/pages/lit-journals.md)
 
 > **Tutorials**
 
@@ -18,11 +23,20 @@
 - **[Version Control with Git][4]**
 - **[Minimal Computing](https://github.com/dh-notes/dhnotes/blob/master/pages/minimal-computing.md)**
 
-
 [1]: https://github.com/dh-notes/dhnotes/tree/master/tutorials/python
 [2]: https://github.com/dh-notes/dhnotes/blob/master/tutorials/command-line/000-cli.md
-[4]: https://github.com/xpmethod/dhnotes/blob/master/cheatsheets/githum.md
 [3]: http://programminghistorian.org/lessons/sustainable-authorship-in-plain-text-using-pandoc-and-markdown
+[4]: https://github.com/xpmethod/dhnotes/blob/master/cheatsheets/githum.md
+
+> **Technologies of Dissent**  
+A series of workshops and teach-ins to address the needs of scholars and
+activists at risk.
+
+- **[Electronic Device Security at the Border][5]**
+- **[Online Security Glossary][6]**
+
+[5]: https://github.com/dh-notes/dhnotes/blob/master/pages/border-security.md
+[6]: https://github.com/dh-notes/dhnotes/blob/master/pages/security-key-concepts.md
 
 > **Tools**
 
