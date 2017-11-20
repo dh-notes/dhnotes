@@ -1068,6 +1068,14 @@ is concerned with contemporary, historical and emerging discussions about
 within these debates by reassembling key concepts like public spheres, media
 spheres and atmospheres./*
 
+[**Surveillance & Society**](
+https://ojs.library.queensu.ca/index.php/surveillance-and-society/index) is an
+international, interdisciplinary, open access, peer-reviewed journal of
+Surveillance Studies, aiming to publish innovative and transdisciplinary work
+on surveillance; encourage understanding of approaches to surveillance in
+different academic disciplines; promote understanding of surveillance in wider
+society; and encourage policy and political debate about surveillance.
+
 [**sx archipelagos**](http://smallaxe.net/sxarchipelagos/) sx archipelagos is
 the latest born-digital articulation of the Small Axe Project. It is a
 peer-reviewed publication platform devoted to creative exploration, debate,
