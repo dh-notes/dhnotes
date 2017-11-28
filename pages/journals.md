@@ -534,6 +534,19 @@ crossroads that is communication study. We encourage readers to REGISTER now.
 entirely devoted to papers, articles and news items on curation of digital
 objects and related issues.
 
+[**Image &
+Narrative**](http://www.imageandnarrative.be/index.php/imagenarrative/index)
+is peer-reviewed e-journal on visual narratology and word and image studies in
+the broadest sense of the term. It does not focus on a narrowly defined corpus
+or theoretical framework, but questions the mutual shaping of literary and
+visual cultures. Beside tackling theoretical issues, it is a platform for
+reviews of real life examples. Each issue features three parts: 1) a thematic
+cluster, guest-edited by specialized scholars in the field; 2) a selection of
+various articles; 3) reviews of recent publications. Image [&] Narrative is a
+bilingual journal, which publishes contributions in either English or French,
+and which fosters cross-cultural and interdisciplinary dialogue between
+linguistic and scientific traditions.
+
 [[top]](#directory)
 
 ## J
