@@ -4,7 +4,8 @@
 ## October
 
 - Oct 1st. Harry Levin & René Wellek prizes for best book / best first book.
- 
+- Oct 15. Media Ecology Association awards including The Marshall McLuhan Award for Outstanding Book in the Field of Media Ecology, The Susanne K. Langer Award for Outstanding Scholarship in the Ecology of Symbolic Form, The Dorothy Lee Award for Outstanding Scholarship in the Ecology of Culture, The Lewis Mumford Award for Outstanding Scholarship in the Ecology of Technics, The Walter Benjamin Award for Outstanding Article in the Field of Media Ecology
+
 ## November
 ## December
 
