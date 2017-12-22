@@ -1,6 +1,9 @@
 # Selected Literature Journals*  
 *Indicates open access 
 
+A selected (and incomplete) list of literary journals known for excellence in
+editing, fair peer review practices, and reasonable turn around times.
+
 ## Directory 
 [A](#a) | [B](#b) | [C](#c) | [D](#d) | [E](#e) | [F](#f) |
 [G](#g) | [H](#h) | [I](#i) | [J](#j) | [K](#k) | [L](#l) |
@@ -91,6 +94,13 @@ and Christian Vandendorpe.
 
 ## E
 
+[**English Literary History (ELH)**](https://www.press.jhu.edu/journals/elh)
+welcomes sophisticated, groundbreaking essays on all literatures in English
+and on cultural forms and contexts related to those literatures. Continuing a
+tradition that stretches back to 1934, the journal's editors balance
+historical, critical, and theoretical concerns in seeking to publish the very
+best work on English-language writing from its beginnings to the present day.
+
 [[top]](#directory)
 
 ## F
@@ -168,10 +178,10 @@ formats appear on the journal's Print Plus platform (modernismmodernity.org).
 Modernism/modernity is the official journal of the Modernist Studies
 Association (MSA). Winner of six awards from CELJ.
 
-[**Modern Language Quarterly**](https://depts.washington.edu/mlq/) publishes
+<!-- [**Modern Language Quarterly**](https://depts.washington.edu/mlq/) publishes
 scholarly essays and book reviews pertaining to literary history. The journal
 is published by Duke University Press and housed at the University of
-Washington, Seattle.
+Washington, Seattle. -->
 
 [[top]](#directory)
 
