@@ -23,7 +23,7 @@
   - `cd /home/user/[tab through long number]/Downloads`
 
 - Install Debian (this will take a while)
-  - `sudo sh crouton -r jessie -t xfce -n debian`
+  - `sudo sh crouton -r debian -t xfce -n debian`
   - run `sudo delete-chroot debian` to delete if needed
   - at some point the prompt will ask you to specify username and pass for primary user---use the same credentials as throughout
 
