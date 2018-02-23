@@ -201,6 +201,19 @@ present needs. A major international forum for scholarly exchange, New
 Literary History has received six awards from the Council of Editors of
 Learned Journals.
 
+[**Novel**](https://read.dukeupress.edu/novel) is a peer-reviewed journal
+devoted to the best new criticism and theory in novel studies. The journal
+took up this mission in the days of formalism and has responded to the
+innovative moments in the field during the half-century that has elapsed since
+then—including ideology critique, feminist and critical race theory,
+poststructuralism, cultural studies, and new historicism—by publishing the
+most interesting new work on the novel. As globalization and crises in
+biopolitics and the environment rapidly increase, and as models of affect
+theory multiply, the novel and how we read it are undergoing a sea change.
+Novel is especially interested in theory and scholarship that address these
+changes in terms of their formal, historical, political, and/or
+epistemological significance.
+
 [[top]](#directory)
 
 ## O
