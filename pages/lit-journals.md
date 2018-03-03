@@ -167,6 +167,15 @@ significant scholarly resources.
 
 ## M
 
+[**Modern Philology**](https://www.journals.uchicago.edu/journals/mp/about)
+sets the standard for literary scholarship, history, and criticism. The
+journal features contributions on literature in all modern world languages,
+including productive comparisons of texts and traditions from European and
+non-European literatures. Its wide editorial scope encompasses literary works,
+literary traditions, and literary criticism from, roughly, the time of
+Charlemagne to the present. MP also publishes insightful reviews of recent
+books as well as review articles and research on archival documents.
+
 [**Modernism/modernity**](https://www.press.jhu.edu/journals/modernismmodernity)
 focuses on the methodological, archival, and theoretical approaches particular
 to modernist studies. It encourages an interdisciplinary approach linking
@@ -277,6 +286,17 @@ and exciting work in the pages of Public Culture.
 ## S
 
 [**Sign Systems Studies**](http://www.sss.ut.ee/index.php/sss) was established in 1964 by Juri Lotman (initially as Труды по знаковым системам - Σημειωτικη), and is thus the oldest international semiotic periodical. Originally (until 1992) a Russian-language series, it is now published in English, and has become a central institution in the semiotics of culture.
+
+[**Social Text**](https://read.dukeupress.edu/social-text/pages/About) covers
+a broad spectrum of social and cultural phenomena, applying the latest
+interpretive methods to the world at large. A daring and controversial leader
+in the field of cultural studies, the journal consistently focuses attention
+on questions of gender, sexuality, race, and the environment, publishing key
+works by the most influential social and cultural theorists. As a journal at
+the forefront of cultural theory, Social Text seeks provocative interviews and
+challenging articles from emerging critical voices. Each issue breaks new
+ground in the debates about postcolonialism, postmodernism, and popular
+culture. Columbia's Brent Edwards and Brian Larkin are on the editorial board.
 
 [**Style**](http://www.psupress.org/Journals/jnls_Style.html) invites submissions that address questions of style, stylistics, and poetics—as we have traditionally. These submissions may include research and theory in discourse analysis, literary and nonliterary genres, narrative, figuration, metrics, and rhetorical analysis. In addition, Style also now welcomes contributions employing recent developments in several psychologies—cognition, bioevolutionary psychology, family systems, and human development—as those may relate to the study of literature and the humanities. Furthermore, the editors will be pleased to consider submissions on pedagogy generally as such relate to the teaching of literature and the humanities. Contributions may draw from such fields as literary criticism, critical theory, linguistics, philosophy of language, rhetoric, narrative, and composition studies as well as the varieties of psychologies and pedagogies.
 
