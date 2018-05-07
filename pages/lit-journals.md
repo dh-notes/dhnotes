@@ -4,11 +4,13 @@
 A selected (and incomplete) list of literary journals known for excellence in
 editing, fair peer review practices, and reasonable turn around times.
 
-## Directory 
+## Directory
+
 [A](#a) | [B](#b) | [C](#c) | [D](#d) | [E](#e) | [F](#f) |
 [G](#g) | [H](#h) | [I](#i) | [J](#j) | [K](#k) | [L](#l) |
-[M](#m) | [N](#n) | [O](#o) | [P](#p) | Q | [R](#r) |
-[S](#s) | [T](#t) | U | [V](#v) | W | X | Y | Z
+[M](#m) | [N](#n) | [O](#o) | [P](#p) | [Q](#q) | [R](#r) |
+[S](#s) | [T](#t) | [U](#u )| [V](#v) | [W](#w) | [X](#x) |
+[Y](#y) | [Z](#z) |
 
 ## A
 
@@ -276,6 +278,23 @@ advertising, consumption, and information networks. Artists, activists, and
 both well-established and younger scholars, from across the humanities and
 social sciences and around the world, present some of their most innovative
 and exciting work in the pages of Public Culture.
+
+[[top]](#directory)
+
+## Q
+
+[**Qui Parle: Critical Humanities and Social
+Sciences**](https://www.dukeupress.edu/qui-parle) publishes outstanding
+theoretical and critical work in the humanities and social sciences. Run by an
+independent group of graduate students since its founding at the University of
+California, Berkeley, the journal aims to start critical conversations and
+introduce new analytic modes by bringing together diverse scholarly and
+artistic voices. Contributors challenge disciplinary boundaries and engage
+with theoretical debates whose import stretches within and beyond the academy.
+Qui Parle also regularly curates special issues and dossiers organized around
+burgeoning intellectual topics and theoretical problems whose implications
+span the humanities and social sciences and reflect the varied interests of
+the editorial board.
 
 [[top]](#directory)
 
