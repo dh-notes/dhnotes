@@ -13,7 +13,7 @@
 - [Funding](https://github.com/xpmethod/dhnotes/blob/master/pages/funding.md)
 - **[Essay and Book Prizes in
   Literary/Media/DH](https://github.com/dh-notes/dhnotes/blob/master/pages/book-essay-prizes.md)**
-- [**Selected Journals in Literary Studies**](https://github.com/xpmethod/dhnotes/blob/master/pages/lit-journals.md)
+- [**Selected Journals in Literary Studies**](https://github.com/dh-notes/dhnotes/blob/master/pages/lit-journals.md)
 
 > **Tutorials**
 
