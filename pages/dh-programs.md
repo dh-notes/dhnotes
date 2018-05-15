@@ -5,6 +5,7 @@ The list is meant to be global and comprehensive of all types of degrees. The li
 List in progress. Please submit a pull request or add an issue with your suggestion. 
 
 ## PhD
+### Europe
 - MPhil/PhD in Digital Humanities Research, King's College London, UK
 - PhD in Digital Arts and Humanities, National University of Ireland Maynooth, Ireland
 - PhD in Digital Humanities, University College London, UK
@@ -28,6 +29,7 @@ List in progress. Please submit a pull request or add an issue with your suggest
 - MD in Digital Humanities, Srishti Institute of Art, Design and Technology, India
 
 ## Graduate Certificate
+### North America
 - Certificate in Digital Humanities, Michigan State University, USA
 - Certificate in Digital Humanities, North Carolina State University, USA
 - Certificate in Digital Humanities, Stanford University, USA
@@ -47,6 +49,9 @@ List in progress. Please submit a pull request or add an issue with your suggest
 - Specialization in Digital Humanities, Indiana University Bloomington, USA
 - Graduate Certificate in Digital Studies and Methods, University of Pittsburgh, USA
 - [Graduate Certificate in Digital Humanities](https://dh.virginia.edu/certificate), University of Virginia, USA
+
+### Asia
+- Specialization in Digital Humnaities (PhD Art and Design), Srishti Institute of Art, Design and Technology, India
 
 ## Undergraduate Major or Minor
 - BS in Digital Humanities, Illinois Institute of Technology, USA
