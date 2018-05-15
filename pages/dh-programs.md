@@ -97,7 +97,7 @@ List in progress. Please submit a pull request or add an issue with your suggest
 
 ## Undergraduate Certificate
 - Certificate in Digital Humanities, Rutgers University, USA
--[Digital Studies Certificate](http://greensburg.pitt.edu/academics/info/digital-studies), University of Pittsburgh-Greensburg, USA
+- [Digital Studies Certificate](http://greensburg.pitt.edu/academics/info/digital-studies), University of Pittsburgh-Greensburg, USA
 
 ## Notes
 
