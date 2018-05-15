@@ -61,23 +61,43 @@ List in progress. Please submit a pull request or add an issue with your suggest
 - [Minor in Digital Humanities](http://view2.fdu.edu/academics/university-college/university-college-minors/digital-humanities/), Farleigh Dickinson University, USA
 - BS in Digital Humanities, Illinois Institute of Technology, USA
 - BA in Digital Culture, King's College London, UK
-- Specialization in Digital Humanities, Michigan State University, USA
+- [Mino in Digital Humanities](http://dh.cal.msu.edu/undergraduate-curriculum/digital-humanities-minor/), Michigan State University, USA
 - Minor in Digital Humanities, UCLA, USA
 - Specialization in Literature & the Culture of Information, University of California, Santa Barbara, USA
 - Minor in Digital Humanities, Western University, Canada
 - BA in Digital Humanities and Information Technology, University College Cork, Ireland
 - BSc in Digital Humanities at Haifa University, Israel
 - [Humanities Analytics Minor](https://www.cmu.edu/dietrich/english/undergraduate/minors/humanities-analytics-minor.html), Carnegie Mellon, USA
+- [Digital Humanities Minor](https://www.newschool.edu/public-engagement/bachelors-program-digital-humanities-minor/), New School, New York, USA
 - [Minor in Digital Humanities](http://cnu.edu/academics/areasofstudy/minor-digitalhumanities/), Christopher Newport, USA
 - [Minor in Digital Humanities](https://www.creighton.edu/program/digital-humanities-minor), Creighton University, USA
 - [Minor in Digital Humanities](http://cah.georgiasouthern.edu/dh/), Georgia Southern University, USA
 - [Digital Humanities Minor](https://soic.iupui.edu/undergraduate/degrees/digital-humanities-minor/), Purdue University Indianapolis, USA
 - [Digital Humanities Minor](https://www.marshall.edu/dh/program/minor-declaration-form/), Marshall University, USA
 - [Digital Public Humanities Minor](https://www.messiah.edu/digital-public-humanities-minor-pennsylvania), Messiah College, USA
+- [BS Computer Science/History](https://www.ccis.northeastern.edu/program/bs-computer-sciencehistory/), Northeastern University, USA
+- [BS Computer Science/English](https://www.ccis.northeastern.edu/program/bs-computer-scienceenglish/), Northeastern University, USA
+- [Digital Humanities Minor](https://seaver.pepperdine.edu/humanities/undergraduate/digitalhumanities/), Pepperdine University, USA
+- [Digital Humanities Minor](http://catalog.stkate.edu/undergraduate/business-professional-studies/info-mgmt/digital-hum-minor/), St. Catherine University, USA
+- [Minor in Digital Humanities](https://dhminor.stanford.edu/), Stanford, USA
+- [Minor in Digital Humanities](https://www.oswego.edu/news/story/new-digital-humanities-minor-blends-modern-traditional-disciplines), SUNY Oswego, USA
+- [Minor in Digital Culture and Data Analytics](https://admissions.tcu.edu/programs/digital-culture-data-analytics-minor/), Texas Christian University, USA
+- [Digital Humanities Summer Minor](https://summerdigitalhumanities.berkeley.edu/), UC Berkeley, USA
+- [Digital Humanities Minor](https://cis.ucla.edu/studyArea/course.asp?id=328), UCLA, USA
+- [Digital Humanities Minor](http://digitalhumanities.cah.ucf.edu/), University of Central Florida, USA
+- [Digital Humanities Minor](https://catalog.uconn.edu/minors/digital-humanities/), University of Connecticut, USA
+- [Digital Humanities Minor](https://bulletin.unl.edu/undergraduate/major/Digital+Humanities+Minor), University of Nebraska-Lincoln, USA
+- [Minor in Digital Humanities](https://unfdhi.org/minor-in-digital-humanities/), University of North Florida, USA
+- [Digital Humanities Minor](https://english.uoregon.edu/undergraduate/major-minor-requirements/digital-humanities-minor), University of Oregon, USA
+- [Digital Humanities Minor](https://pricelab.sas.upenn.edu/education/digital-humanities-minor), University of Pennsylvania, USA
+- [Digital and Public Humanities Emphasis](http://catalog.uwgb.edu/undergraduate/programs/humanistic-studies/major/digital-public-humanities/), University of Wisconsin \- Green Bay, USA
+- [Minor in Data Science in the Humanities](http://iph.wustl.edu/minor-data-science-humanities), Washington University in St. Louis, USA
+- [Digital Humanities Minor](https://wheatoncollege.edu/academics/programs/digital-humanities/), Wheaton College, USA
+
 
 ## Undergraduate Certificate
 - Certificate in Digital Humanities, Rutgers University, USA
-- Certificate in Digital Studies, University of Pittsburgh-Greensburg, USA
+-[Digital Studies Certificate](http://greensburg.pitt.edu/academics/info/digital-studies, University of Pittsburgh-Greensburg, USA
 
 ## Notes
 
