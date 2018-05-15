@@ -18,7 +18,7 @@ List in progress. Please submit a pull request or add an issue with your suggest
 - MA in Digital Humanities (Collaborative Master's), Carleton University, Canada
 - Maestría en Humanidades Digitales, Universidad de los Andes, Bogota, Colombia
 - [Major and Minor in Digital Humanities and Public Culture](http://cdhr.cass.anu.edu.au/students/future), Australian National University, Australia
-- M.Sc. Computing in the Humanities, Otto-Friedrich-Universität Bamberg, Germany (https://www.uni-bamberg.de/ma-cith/)
+- [M.Sc. Computing in the Humanities](https://www.uni-bamberg.de/ma-cith/), Otto-Friedrich-Universität Bamberg, Germany 
 - [MA Digital Humanities](https://www.uni-wuerzburg.de/studium/angebot/faecher/digihum), Universität Würzburg, Germany 
 - [MA Digital Humanities](http://www.uni-stuttgart.de/dh/studium/masterstudiengang/), Universität Stuttgart, Germany
 - [MA Digital Humanities](https://www.uni-trier.de/index.php?id=1175), Universität Trier, Germany
@@ -97,7 +97,7 @@ List in progress. Please submit a pull request or add an issue with your suggest
 
 ## Undergraduate Certificate
 - Certificate in Digital Humanities, Rutgers University, USA
--[Digital Studies Certificate](http://greensburg.pitt.edu/academics/info/digital-studies, University of Pittsburgh-Greensburg, USA
+-[Digital Studies Certificate](http://greensburg.pitt.edu/academics/info/digital-studies), University of Pittsburgh-Greensburg, USA
 
 ## Notes
 
