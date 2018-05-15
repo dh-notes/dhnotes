@@ -62,6 +62,7 @@ List in progress. Please submit a pull request or add an issue with your suggest
 - Specialization in Digital Humanities, Indiana University Bloomington, USA
 - Graduate Certificate in Digital Studies and Methods, University of Pittsburgh, USA
 - [Graduate Certificate in Digital Humanities](https://dh.virginia.edu/certificate), University of Virginia, USA
+- [Graduate Certificate in Digital Studies](https://www.salemstate.edu/academics/colleges-and-schools/college-arts-and-sciences/english/graduate-certificate-digital), Salem State University, USA 
 
 ## Undergraduate Major or Minor
 
