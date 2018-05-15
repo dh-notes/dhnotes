@@ -24,7 +24,6 @@ List in progress. Please submit a pull request or add an issue with your suggest
 - [MA Digital Humanities](https://www.uni-wuerzburg.de/studium/angebot/faecher/digihum), Universität Würzburg, Germany 
 - [MA Digital Humanities](http://www.uni-stuttgart.de/dh/studium/masterstudiengang/), Universität Stuttgart, Germany
 - [MA Digital Humanities](https://www.uni-trier.de/index.php?id=1175), Universität Trier, Germany
-- MA in Digital Humanities, Loyola University Chicago, USA
 - MA in Digital Humanities, National University of Ireland Maynooth, Ireland
 - MPhil in Digital Humanities and Culture, Trinity College Dublin
 - [Master of Digital Humanities](https://set.kuleuven.be/mdh), KU Leuven, Belgium
@@ -32,6 +31,7 @@ List in progress. Please submit a pull request or add an issue with your suggest
 - [Laurea e Laurea Magistrali Informatica Umanistica](http://www.fileli.unipi.it/infouma/), Universitá de Pisa
 
 ### North America
+- MA in Digital Humanities, Loyola University Chicago, USA
 - MA in DH, McGill University, Canada
 - MA program, Loyola University Chicago, USA
 - Tufts, M.A. in Digital Tools for Premodern Studies, USA
