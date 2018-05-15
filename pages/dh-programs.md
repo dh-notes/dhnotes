@@ -25,7 +25,7 @@ List in progress. Please submit a pull request or add an issue with your suggest
 - [MA Digital Humanities](http://www.uni-stuttgart.de/dh/studium/masterstudiengang/), Universität Stuttgart, Germany
 - [MA Digital Humanities](https://www.uni-trier.de/index.php?id=1175), Universität Trier, Germany
 - MA in Digital Humanities, National University of Ireland Maynooth, Ireland
-- MPhil in Digital Humanities and Culture, Trinity College Dublin
+- MPhil in Digital Humanities and Culture, Trinity College Dublin, Ireland
 - [Master of Digital Humanities](https://set.kuleuven.be/mdh), KU Leuven, Belgium
 - [Intelligence des Données de la Culture et des Patrimoines \(IDCP\)](https://esipat.univ-tours.fr/master-intelligence-des-donnees-de-la-culture-et-des-patrimoines-idcp/), ESI-Pat France
 - [Laurea e Laurea Magistrali Informatica Umanistica](http://www.fileli.unipi.it/infouma/), Universitá de Pisa
