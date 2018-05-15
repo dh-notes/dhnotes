@@ -11,14 +11,12 @@ List in progress. Please submit a pull request or add an issue with your suggest
 - PhD in Digital Humanities, University College London, UK
 
 ## Masters
+
+### Asia
+- MD in Digital Humanities, Srishti Institute of Art, Design and Technology, India
+
+### Europe
 - MA in Digital Humanities Research, King's College London, UK
-- MA in DH, McGill University, Canada
-- MA program, Loyola University Chicago, USA
-- Tufts, M.A. in Digital Tools for Premodern Studies, USA
-- MA in DH, CUNY Graduate Center, USA
-- MA in Digital Humanities (Collaborative Master's), Carleton University, Canada
-- Maestría en Humanidades Digitales, Universidad de los Andes, Bogota, Colombia
-- [Major and Minor in Digital Humanities and Public Culture](http://cdhr.cass.anu.edu.au/students/future), Australian National University, Australia
 - [M.Sc. Computing in the Humanities](https://www.uni-bamberg.de/ma-cith/), Otto-Friedrich-Universität Bamberg, Germany 
 - [MA Digital Humanities](https://www.uni-wuerzburg.de/studium/angebot/faecher/digihum), Universität Würzburg, Germany 
 - [MA Digital Humanities](http://www.uni-stuttgart.de/dh/studium/masterstudiengang/), Universität Stuttgart, Germany
@@ -26,9 +24,24 @@ List in progress. Please submit a pull request or add an issue with your suggest
 - MA in Digital Humanities, Loyola University Chicago, USA
 - MA in Digital Humanities, National University of Ireland Maynooth, Ireland
 - MPhil in Digital Humanities and Culture, Trinity College Dublin
-- MD in Digital Humanities, Srishti Institute of Art, Design and Technology, India
+
+### North America
+- MA in DH, McGill University, Canada
+- MA program, Loyola University Chicago, USA
+- Tufts, M.A. in Digital Tools for Premodern Studies, USA
+- MA in DH, CUNY Graduate Center, USA
+- MA in Digital Humanities (Collaborative Master's), Carleton University, Canada
+
+### Sourth America and the Caribbean
+- Maestría en Humanidades Digitales, Universidad de los Andes, Bogota, Colombia
+- [Major and Minor in Digital Humanities and Public Culture](http://cdhr.cass.anu.edu.au/students/future), Australian National University, Australia
+
 
 ## Graduate Certificate
+
+### Asia
+- Specialization in Digital Humnaities (PhD Art and Design), Srishti Institute of Art, Design and Technology, India
+
 ### North America
 - Certificate in Digital Humanities, Michigan State University, USA
 - Certificate in Digital Humanities, North Carolina State University, USA
@@ -50,28 +63,32 @@ List in progress. Please submit a pull request or add an issue with your suggest
 - Graduate Certificate in Digital Studies and Methods, University of Pittsburgh, USA
 - [Graduate Certificate in Digital Humanities](https://dh.virginia.edu/certificate), University of Virginia, USA
 
-### Asia
-- Specialization in Digital Humnaities (PhD Art and Design), Srishti Institute of Art, Design and Technology, India
-
 ## Undergraduate Major or Minor
-- BS in Digital Humanities, Illinois Institute of Technology, USA
-- (In design stage) BA in Digital Humanities, University of West Indies \- Mona Campus, Jamaica
+
+### Asia
+- BSc in Digital Humanities at Haifa University, Israel
+
+### Australasia
 - [Major and Minor in Digital Humanities and Public Culture](http://cdhr.cass.anu.edu.au/students/future), Australian National University, Australia
+
+### Europe
 - [BA Digital Humanities](https://www.uni-wuerzburg.de/studium/angebot/faecher/digihum), Universität Würzburg, Germany 
 - [BA Digital Humanities and Social Studies](https://meinstudium.fau.de/studiengang/digitale-geistes-und-sozialwissenschaften-ba/), FAU Universität Erlangen-Nürnberg, Germany 
 - [BSc Digital Humanities](http://www.dh.uni-leipzig.de/wo/), Universität Leipzig, Germany
+- BA in Digital Culture, King's College London, UK
+- BA in Digital Humanities and Information Technology, University College Cork, Ireland
+
+### North America
+- BS in Digital Humanities, Illinois Institute of Technology, USA
 - Minor in Digital Humanities & Technology, Brigham Young University, USA
 - Minor in Interactive Arts and Science, Brock University, Canada
 - BA in Interactive Arts and Science, Brock University, Canada
 - [Minor in Digital Humanities](http://view2.fdu.edu/academics/university-college/university-college-minors/digital-humanities/), Farleigh Dickinson University, USA
 - BS in Digital Humanities, Illinois Institute of Technology, USA
-- BA in Digital Culture, King's College London, UK
 - [Mino in Digital Humanities](http://dh.cal.msu.edu/undergraduate-curriculum/digital-humanities-minor/), Michigan State University, USA
 - Minor in Digital Humanities, UCLA, USA
 - Specialization in Literature & the Culture of Information, University of California, Santa Barbara, USA
 - Minor in Digital Humanities, Western University, Canada
-- BA in Digital Humanities and Information Technology, University College Cork, Ireland
-- BSc in Digital Humanities at Haifa University, Israel
 - [Humanities Analytics Minor](https://www.cmu.edu/dietrich/english/undergraduate/minors/humanities-analytics-minor.html), Carnegie Mellon, USA
 - [Digital Humanities Minor](https://www.newschool.edu/public-engagement/bachelors-program-digital-humanities-minor/), New School, New York, USA
 - [Minor in Digital Humanities](http://cnu.edu/academics/areasofstudy/minor-digitalhumanities/), Christopher Newport, USA
@@ -99,8 +116,12 @@ List in progress. Please submit a pull request or add an issue with your suggest
 - [Minor in Data Science in the Humanities](http://iph.wustl.edu/minor-data-science-humanities), Washington University in St. Louis, USA
 - [Digital Humanities Minor](https://wheatoncollege.edu/academics/programs/digital-humanities/), Wheaton College, USA
 
+##3 South America and the Caribbean
+- (In design stage) BA in Digital Humanities, University of West Indies \- Mona Campus, Jamaica
 
 ## Undergraduate Certificate
+
+### North America
 - Certificate in Digital Humanities, Rutgers University, USA
 - [Digital Studies Certificate](http://greensburg.pitt.edu/academics/info/digital-studies), University of Pittsburgh-Greensburg, USA
 
