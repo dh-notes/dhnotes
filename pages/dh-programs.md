@@ -32,7 +32,7 @@ List in progress. Please submit a pull request or add an issue with your suggest
 - MA in DH, CUNY Graduate Center, USA
 - MA in Digital Humanities (Collaborative Master's), Carleton University, Canada
 
-### Sourth America and the Caribbean
+### South America and the Caribbean
 - Maestría en Humanidades Digitales, Universidad de los Andes, Bogota, Colombia
 - [Major and Minor in Digital Humanities and Public Culture](http://cdhr.cass.anu.edu.au/students/future), Australian National University, Australia
 
