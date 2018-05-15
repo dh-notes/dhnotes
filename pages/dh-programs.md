@@ -4,7 +4,7 @@ The list is meant to be global and comprehensive of all types of degrees. The li
 
 List in progress. Please submit a pull request or add an issue with your suggestion. 
 
-## PhD
+## PhD Programs
 ### Europe
 - MPhil/PhD in Digital Humanities Research, King's College London, UK
 - PhD in Digital Arts and Humanities, National University of Ireland Maynooth, Ireland
@@ -39,7 +39,7 @@ List in progress. Please submit a pull request or add an issue with your suggest
 - Maestría en Humanidades Digitales, Universidad de los Andes, Bogota, Colombia
 
 
-## Graduate Certificate
+## Graduate Specialization or Certificate
 
 ### Asia
 - Specialization in Digital Humnaities (PhD Art and Design), Srishti Institute of Art, Design and Technology, India
@@ -90,7 +90,7 @@ List in progress. Please submit a pull request or add an issue with your suggest
 ### South America and the Caribbean
 - (In design stage) BA in Digital Humanities, University of West Indies \- Mona Campus, Jamaica
 
-## Undergraduate Minor or Certificate
+## Undergraduate Minor, Specialization or Certificate
 
 ### North America
 - Certificate in Digital Humanities, Rutgers University, USA
