@@ -132,7 +132,7 @@ List in progress. Please submit a pull request or add an issue with your suggest
 
 ## Notes
 
-For and example article comparing some of these programs, see Sula, Hackney and Cunningham. "[A Survey of Digital Humanities Programs](https://jitp.commons.gc.cuny.edu/a-survey-of-digital-humanities-programs/#Appendix_A)")
+For a scholarly article comparing some of these programs, see Sula, Hackney and Cunningham. "[A Survey of Digital Humanities Programs](https://jitp.commons.gc.cuny.edu/a-survey-of-digital-humanities-programs/#Appendix_A)")
 
 Brett Bobley, Director of ODH, started a [Google Doc list](https://docs.google.com/document/d/1fogyvE2qvu0BOyqvqbmIJkQ-onYTed1t00D21gJMTtk/edit) focused on the US. That list is merged here.
 
