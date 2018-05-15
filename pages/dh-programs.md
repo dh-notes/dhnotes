@@ -66,7 +66,7 @@ List in progress. Please submit a pull request or add an issue with your suggest
 ## Undergraduate Major or Minor
 
 ### Asia
-- BSc in Digital Humanities at Haifa University, Israel
+- BSc in Digital Humanities, Haifa University, Israel
 
 ### Australasia
 - [Major and Minor in Digital Humanities and Public Culture](http://cdhr.cass.anu.edu.au/students/future), Australian National University, Australia
@@ -116,7 +116,7 @@ List in progress. Please submit a pull request or add an issue with your suggest
 - [Minor in Data Science in the Humanities](http://iph.wustl.edu/minor-data-science-humanities), Washington University in St. Louis, USA
 - [Digital Humanities Minor](https://wheatoncollege.edu/academics/programs/digital-humanities/), Wheaton College, USA
 
-##3 South America and the Caribbean
+### South America and the Caribbean
 - (In design stage) BA in Digital Humanities, University of West Indies \- Mona Campus, Jamaica
 
 ## Undergraduate Certificate
