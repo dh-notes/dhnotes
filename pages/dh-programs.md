@@ -127,6 +127,7 @@ List in progress. Please submit a pull request or add an issue with your suggest
 - [Digital Humanities Minor](https://seaver.pepperdine.edu/humanities/undergraduate/digitalhumanities/), Pepperdine University, USA
 - [Minor in Digital Humanities](http://view2.fdu.edu/academics/university-college/university-college-minors/digital-humanities/), Farleigh Dickinson University, USA
 - [Specialization in Literature & the Culture of Information](http://transcriptions.english.ucsb.edu/lci/), University of California, Santa Barbara, USA
+- Minor in Digital Humanities, University of Ottawa, Canada
 
 
 ## Notes
