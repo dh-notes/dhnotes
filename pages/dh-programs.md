@@ -28,6 +28,8 @@ List in progress. Please submit a pull request or add an issue with your suggest
 - MA in Digital Humanities, National University of Ireland Maynooth, Ireland
 - MPhil in Digital Humanities and Culture, Trinity College Dublin
 - [Master of Digital Humanities](https://set.kuleuven.be/mdh), KU Leuven, Belgium
+- [Intelligence des Données de la Culture et des Patrimoines \(IDCP\)](https://esipat.univ-tours.fr/master-intelligence-des-donnees-de-la-culture-et-des-patrimoines-idcp/), ESI-Pat France
+- [Laurea e Laurea Magistrali Informatica Umanistica](http://www.fileli.unipi.it/infouma/), Universitá de Pisa
 
 ### North America
 - MA in DH, McGill University, Canada
