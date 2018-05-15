@@ -1,5 +1,9 @@
 # Advanced degrees in Digital Humanities
 
+The list is meant to be global and comprehensive of all types of degrees. The list is focused on degrees and certificates granted as part of the main accreditation mechanisms of colleges and universities. The list does not take into account the main mechanisms by which a large number of practitioners continue to learn digital humanities today, namely, outside the curriculum. 
+
+List in progress. Please submit a pull request or add an issue with your suggestion. 
+
 ## PhD
 - MPhil/PhD in Digital Humanities Research, King's College London, UK
 - PhD in Digital Arts and Humanities, National University of Ireland Maynooth, Ireland
