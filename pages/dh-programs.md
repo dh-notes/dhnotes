@@ -101,6 +101,7 @@ List in progress. Please submit a pull request or add an issue with your suggest
 - [BS Computer Science/English](https://www.ccis.northeastern.edu/program/bs-computer-scienceenglish/), Northeastern University, USA
 - [BS in English for New Media](https://dsu.edu/academics/degrees-and-programs/english-for-new-media-bs), Dakota State University, USA
 - [Digital Technology and Culture](https://dtc.wsu.edu/), Washington State University, USA
+- BA in Comparative and Digital Humanities, Bucknell University, PA, USA
 
 ### South America and the Caribbean
 - (In design stage) BA in Digital Humanities, University of West Indies \- Mona Campus, Jamaica
@@ -143,6 +144,7 @@ List in progress. Please submit a pull request or add an issue with your suggest
 - [Minor in Digital Humanities](http://view2.fdu.edu/academics/university-college/university-college-minors/digital-humanities/), Farleigh Dickinson University, USA
 - [Specialization in Literature & the Culture of Information](http://transcriptions.english.ucsb.edu/lci/), University of California, Santa Barbara, USA
 - [Minor in Digital Humanities](http://arts.uottawa.ca/en/programs/digital-humanities), University of Ottawa, Canada
+- Minor in Digital Humanities, Bucknell University, USA
 
 
 ## Notes
