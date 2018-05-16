@@ -13,6 +13,9 @@ List in progress. Please submit a pull request or add an issue with your suggest
 - PhD in Digital Arts and Humanities, National University of Ireland Maynooth, Ireland
 - PhD in Digital Humanities, University College London, UK
 
+### North America
+- [Texts & Technology Ph.D. Program](https://tandt.cah.ucf.edu/), University of Central Florida, USA
+
 ## Masters
 
 ### Asia
