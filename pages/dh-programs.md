@@ -37,6 +37,9 @@ List in progress. Please submit a pull request or add an issue with your suggest
 - [Masterstudiengang Digitale Methodik in den Geistes- und Kulturwissenschaften](https://www.digitale-methodik.uni-mainz.de/), Johannes Gutenberg-Universität Mainz, Germany
 - [Masterstudiengang Digital Humanities](http://www.uni-stuttgart.de/dh), Universität Stuttgart, Germany
 - [Master Humanités numériques et computationnelles](http://www.chartes.psl.eu/fr/cursus/master-humanitesnumeriques), École Nationale des Chartes, France
+- [MA in Digital humanities](http://www.ung.si/en/study/school-of-humanities/study/2DH/), University of Nova Gorica, Slovenia
+- [Masters Digital Humanities and Digital Knowledge (DHDK)](https://corsi.unibo.it/2cycle/DigitalHumanitiesKnowledge), Università di Bologna, Italy
+- [Masters Medieninformatik](http://hki.uni-koeln.de/medieninformatik/), Universität zu Köln, Germany
 
 
 ### North America
@@ -104,6 +107,7 @@ List in progress. Please submit a pull request or add an issue with your suggest
 - BA in Digital Culture, King's College London, UK
 - BA in Digital Humanities and Information Technology, University College Cork, Ireland
 - [BA in Digital Humanities](http://www.uni-wuerzburg.de/?id=87781), Julius-Maximilians-Universität Würzburg, Germany
+- [Ba Medieninformatik](http://hki.uni-koeln.de/medieninformatik/), Universität zu Köln, Germany
 
 ### North America
 - BS in Digital Humanities, Illinois Institute of Technology, USA
