@@ -63,6 +63,7 @@ List in progress. Please submit a pull request or add an issue with your suggest
 
 ### Asia
 - Specialization in Digital Humnaities (PhD Art and Design), Srishti Institute of Art, Design and Technology, India
+- [Interdisciplinary Graduate Program in Digital Humanities](http://dh.iii.u-tokyo.ac.jp/), The University of Tokyo, Japan
 
 ### North America
 - [Certificate in Digital Humanities, Michigan State University, USA](https://reg.msu.edu/AcademicPrograms/ProgramDetail.aspx?Program=5742)
