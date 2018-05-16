@@ -88,7 +88,7 @@ List in progress. Please submit a pull request or add an issue with your suggest
 - [Graduate Certificate in Digital Humanities, Arizona State University](https://webapp4.asu.edu/programs/t5/majorinfo/ASU00/LACDHGRCT/graduate/false?init=false&nopassive=true)
 - [Graduate Certificate in Digital Humanities](https://www.depaul.edu/university-catalog/colleges-and-schools/class/certificates/graduate-certificate/Pages/digital-humanities.aspx), DePaul University, USA
 - [Advanced Certificate in Digital Humanities](http://dhss.hosting.nyu.edu/advanced-certificate/), New York University, USA
-- [Graduate Certificate in Digital Studies](http://catalog.salemstate.edu/preview_program.php?catoid=35&poid=4029&returnto=6802), Salem State University, USA
+- [Graduate Certificate in Digital Studies](https://www.salemstate.edu/academics/colleges-and-schools/college-arts-and-sciences/english/graduate-certificate-digital), Salem State University, USA
 - [Graduate Certificate in Digital Humanities and Media Studies](https://dhmediastudies.uconn.edu/dhms-graduate-certificate-2/), University of Connecticut, USA
 - [Graduate Certificate in Digital Humanities](http://sislt.missouri.edu/certificates/digital-humanities/), University of Missouri, USA
 - [Digital Humanities and Culture Graduate Certificate](https://english.wsu.edu/graduate-certificates/), Washington State University, USA
