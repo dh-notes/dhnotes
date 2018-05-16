@@ -61,7 +61,7 @@ List in progress. Please submit a pull request or add an issue with your suggest
 - [Certificate in Public Scholarship, University of Washington, USA](https://simpsoncenter.org/programs/curriculum/certificate-in-public-scholarship)
 - [Graduate Certificate in Textual and Digital Studies, University of Washington, USA](https://depts.washington.edu/text/about/graduate-certificate-in-textual-and-digital-studies/)
 - [Certificate in Digital Humanities, Pratt Institute, USA](https://www.pratt.edu/academics/information/advanced-certificates/digital-humanities/)
-- [Certificate in Digital Humanities, University of Victoria, USA](http://web.uvic.ca/~siemens/DH(SI)GradCertificateProposal.pdf)
+- [Certificate in Digital Humanities, University of Victoria, USA](http://web.uvic.ca/~siemens/DH(SI)GradCertificateProposal.pdf) \[no longer offered\]
 - [Certificate in Digital Humanities, Northeastern University, USA](https://www.northeastern.edu/cssh/history/graduate/programs/graduate-certificate-in-digital-humanities/)
 - Specialization in Digital Humanities, Indiana University Bloomington, USA
 - Graduate Certificate in Digital Studies and Methods, University of Pittsburgh, USA
