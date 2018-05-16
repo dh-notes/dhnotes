@@ -68,8 +68,9 @@ List in progress. Please submit a pull request or add an issue with your suggest
 - Graduate Certificate in Digital Studies and Methods, University of Pittsburgh, USA
 - [Graduate Certificate in Digital Humanities](https://dh.virginia.edu/certificate), University of Virginia, USA
 - [Digital Humanities Graduate Certificate](https://dsu.edu/graduate-students/digital-humanities-graduate-certificate). Dakota State University, USA
+- [Digital Humanities and Culture Graduate Certificate](https://english.wsu.edu/graduate-certificates/), Washington State University, USA
 
-## Undergraduate Major
+## Undergraduate Major (and Minor indicated by *)
 
 ### Asia
 - BSc in Digital Humanities, Haifa University, Israel
@@ -91,6 +92,7 @@ List in progress. Please submit a pull request or add an issue with your suggest
 - [BS Computer Science/History](https://www.ccis.northeastern.edu/program/bs-computer-sciencehistory/), Northeastern University, USA
 - [BS Computer Science/English](https://www.ccis.northeastern.edu/program/bs-computer-scienceenglish/), Northeastern University, USA
 - [BS in English for New Media](https://dsu.edu/academics/degrees-and-programs/english-for-new-media-bs), Dakota State University, USA
+- [Digital Technology and Culture](https://dtc.wsu.edu/), Washington State University, USA\*
 
 ### South America and the Caribbean
 - (In design stage) BA in Digital Humanities, University of West Indies \- Mona Campus, Jamaica
