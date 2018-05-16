@@ -11,6 +11,7 @@ List in progress. Please submit a pull request or add an issue with your suggest
 ### Europe
 - MPhil/PhD in Digital Humanities Research, King's College London, UK
 - PhD in Digital Arts and Humanities, National University of Ireland Maynooth, Ireland
+- PhD Digital Arts & Humanities, University College Cork (UCC), Ireland
 - PhD in Digital Humanities, University College London, UK
 - [PhD in Digital Humanities, Institute for Digital Humanities at the University of Cologne, Germany](http://www.dh.uni-koeln.de)
 
@@ -94,7 +95,8 @@ List in progress. Please submit a pull request or add an issue with your suggest
 - [Digital Humanities and Culture Graduate Certificate](https://english.wsu.edu/graduate-certificates/), Washington State University, USA
 - [Graduate Certificate in Data Science in the Humanities](https://iph.wustl.edu/DASHGradCertificateRequirements), Washington University in St. Louis, USA
 - [Digital Humanities Graduate Certificate](https://dsu.edu/graduate-students/digital-humanities-graduate-certificate). Dakota State University, USA
-- [Digital Studies in Arts and Humanities, Graduate Certificate](http://dsah.umd.edu/), University of Maryland, USA 
+- [Digital Studies in Arts and Humanities, Graduate Certificate](http://dsah.umd.edu/), University of Maryland, USA
+- [Digital Humanities Specialization in Master of Information Science](https://www.sice.indiana.edu/graduate/degrees/information-library-science/dual-degrees/digital-humanities-mis.html), Indiana University Bloomington, USA
 
 ## Undergraduate Major
 
@@ -169,6 +171,7 @@ List in progress. Please submit a pull request or add an issue with your suggest
 - [Specialization in Literature & the Culture of Information](http://transcriptions.english.ucsb.edu/lci/), University of California, Santa Barbara, USA
 - [Minor in Digital Humanities](http://arts.uottawa.ca/en/programs/digital-humanities), University of Ottawa, Canada
 - Minor in Digital Humanities, Bucknell University, USA
+- [Digital Arts and Humanities Certificate and Minor](https://idah.indiana.edu/training/certificate.html), Indiana University Bloomington, USA
 
 ### South America and the Caribbean
 - Digital Humanities Research and Service Learning Certificate, Create Caribbean, Dominica
