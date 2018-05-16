@@ -5,6 +5,9 @@ The list is meant to be global and comprehensive of all types of degrees. The li
 List in progress. Please submit a pull request or add an issue with your suggestion. 
 
 ## PhD Programs
+### Asia
+- PHD in Digital Humanities, IIT Indore, India \[In design stage\]
+
 ### Europe
 - MPhil/PhD in Digital Humanities Research, King's College London, UK
 - PhD in Digital Arts and Humanities, National University of Ireland Maynooth, Ireland
@@ -14,6 +17,7 @@ List in progress. Please submit a pull request or add an issue with your suggest
 
 ### Asia
 - MD in Digital Humanities, Srishti Institute of Art, Design and Technology, India
+- MS in Digital Humanities, IIT Indore, India
 
 ### Australasia
 - [Major and Minor in Digital Humanities and Public Culture](http://cdhr.cass.anu.edu.au/students/future), Australian National University, Australia
