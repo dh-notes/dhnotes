@@ -151,6 +151,9 @@ List in progress. Please submit a pull request or add an issue with your suggest
 - [Minor in Digital Humanities](http://arts.uottawa.ca/en/programs/digital-humanities), University of Ottawa, Canada
 - Minor in Digital Humanities, Bucknell University, USA
 
+### South America and the Caribbean
+- Digital Huamnities Research and Service Learning Certificate, Create Caribbean, Dominica
+
 
 ## Notes
 
