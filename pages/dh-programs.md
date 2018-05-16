@@ -12,6 +12,7 @@ List in progress. Please submit a pull request or add an issue with your suggest
 - MPhil/PhD in Digital Humanities Research, King's College London, UK
 - PhD in Digital Arts and Humanities, National University of Ireland Maynooth, Ireland
 - PhD in Digital Humanities, University College London, UK
+- [PhD in Digital Humanities, Institute for Digital Humanities at the University of Cologne, Germany](http://www.dh.uni-koeln.de)
 
 ## Masters
 
@@ -32,6 +33,7 @@ List in progress. Please submit a pull request or add an issue with your suggest
 - MPhil in Digital Humanities and Culture, Trinity College Dublin
 - [Master of Digital Humanities](https://set.kuleuven.be/mdh), KU Leuven, Belgium
 - [MA/MSc in Digital Humanities, University College London, UK](http://www.ucl.ac.uk/dh/courses/mamsc)
+- [MA in Digital Humanities: three study programs, including media computer science and computational linguistics](http://www.dh.uni-koeln.de), Institute for Digital Humanities at the University of Cologne, Germany
 
 ### North America
 - [Ad Hoc MA in Digital Humanities, McGill University, Canada](https://www.mcgill.ca/digital-humanities/ma-digital-humanities)
@@ -97,6 +99,7 @@ List in progress. Please submit a pull request or add an issue with your suggest
 - [BSc Digital Humanities](http://www.dh.uni-leipzig.de/wo/), Universität Leipzig, Germany
 - BA in Digital Culture, King's College London, UK
 - BA in Digital Humanities and Information Technology, University College Cork, Ireland
+- [BA in Digital Humanities: two study programs](http://www.dh.uni-koeln.de), Institute for Digital Humanities at the University of Cologne, Germany
 
 ### North America
 - BS in Digital Humanities, Illinois Institute of Technology, USA
