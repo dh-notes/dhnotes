@@ -169,7 +169,7 @@ List in progress. Please submit a pull request or add an issue with your suggest
 - Minor in Digital Humanities, Bucknell University, USA
 
 ### South America and the Caribbean
-- Digital Huamnities Research and Service Learning Certificate, Create Caribbean, Dominica
+- Digital Humanities Research and Service Learning Certificate, Create Caribbean, Dominica
 
 
 ## Notes
