@@ -52,6 +52,7 @@ List in progress. Please submit a pull request or add an issue with your suggest
 - [MA in DH, CUNY Graduate Center, USA](https://www.gc.cuny.edu/Page-Elements/Academics-Research-Centers-Initiatives/Masters-Programs/Digital-Humanities)
 - [MA in Digital Humanities (Collaborative Master's), Carleton University, Canada](https://graduate.carleton.ca/cu-programs/digital-humanities-collaborative-masters/)
 - [MA/MLIS in Humanities Computing, University of Alberta, Canada](https://www.ualberta.ca/school-of-library-and-information-studies/programs/mamlis)
+- [Master of Arts in Digital Tools for Premodern Studies](https://ase.tufts.edu/classics/graduate/digitalTools.htm), Tufts University, USA
 
 ### South America and the Caribbean
 - Maestría en Humanidades Digitales, Universidad de los Andes, Bogota, Colombia
