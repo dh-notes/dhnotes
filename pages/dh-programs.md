@@ -81,6 +81,7 @@ List in progress. Please submit a pull request or add an issue with your suggest
 - [Digital Humanities and Culture Graduate Certificate](https://english.wsu.edu/graduate-certificates/), Washington State University, USA
 - [Graduate Certificate in Data Science in the Humanities](https://iph.wustl.edu/DASHGradCertificateRequirements), Washington University in St. Louis, USA
 - [Digital Humanities Graduate Certificate](https://dsu.edu/graduate-students/digital-humanities-graduate-certificate). Dakota State University, USA
+- [Digital Studies in Arts and Humanities, Graduate Certificate](http://dsah.umd.edu/), University of Maryland, USA 
 
 ## Undergraduate Major
 
