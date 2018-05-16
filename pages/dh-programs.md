@@ -55,7 +55,7 @@ List in progress. Please submit a pull request or add an issue with your suggest
 
 ### South America and the Caribbean
 - Maestría en Humanidades Digitales, Universidad de los Andes, Bogota, Colombia
-
+- Maestría en Comunicación y Humanidades Digitales](http://elclaustro.edu.mx/licenciaturas/maestria-en-comunicacion-y-humanidades-digitales/), Universidad del Claustro de Sor Juana, Mexico
 
 ## Graduate Specialization or Certificate
 
