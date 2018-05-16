@@ -12,6 +12,7 @@ List in progress. Please submit a pull request or add an issue with your suggest
 - MPhil/PhD in Digital Humanities Research, King's College London, UK
 - PhD in Digital Arts and Humanities, National University of Ireland Maynooth, Ireland
 - PhD in Digital Humanities, University College London, UK
+- [PhD in Digital Humanities, Institute for Digital Humanities at the University of Cologne, Germany](http://www.dh.uni-koeln.de)
 
 ### North America
 - [Texts & Technology Ph.D. Program](https://tandt.cah.ucf.edu/), University of Central Florida, USA
@@ -35,6 +36,7 @@ List in progress. Please submit a pull request or add an issue with your suggest
 - MPhil in Digital Humanities and Culture, Trinity College Dublin
 - [Master of Digital Humanities](https://set.kuleuven.be/mdh), KU Leuven, Belgium
 - [MA/MSc in Digital Humanities, University College London, UK](http://www.ucl.ac.uk/dh/courses/mamsc)
+- [MA in Digital Humanities](http://www.dh.uni-koeln.de), Institute for Digital Humanities at the University of Cologne, Germany
 - [Masters Humanités Numériques](https://esipat.univ-tours.fr/masters/), Université Francois-Rabelais, France
 - [Master of Arts (MA) in Digital Humanities](https://www.unil.ch/formations/en/home/menuinst/masters/humanites-numeriques.html), Université de Lausanne, Switzerland
 - [Masterstudiengang Digitale Methodik in den Geistes- und Kulturwissenschaften](https://www.digitale-methodik.uni-mainz.de/), Johannes Gutenberg-Universität Mainz, Germany
@@ -42,8 +44,6 @@ List in progress. Please submit a pull request or add an issue with your suggest
 - [Master Humanités numériques et computationnelles](http://www.chartes.psl.eu/fr/cursus/master-humanitesnumeriques), École Nationale des Chartes, France
 - [MA in Digital humanities](http://www.ung.si/en/study/school-of-humanities/study/2DH/), University of Nova Gorica, Slovenia
 - [Masters Digital Humanities and Digital Knowledge (DHDK)](https://corsi.unibo.it/2cycle/DigitalHumanitiesKnowledge), Università di Bologna, Italy
-- [Masters Medieninformatik](http://hki.uni-koeln.de/medieninformatik/), Universität zu Köln, Germany
-
 
 ### North America
 - [Ad Hoc MA in Digital Humanities, McGill University, Canada](https://www.mcgill.ca/digital-humanities/ma-digital-humanities)
@@ -110,8 +110,9 @@ List in progress. Please submit a pull request or add an issue with your suggest
 - [BSc Digital Humanities](http://www.dh.uni-leipzig.de/wo/), Universität Leipzig, Germany
 - BA in Digital Culture, King's College London, UK
 - BA in Digital Humanities and Information Technology, University College Cork, Ireland
+- [BA in Digital Humanities: two study programs](http://www.dh.uni-koeln.de), Institute for Digital Humanities at the University of Cologne, Germany
 - [BA in Digital Humanities](http://www.uni-wuerzburg.de/?id=87781), Julius-Maximilians-Universität Würzburg, Germany
-- [Ba Medieninformatik](http://hki.uni-koeln.de/medieninformatik/), Universität zu Köln, Germany
+
 
 ### North America
 - BS in Digital Humanities, Illinois Institute of Technology, USA
