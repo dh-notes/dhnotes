@@ -78,7 +78,6 @@ List in progress. Please submit a pull request or add an issue with your suggest
 - [Graduate Certificate in Data Science in the Humanities](https://iph.wustl.edu/DASHGradCertificateRequirements), Washington University in St. Louis, USA
 - [Digital Humanities Graduate Certificate](https://dsu.edu/graduate-students/digital-humanities-graduate-certificate). Dakota State University, USA
 
-
 ## Undergraduate Major
 
 ### Asia
