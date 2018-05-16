@@ -66,17 +66,17 @@ List in progress. Please submit a pull request or add an issue with your suggest
 - Specialization in Digital Humanities, Indiana University Bloomington, USA
 - Graduate Certificate in Digital Studies and Methods, University of Pittsburgh, USA
 - [Graduate Certificate in Digital Humanities](https://dh.virginia.edu/certificate), University of Virginia, USA
-- [Digital Humanities Graduate Certificate, Dakota State University, USA](https://dsu.edu/graduate-students/digital-humanities-graduate-certificate)
-- [Digital Public Humanities Graduate, George Mason University, USA](https://masononline.gmu.edu/programs/digital-public-humanities-graduate-certificate/)
-- [Graduate Certificate in Digital Scholarship and Media Studies, Emory University](http://digitalscholarship.emory.edu/partner/learn/certificate.html)
+- [Digital Public Humanities Graduate](https://masononline.gmu.edu/programs/digital-public-humanities-graduate-certificate/), George Mason University, USA
+- [Graduate Certificate in Digital Scholarship and Media Studies](http://digitalscholarship.emory.edu/partner/learn/certificate.html), Emory University, USA
 - [Graduate Certificate in Digital Humanities, Arizona State University](https://webapp4.asu.edu/programs/t5/majorinfo/ASU00/LACDHGRCT/graduate/false?init=false&nopassive=true)
-- [Graduate Certificate in Digital Humanities, DePaul University](https://www.depaul.edu/university-catalog/colleges-and-schools/class/certificates/graduate-certificate/Pages/digital-humanities.aspx)
-- [Advanced Certificate in Digital Humanities, New York University](http://dhss.hosting.nyu.edu/advanced-certificate/)
-- [Graduate Certificate in Digital Studies, Salem State University](http://catalog.salemstate.edu/preview_program.php?catoid=35&poid=4029&returnto=6802)
-- [Graduate Certificate in Digital Humanities and Media Studies](https://dhmediastudies.uconn.edu/dhms-graduate-certificate-2/)
-- [Graduate Certificate in Digital Humanities, University of Missouri](http://sislt.missouri.edu/certificates/digital-humanities/)
-- [Digital Humanities and Culture Graduate Certificate, Washington State University](https://english.wsu.edu/graduate-certificates/)
-- [Graduate Certificate in Data Science in the Humanities, Washington University in St. Louis](https://iph.wustl.edu/DASHGradCertificateRequirements)
+- [Graduate Certificate in Digital Humanities](https://www.depaul.edu/university-catalog/colleges-and-schools/class/certificates/graduate-certificate/Pages/digital-humanities.aspx), DePaul University, USA
+- [Advanced Certificate in Digital Humanities](http://dhss.hosting.nyu.edu/advanced-certificate/), New York University, USA
+- [Graduate Certificate in Digital Studies](http://catalog.salemstate.edu/preview_program.php?catoid=35&poid=4029&returnto=6802), Salem State University, USA
+- [Graduate Certificate in Digital Humanities and Media Studies](https://dhmediastudies.uconn.edu/dhms-graduate-certificate-2/), University of Connecticut, USA
+- [Graduate Certificate in Digital Humanities](http://sislt.missouri.edu/certificates/digital-humanities/), University of Missouri, USA
+- [Digital Humanities and Culture Graduate Certificate](https://english.wsu.edu/graduate-certificates/), Washington State University, USA
+- [Graduate Certificate in Data Science in the Humanities](https://iph.wustl.edu/DASHGradCertificateRequirements), Washington University in St. Louis, USA
+- [Digital Humanities Graduate Certificate](https://dsu.edu/graduate-students/digital-humanities-graduate-certificate). Dakota State University, USA
 
 
 ## Undergraduate Major
@@ -101,6 +101,7 @@ List in progress. Please submit a pull request or add an issue with your suggest
 - [BS Computer Science/History](https://www.ccis.northeastern.edu/program/bs-computer-sciencehistory/), Northeastern University, USA
 - [BS Computer Science/English](https://www.ccis.northeastern.edu/program/bs-computer-scienceenglish/), Northeastern University, USA
 - [BS in English for New Media](https://dsu.edu/academics/degrees-and-programs/english-for-new-media-bs), Dakota State University, USA
+- [Digital Technology and Culture](https://dtc.wsu.edu/), Washington State University, USA
 
 ### South America and the Caribbean
 - (In design stage) BA in Digital Humanities, University of West Indies \- Mona Campus, Jamaica
@@ -142,7 +143,7 @@ List in progress. Please submit a pull request or add an issue with your suggest
 - [Digital Humanities Minor](https://seaver.pepperdine.edu/humanities/undergraduate/digitalhumanities/), Pepperdine University, USA
 - [Minor in Digital Humanities](http://view2.fdu.edu/academics/university-college/university-college-minors/digital-humanities/), Farleigh Dickinson University, USA
 - [Specialization in Literature & the Culture of Information](http://transcriptions.english.ucsb.edu/lci/), University of California, Santa Barbara, USA
-- Minor in Digital Humanities, University of Ottawa, Canada
+- [Minor in Digital Humanities](http://arts.uottawa.ca/en/programs/digital-humanities), University of Ottawa, Canada
 
 
 ## Notes
