@@ -25,18 +25,17 @@ List in progress. Please submit a pull request or add an issue with your suggest
 - [MA Digital Humanities](http://www.uni-stuttgart.de/dh/studium/masterstudiengang/), Universität Stuttgart, Germany
 - [MA Digital Humanities](https://www.uni-trier.de/index.php?id=1175), Universität Trier, Germany
 - MA in Digital Humanities, National University of Ireland Maynooth, Ireland
-- MPhil in Digital Humanities and Culture, Trinity College Dublin, Ireland
+- MPhil in Digital Humanities and Culture, Trinity College Dublin
 - [Master of Digital Humanities](https://set.kuleuven.be/mdh), KU Leuven, Belgium
-- [Intelligence des Données de la Culture et des Patrimoines \(IDCP\)](https://esipat.univ-tours.fr/master-intelligence-des-donnees-de-la-culture-et-des-patrimoines-idcp/), ESI-Pat France
-- [Laurea e Laurea Magistrali Informatica Umanistica](http://www.fileli.unipi.it/infouma/), Universitá de Pisa
+- [MA/MSc in Digital Humanities, University College London, UK](http://www.ucl.ac.uk/dh/courses/mamsc)
 
 ### North America
-- MA in Digital Humanities, Loyola University Chicago, USA
-- MA in DH, McGill University, Canada
-- MA program, Loyola University Chicago, USA
-- Tufts, M.A. in Digital Tools for Premodern Studies, USA
-- MA in DH, CUNY Graduate Center, USA
-- MA in Digital Humanities (Collaborative Master's), Carleton University, Canada
+- [Ad Hoc MA in Digital Humanities, McGill University, Canada](https://www.mcgill.ca/digital-humanities/ma-digital-humanities)
+- [MA in Digital Humanities, Loyola University Chicago, USA](https://www.luc.edu/ctsdh/academics/maindigitalhumanities/)
+- [M.A. in Digital Tools for Premodern Studies, Tufts University, USA](https://asegrad.tufts.edu/academics/explore-graduate-programs/digital-humanities)
+- [MA in DH, CUNY Graduate Center, USA](https://www.gc.cuny.edu/Page-Elements/Academics-Research-Centers-Initiatives/Masters-Programs/Digital-Humanities)
+- [MA in Digital Humanities (Collaborative Master's), Carleton University, Canada](https://graduate.carleton.ca/cu-programs/digital-humanities-collaborative-masters/)
+- [MA/MLIS in Humanities Computing, University of Alberta, Canada](https://www.ualberta.ca/school-of-library-and-information-studies/programs/mamlis)
 
 ### South America and the Caribbean
 - Maestría en Humanidades Digitales, Universidad de los Andes, Bogota, Colombia
@@ -48,27 +47,37 @@ List in progress. Please submit a pull request or add an issue with your suggest
 - Specialization in Digital Humnaities (PhD Art and Design), Srishti Institute of Art, Design and Technology, India
 
 ### North America
-- Certificate in Digital Humanities, Michigan State University, USA
-- Certificate in Digital Humanities, North Carolina State University, USA
-- Certificate in Digital Humanities, Stanford University, USA
+- [Certificate in Digital Humanities, Michigan State University, USA](https://reg.msu.edu/AcademicPrograms/ProgramDetail.aspx?Program=5742)
+- [Certificate in Digital Humanities, North Carolina State University, USA](https://dh.chass.ncsu.edu/grad/)
+- [Certificate in Digital Humanities, Stanford University, USA](https://cesta.stanford.edu/programs/graduate-programs/graduate-certificate-digital-humanities)
 - Certificate in Digital Humanities, Texas A&M University, USA
-- Certificate in Book History and Digital Humanities, Texas Tech University, USA
-- Certificate in Digital Humanities, UCLA, USA
-- MA/MSc in Digital Humanities, University College London, UK
-- MA in Humanities Computing, University of Alberta, Canada
-- Concentration in Humanities Computing, University of Georgia, USA
-- Certificate in Public Digital Humanities, University of Iowa, USA
-- Certificate in Digital Humanities, University of Nebraska-Lincoln, USA
-- Certificate in Digital Humanities, University of North Carolina at Chapel Hill, USA
-- Certificate in Certificate in Public Scholarship, University of Washington, USA
-- Certificate in Digital Humanities, Pratt Institute, USA
-- Certificate in Digital Humanities, University of Victoria, USA
-- Certificate in Digital Humanities, Northeastern University, USA
+- [Certificate in Book History and Digital Humanities, Texas Tech University, USA](https://www.depts.ttu.edu/english/grad_degrees/Book_History/BHDHcert_requirements.php)
+- [Graduate Certificate in Digital Humanities, UCLA, USA](http://dh.ucla.edu/graduate-certificate/)
+- [Concentration in Humanities Computing, University of Georgia, USA](https://www.english.uga.edu/areas-emphasis)
+- [Undergraduate Certificate in Digital Humanities, University of Georgia, USA](https://digi.uga.edu/certificate/)
+- [Certificate in Public Digital Humanities, University of Iowa, USA](https://pdh-certificate.grad.uiowa.edu/)
+- [Certificate in Digital Humanities, University of Nebraska-Lincoln, USA](https://www.unl.edu/dhcert/home)
+- [Certificate in Digital Humanities, University of North Carolina at Chapel Hill, USA](https://cdh.unc.edu/programs/dh-graduate-certificate/)
+- [Certificate in Public Scholarship, University of Washington, USA](https://simpsoncenter.org/programs/curriculum/certificate-in-public-scholarship)
+- [Graduate Certificate in Textual and Digital Studies, University of Washington, USA](https://depts.washington.edu/text/about/graduate-certificate-in-textual-and-digital-studies/)
+- [Certificate in Digital Humanities, Pratt Institute, USA](https://www.pratt.edu/academics/information/advanced-certificates/digital-humanities/)
+- [Certificate in Digital Humanities, University of Victoria, USA](http://web.uvic.ca/~siemens/DH(SI)GradCertificateProposal.pdf)
+- [Certificate in Digital Humanities, Northeastern University, USA](https://www.northeastern.edu/cssh/history/graduate/programs/graduate-certificate-in-digital-humanities/)
 - Specialization in Digital Humanities, Indiana University Bloomington, USA
 - Graduate Certificate in Digital Studies and Methods, University of Pittsburgh, USA
 - [Graduate Certificate in Digital Humanities](https://dh.virginia.edu/certificate), University of Virginia, USA
-- [Digital Humanities Graduate Certificate](https://dsu.edu/graduate-students/digital-humanities-graduate-certificate). Dakota State University, USA
+- [Digital Public Humanities Graduate](https://masononline.gmu.edu/programs/digital-public-humanities-graduate-certificate/), George Mason University, USA
+- [Graduate Certificate in Digital Scholarship and Media Studies](http://digitalscholarship.emory.edu/partner/learn/certificate.html), Emory University, USA
+- [Graduate Certificate in Digital Humanities, Arizona State University](https://webapp4.asu.edu/programs/t5/majorinfo/ASU00/LACDHGRCT/graduate/false?init=false&nopassive=true)
+- [Graduate Certificate in Digital Humanities](https://www.depaul.edu/university-catalog/colleges-and-schools/class/certificates/graduate-certificate/Pages/digital-humanities.aspx), DePaul University, USA
+- [Advanced Certificate in Digital Humanities](http://dhss.hosting.nyu.edu/advanced-certificate/), New York University, USA
+- [Graduate Certificate in Digital Studies](http://catalog.salemstate.edu/preview_program.php?catoid=35&poid=4029&returnto=6802), Salem State University, USA
+- [Graduate Certificate in Digital Humanities and Media Studies](https://dhmediastudies.uconn.edu/dhms-graduate-certificate-2/), University of Connecticut, USA
+- [Graduate Certificate in Digital Humanities](http://sislt.missouri.edu/certificates/digital-humanities/), University of Missouri, USA
 - [Digital Humanities and Culture Graduate Certificate](https://english.wsu.edu/graduate-certificates/), Washington State University, USA
+- [Graduate Certificate in Data Science in the Humanities](https://iph.wustl.edu/DASHGradCertificateRequirements), Washington University in St. Louis, USA
+- [Digital Humanities Graduate Certificate](https://dsu.edu/graduate-students/digital-humanities-graduate-certificate). Dakota State University, USA
+
 
 ## Undergraduate Major
 
