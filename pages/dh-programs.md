@@ -178,5 +178,7 @@ For a scholarly article comparing some of these programs, see Sula, Hackney and 
 
 Brett Bobley, Director of ODH, started a [Google Doc list](https://docs.google.com/document/d/1fogyvE2qvu0BOyqvqbmIJkQ-onYTed1t00D21gJMTtk/edit) focused on the US. That list is merged here.
 
+DARIAH has a useful list of courses and programs in their [Digital Humanities Courses Registry](https://registries.clarin-dariah.eu/courses/).
+
 
 
