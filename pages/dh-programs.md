@@ -14,6 +14,7 @@ List in progress. Please submit a pull request or add an issue with your suggest
 - PhD Digital Arts & Humanities, University College Cork (UCC), Ireland
 - PhD in Digital Humanities, University College London, UK
 - [PhD in Digital Humanities, Institute for Digital Humanities at the University of Cologne, Germany](http://www.dh.uni-koeln.de)
+- [Doktoratsstudium "Digitale Geisteswissenschaften"](https://gewi.uni-graz.at/de/studieren/doktoratsstudium/) (Doctoral programme "Digital Humanities"), University of Graz, Austria
 
 ### North America
 - [Texts & Technology Ph.D. Program](https://tandt.cah.ucf.edu/), University of Central Florida, USA
@@ -45,6 +46,7 @@ List in progress. Please submit a pull request or add an issue with your suggest
 - [Master Humanités numériques et computationnelles](http://www.chartes.psl.eu/fr/cursus/master-humanitesnumeriques), École Nationale des Chartes, France
 - [MA in Digital humanities](http://www.ung.si/en/study/school-of-humanities/study/2DH/), University of Nova Gorica, Slovenia
 - [Masters Digital Humanities and Digital Knowledge (DHDK)](https://corsi.unibo.it/2cycle/DigitalHumanitiesKnowledge), Università di Bologna, Italy
+- [Masterstudium Digitale Geisteswissenschaften](https://informationsmodellierung.uni-graz.at/de/studieren/masterstudium-digitale-geisteswissenschaften/), University of Graz, Austria
 
 ### North America
 - [Ad Hoc MA in Digital Humanities, McGill University, Canada](https://www.mcgill.ca/digital-humanities/ma-digital-humanities)
@@ -137,6 +139,7 @@ List in progress. Please submit a pull request or add an issue with your suggest
 
 ### Europe
 - [Minor in Digital Humanities](https://studiegids.leidenuniv.nl/studies/show/6699/digital-humanities), Universiteit Leiden, Netherlands
+- [Module Information Modelling](https://informationsmodellierung.uni-graz.at/de/studieren/modul-informationsmodellierung/), University of Graz, Austria
 
 ### North America
 - Certificate in Digital Humanities, Rutgers University, USA
