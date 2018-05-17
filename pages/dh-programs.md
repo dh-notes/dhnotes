@@ -180,7 +180,7 @@ List in progress. Please submit a pull request or add an issue with your suggest
 - [Digital and Computational Studies Minor](https://www.bates.edu/digital-computational-studies/), Bates College, USA
 - [Digital Humanities Minor](http://cnu.edu/academics/areasofstudy/minor-digitalhumanities/), Christopher Newport University, USA
 - [Digital Studies Minor](https://www.davidson.edu/academics/digital-studies), Davidson College, USA
-
+- [Digital Humanities Minor](https://wheatoncollege.edu/academics/programs/digital-humanities/), Wheaton College, USA
 
 
 ### South America and the Caribbean
