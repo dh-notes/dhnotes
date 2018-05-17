@@ -132,6 +132,9 @@ List in progress. Please submit a pull request or add an issue with your suggest
 
 ## Undergraduate Minor, Specialization or Certificate
 
+### Asia
+- [Minor in DH](https://hass.sutd.edu.sg/education/minors/digital-humanities-minor/), Singapore University of Technology and Design, Singapore
+
 ### Europe
 - [Minor in Digital Humanities](https://studiegids.leidenuniv.nl/studies/show/6699/digital-humanities), Universiteit Leiden, Netherlands
 
