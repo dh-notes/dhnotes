@@ -166,16 +166,22 @@ List in progress. Please submit a pull request or add an issue with your suggest
 - [Digital Humanities Minor](https://soic.iupui.edu/undergraduate/degrees/digital-humanities-minor/), Purdue University Indianapolis, USA
 - [Digital Humanities Minor](https://www.marshall.edu/dh/program/minor-declaration-form/), Marshall University, USA
 - [Digital Public Humanities Minor](https://www.messiah.edu/digital-public-humanities-minor-pennsylvania), Messiah College, USA
-- Minor in Digital Humanities & Technology, Brigham Young University, USA
+- [Minor in Digital Humanities & Technology](https://catalog.byu.edu/humanities/digital-humanities-program/digital-humanities-and-technology-minor), Brigham Young University, USA
 - Minor in Interactive Arts and Science, Brock University, Canada
 - [Minor in Digital Humanities](http://dh.cal.msu.edu/undergraduate-curriculum/digital-humanities-minor/), Michigan State University, USA
 - [Minor in Digital Humanities](http://dh.ucla.edu/), UCLA, USA
 - [Digital Humanities Minor](https://seaver.pepperdine.edu/humanities/undergraduate/digitalhumanities/), Pepperdine University, USA
-- [Minor in Digital Humanities](http://view2.fdu.edu/academics/university-college/university-college-minors/digital-humanities/), Farleigh Dickinson University, USA
+- [Minor in Digital Humanities](http://view2.fdu.edu/academics/university-college/university-college-minors/digital-humanities/), Fairleigh Dickinson University, USA
 - [Specialization in Literature & the Culture of Information](http://transcriptions.english.ucsb.edu/lci/), University of California, Santa Barbara, USA
 - [Minor in Digital Humanities](http://arts.uottawa.ca/en/programs/digital-humanities), University of Ottawa, Canada
-- Minor in Digital Humanities, Bucknell University, USA
+- [Minor in Digital Humanities](http://coursecatalog.bucknell.edu/collegeofartsandsciencescurricula/areasofstudy/digitalhumanities/), Bucknell University, USA
 - [Digital Arts and Humanities Certificate and Minor](https://idah.indiana.edu/training/certificate.html), Indiana University Bloomington, USA
+- [Experimental Humanities Minor](http://eh.bard.edu/courses/), Bard College, USA
+- [Digital and Computational Studies Minor](https://www.bates.edu/digital-computational-studies/), Bates College, USA
+- [Digital Humanities Minor](http://cnu.edu/academics/areasofstudy/minor-digitalhumanities/), Christopher Newport University, USA
+- [Digital Studies Minor](https://www.davidson.edu/academics/digital-studies), Davidson College, USA
+- [Minor in Digital Culture and Information](https://digitalhumanities.wlu.edu/blog/2018/05/08/minor-in-digital-culture-and-information/), Washington & Lee University, USA
+
 
 ### South America and the Caribbean
 - Digital Humanities Research and Service Learning Certificate, Create Caribbean, Dominica
