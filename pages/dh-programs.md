@@ -26,7 +26,7 @@ List in progress. Please submit a pull request or add an issue with your suggest
 - MS in Digital Humanities, IIT Indore, India
 
 ### Australasia
-- [Major and Minor in Digital Humanities and Public Culture](http://cdhr.cass.anu.edu.au/students/future), Australian National University, Australia
+- [Masters of Digital Humanities and Public Culture](http://cdhr.cass.anu.edu.au/students/future), Australian National University, Australia 
 
 ### Europe
 - MA in Digital Humanities Research, King's College London, UK
@@ -108,7 +108,7 @@ List in progress. Please submit a pull request or add an issue with your suggest
 - BSc in Digital Humanities, Haifa University, Israel
 
 ### Australasia
-- [Major and Minor in Digital Humanities and Public Culture](http://cdhr.cass.anu.edu.au/students/future), Australian National University, Australia
+- [Major in Digital Humanities and Public Culture](http://cdhr.cass.anu.edu.au/students/future), Australian National University, Australia
 
 ### Europe
 - [BA Digital Humanities](https://www.uni-wuerzburg.de/studium/angebot/faecher/digihum), Universität Würzburg, Germany 
@@ -137,6 +137,9 @@ List in progress. Please submit a pull request or add an issue with your suggest
 
 ### Asia
 - [Minor in DH](https://hass.sutd.edu.sg/education/minors/digital-humanities-minor/), Singapore University of Technology and Design, Singapore
+
+### Australasia
+- [Minor in Digital Humanities and Public Culture](http://cdhr.cass.anu.edu.au/students/future), Australian National University, Australia
 
 ### Europe
 - [Minor in Digital Humanities](https://studiegids.leidenuniv.nl/studies/show/6699/digital-humanities), Universiteit Leiden, Netherlands
