@@ -47,6 +47,7 @@ List in progress. Please submit a pull request or add an issue with your suggest
 - [MA in Digital humanities](http://www.ung.si/en/study/school-of-humanities/study/2DH/), University of Nova Gorica, Slovenia
 - [Masters Digital Humanities and Digital Knowledge (DHDK)](https://corsi.unibo.it/2cycle/DigitalHumanitiesKnowledge), Università di Bologna, Italy
 - [Masterstudium Digitale Geisteswissenschaften](https://informationsmodellierung.uni-graz.at/de/studieren/masterstudium-digitale-geisteswissenschaften/), University of Graz, Austria
+- [Master in Informatica del Testo ed Edizione Eletronnica](http://www.infotext.unisi.it/), Università degli Studi di Sienna, Italy
 
 ### North America
 - [Ad Hoc MA in Digital Humanities, McGill University, Canada](https://www.mcgill.ca/digital-humanities/ma-digital-humanities)
