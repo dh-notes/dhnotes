@@ -48,6 +48,9 @@ List in progress. Please submit a pull request or add an issue with your suggest
 - [Masters Digital Humanities and Digital Knowledge (DHDK)](https://corsi.unibo.it/2cycle/DigitalHumanitiesKnowledge), Università di Bologna, Italy
 - [Masterstudium Digitale Geisteswissenschaften](https://informationsmodellierung.uni-graz.at/de/studieren/masterstudium-digitale-geisteswissenschaften/), University of Graz, Austria
 - [Master in Informatica del Testo ed Edizione Eletronnica](http://www.infotext.unisi.it/), Università degli Studi di Sienna, Italy
+- [Master de Sciences Humaines et Sociales - mention Humanités Numériques](http://www.humanites-numeriques.univ-paris8.fr/), Université Paris 8 Vincennes-Saint-Dennis, France
+- [Master de Sciences Humaines et Sociales - mention Humanités Numériques](http://www.enssib.fr/sites/www/files/documents/offre%20de%20formation/master-humanites-numeriques.pdf), Université Lumière Lyon 2, France
+- [Master première année (M1) Médiation numérique et ingénierie pédagogique](https://www.univ-montp3.fr/fr/formations/offre-de-formation/master-lmd-XB/arts-lettres-langues-ALL/master-1-humanites-numeriques-program-master-1-humanites-numeriques-parcours-mediation-numerique-et-ingenierie-pedagogique/parcours-mediation-numerique-et-ingenierie-pedagogique-subprogram-parcours-mediation-numerique-et-ingenierie-pedagogique.html), Université Paul Valéry Montpellier 3, France 
 
 ### North America
 - [Ad Hoc MA in Digital Humanities, McGill University, Canada](https://www.mcgill.ca/digital-humanities/ma-digital-humanities)
