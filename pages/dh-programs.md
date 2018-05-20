@@ -50,7 +50,11 @@ List in progress. Please submit a pull request or add an issue with your suggest
 - [Master in Informatica del Testo ed Edizione Eletronnica](http://www.infotext.unisi.it/), Università degli Studi di Sienna, Italy
 - [Master de Sciences Humaines et Sociales - mention Humanités Numériques](http://www.humanites-numeriques.univ-paris8.fr/), Université Paris 8 Vincennes-Saint-Dennis, France
 - [Master de Sciences Humaines et Sociales - mention Humanités Numériques](http://www.enssib.fr/sites/www/files/documents/offre%20de%20formation/master-humanites-numeriques.pdf), Université Lumière Lyon 2, France
-- [Master première année (M1) Médiation numérique et ingénierie pédagogique](https://www.univ-montp3.fr/fr/formations/offre-de-formation/master-lmd-XB/arts-lettres-langues-ALL/master-1-humanites-numeriques-program-master-1-humanites-numeriques-parcours-mediation-numerique-et-ingenierie-pedagogique/parcours-mediation-numerique-et-ingenierie-pedagogique-subprogram-parcours-mediation-numerique-et-ingenierie-pedagogique.html), Université Paul Valéry Montpellier 3, France 
+- [Master première année (M1) Médiation numérique et ingénierie pédagogique](https://www.univ-montp3.fr/fr/formations/offre-de-formation/master-lmd-XB/arts-lettres-langues-ALL/master-1-humanites-numeriques-program-master-1-humanites-numeriques-parcours-mediation-numerique-et-ingenierie-pedagogique/parcours-mediation-numerique-et-ingenierie-pedagogique-subprogram-parcours-mediation-numerique-et-ingenierie-pedagogique.html), Université Paul Valéry Montpellier 3, France
+- [Master’s: Digital Documents and Digital Humanities](http://www.u-bordeaux-montaigne.fr/en/study/courses/information-communication-and-scientific-mediation-SCINFO.9/master-s-degree-XB/master-s-digital-documents-and-digital-humanities-program-program1-msn16-216-en.html), Université Bordeaux Montaigne, France
+- [M.A. Linguistics and Web Technology](https://www.uni-marburg.de/fb10/studium/studiengaenge/malingwebtech/studium?language_sync=1), Philipps-University Marburg, Germany
+- [M.Sc. Computing in the Humanities](https://www.uni-bamberg.de/en/ma-cith/), University of Bamberg, Germany
+
 
 ### North America
 - [Ad Hoc MA in Digital Humanities, McGill University, Canada](https://www.mcgill.ca/digital-humanities/ma-digital-humanities)
