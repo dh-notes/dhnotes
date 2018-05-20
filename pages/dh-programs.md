@@ -55,6 +55,7 @@ List in progress. Please submit a pull request or add an issue with your suggest
 - [M.Sc. Computing in the Humanities](https://www.uni-bamberg.de/en/ma-cith/), University of Bamberg, Germany
 - [M.A. in Digital Humanities](https://www.maynoothuniversity.ie/centre-for-digital-humanities), Maynooth University, Ireland
 - [M.Sc. in Spatial eHumanities](https://www.maynoothuniversity.ie/centre-for-digital-humanities), Maynooth University, Ireland
+- [M.A. Digital Arts & Humanities](https://www.ucc.ie/en/cke09/), University College Cork (UCC), Ireland
 
 
 ### North America
