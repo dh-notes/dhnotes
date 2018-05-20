@@ -58,6 +58,11 @@ List in progress. Please submit a pull request or add an issue with your suggest
 - [M.A. Digital Arts & Humanities](https://www.ucc.ie/en/cke09/), University College Cork (UCC), Ireland
 - [Master di I livello in Digital Humanities](http://www.unive.it/pag/11340/), Università Ca’ Foscari Venezia, Italy
 - [Laurea Magistrale Degree in Digital Humanities](), Università di Pisa, Italy
+- [Master in History and Digital Humanities](https://www.upo.es/postgrado/en/Master-History-and-Digital-Humanities), Universidad Pablo de Olavide Sevilla, Spain
+- [Master's Degree in Digital Humanities](http://www.uab.cat/web/postgraduate/master-in-digital-humanities/general-information-1217916968009.html/param1-3202_en/param2-2006/), Universitat Autònoma de Barcelona, Spain
+- [Master's programme 'Computational Linguistics'](https://www.hse.ru/en/ma/ling/), University Higher School of Economics, Russia
+- [MA Digital Humanities](http://btk.ppke.hu/karunkrol/intezetek-tanszekek/angol-amerikai-intezet/elmeleti-nyelveszet-tanszek/szakajanlo-es-kepzesek/digitalis-bolcseszet-ma/digitalis-kultura-specializacio), Pázmány Péter Catholic University, Hungary
+- [Master's Programme in Digital Humanities](https://lir.gu.se/english/education/masters-second-cycle/master-s-programme-in-digital-humanities), University of Gothenburg, Sweeden
 
 
 ### North America
