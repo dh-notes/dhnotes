@@ -34,7 +34,6 @@ List in progress. Please submit a pull request or add an issue with your suggest
 - [MA Digital Humanities](https://www.uni-wuerzburg.de/studium/angebot/faecher/digihum), Universität Würzburg, Germany 
 - [MA Digital Humanities](http://www.uni-stuttgart.de/dh/studium/masterstudiengang/), Universität Stuttgart, Germany
 - [MA Digital Humanities](https://www.uni-trier.de/index.php?id=1175), Universität Trier, Germany
-- MA in Digital Humanities, National University of Ireland Maynooth, Ireland
 - MPhil in Digital Humanities and Culture, Trinity College Dublin
 - [Master of Digital Humanities](https://set.kuleuven.be/mdh), KU Leuven, Belgium
 - [MA/MSc in Digital Humanities, University College London, UK](http://www.ucl.ac.uk/dh/courses/mamsc)
@@ -54,6 +53,8 @@ List in progress. Please submit a pull request or add an issue with your suggest
 - [Master’s: Digital Documents and Digital Humanities](http://www.u-bordeaux-montaigne.fr/en/study/courses/information-communication-and-scientific-mediation-SCINFO.9/master-s-degree-XB/master-s-digital-documents-and-digital-humanities-program-program1-msn16-216-en.html), Université Bordeaux Montaigne, France
 - [M.A. Linguistics and Web Technology](https://www.uni-marburg.de/fb10/studium/studiengaenge/malingwebtech/studium?language_sync=1), Philipps-University Marburg, Germany
 - [M.Sc. Computing in the Humanities](https://www.uni-bamberg.de/en/ma-cith/), University of Bamberg, Germany
+- [M.A. in Digital Humanities](https://www.maynoothuniversity.ie/centre-for-digital-humanities), Maynooth University, Ireland
+- [M.Sc. in Spatial eHumanities](https://www.maynoothuniversity.ie/centre-for-digital-humanities), Maynooth University, Ireland
 
 
 ### North America
