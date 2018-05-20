@@ -136,7 +136,7 @@ List in progress. Please submit a pull request or add an issue with your suggest
 - BA in Digital Humanities and Information Technology, University College Cork, Ireland
 - [BA in Digital Humanities: two study programs](http://www.dh.uni-koeln.de), Institute for Digital Humanities at the University of Cologne, Germany
 - [BA in Digital Humanities](http://www.uni-wuerzburg.de/?id=87781), Julius-Maximilians-Universität Würzburg, Germany
-- [MA Digital Media & Information Studies](https://www.gla.ac.uk/undergraduate/degrees/digitalmedia/) (3 year BA + 1 year Master Note), University of Glasgow, UK 
+- [MA Digital Media & Information Studies](https://www.gla.ac.uk/undergraduate/degrees/digitalmedia/), University of Glasgow, UK 
 
 
 ### North America
