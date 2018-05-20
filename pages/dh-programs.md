@@ -56,6 +56,8 @@ List in progress. Please submit a pull request or add an issue with your suggest
 - [M.A. in Digital Humanities](https://www.maynoothuniversity.ie/centre-for-digital-humanities), Maynooth University, Ireland
 - [M.Sc. in Spatial eHumanities](https://www.maynoothuniversity.ie/centre-for-digital-humanities), Maynooth University, Ireland
 - [M.A. Digital Arts & Humanities](https://www.ucc.ie/en/cke09/), University College Cork (UCC), Ireland
+- [Master di I livello in Digital Humanities](http://www.unive.it/pag/11340/), Università Ca’ Foscari Venezia, Italy
+- [Laurea Magistrale Degree in Digital Humanities](), Università di Pisa, Italy
 
 
 ### North America
