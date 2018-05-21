@@ -26,7 +26,8 @@ List in progress. Please submit a pull request or add an issue with your suggest
 - MS in Digital Humanities, IIT Indore, India
 
 ### Australasia
-- [Masters of Digital Humanities and Public Culture](http://cdhr.cass.anu.edu.au/students/future), Australian National University, Australia 
+- [Masters of Digital Humanities and Public Culture](http://cdhr.cass.anu.edu.au/students/future), Australian National University, Australia
+- [Master of Digital Humanities](https://www.westernsydney.edu.au/future/study/courses/postgraduate/master-of-digital-humanities.html), Western Sydney University, Australia
 
 ### Europe
 - MA in Digital Humanities Research, King's College London, UK
