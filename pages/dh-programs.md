@@ -67,12 +67,13 @@ List in progress. Please submit a pull request or add an issue with your suggest
 
 
 ### North America
-- [Ad Hoc MA in Digital Humanities, McGill University, Canada](https://www.mcgill.ca/digital-humanities/ma-digital-humanities)
-- [MA in Digital Humanities, Loyola University Chicago, USA](https://www.luc.edu/ctsdh/academics/maindigitalhumanities/)
-- [M.A. in Digital Tools for Premodern Studies, Tufts University, USA](https://asegrad.tufts.edu/academics/explore-graduate-programs/digital-humanities)
+- [Ad Hoc MA in Digital Humanities](https://www.mcgill.ca/digital-humanities/ma-digital-humanities), McGill University, Canada
+- [MA in Digital Humanities](https://www.luc.edu/ctsdh/academics/maindigitalhumanities/), Loyola University Chicago, USA
+- [M.A. in Digital Tools for Premodern Studies](https://asegrad.tufts.edu/academics/explore-graduate-programs/digital-humanities), Tufts University, USA
 - [MA in DH, CUNY Graduate Center, USA](https://www.gc.cuny.edu/Page-Elements/Academics-Research-Centers-Initiatives/Masters-Programs/Digital-Humanities)
-- [MA in Digital Humanities (Collaborative Master's), Carleton University, Canada](https://graduate.carleton.ca/cu-programs/digital-humanities-collaborative-masters/)
-- [MA/MLIS in Humanities Computing, University of Alberta, Canada](https://www.ualberta.ca/school-of-library-and-information-studies/programs/mamlis)
+- [MA in Digital Humanities (Collaborative Master's)](https://graduate.carleton.ca/cu-programs/digital-humanities-collaborative-masters/), Carleton University, Canada
+- [MA/MLIS in Humanities Computing](https://www.ualberta.ca/school-of-library-and-information-studies/programs/mamlis), University of Alberta, Canada
+- [MA Digital Humanities](https://www.ualberta.ca/interdisciplinary-studies/digital-humanities), University of Alberta
 - [Master of Arts in Digital Tools for Premodern Studies](https://ase.tufts.edu/classics/graduate/digitalTools.htm), Tufts University, USA
 - [Maestría en Comunicación y Humanidades Digitales](http://elclaustro.edu.mx/licenciaturas/maestria-en-comunicacion-y-humanidades-digitales/), Universidad del Claustro de Sor Juana, Mexico
 
