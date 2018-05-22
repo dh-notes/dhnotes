@@ -30,7 +30,7 @@ List in progress. Please submit a pull request or add an issue with your suggest
 - [Master of Digital Humanities](https://www.westernsydney.edu.au/future/study/courses/postgraduate/master-of-digital-humanities.html), Western Sydney University, Australia
 
 ### Europe
-- MA in Digital Humanities Research, King's College London, UK
+- MA in Digital Humanities, King's College London, UK
 - [M.Sc. Computing in the Humanities](https://www.uni-bamberg.de/ma-cith/), Otto-Friedrich-Universität Bamberg, Germany 
 - [MA Digital Humanities](https://www.uni-wuerzburg.de/studium/angebot/faecher/digihum), Universität Würzburg, Germany 
 - [MA Digital Humanities](http://www.uni-stuttgart.de/dh/studium/masterstudiengang/), Universität Stuttgart, Germany
