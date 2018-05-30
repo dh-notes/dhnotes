@@ -88,8 +88,7 @@ List in progress. Please submit a pull request or add an issue with your suggest
 - Specialization in Digital Humnaities (PhD Art and Design), Srishti Institute of Art, Design and Technology, India
 - [Interdisciplinary Graduate Program in Digital Humanities](http://dh.iii.u-tokyo.ac.jp/), The University of Tokyo, Japan
 - [Post-Graduate Diploma Course in Digital Humanities and Cultural Informatics](https://sctrdhci.wordpress.com/), School of Cultural Texts and Records, Jadavpur University, Kolkata, India
-- [Digital Humanities Center for Japanese Arts and Cultures Project](http://www.arc.ritsumei.ac.jp/en/works_jadh.html), Ritsumeikan University, Japan
-- [Digital Humanities: Methodology and Praxis](http://www.lang.osaka-u.ac.jp/lc/wp-content/uploads/%E7%A7%91%E7%9B%AE%E7%AD%89%EF%BC%88%E3%83%87%E3%82%B8%E3%82%BF%E3%83%AB%EF%BC%89.pdf), Osaka University, Japan
+- [(Future Graduate Certificate?) Digital Humanities: Methodology and Praxis](http://www.lang.osaka-u.ac.jp/lc/wp-content/uploads/%E7%A7%91%E7%9B%AE%E7%AD%89%EF%BC%88%E3%83%87%E3%82%B8%E3%82%BF%E3%83%AB%EF%BC%89.pdf), Osaka University, Japan
 
 ### North America
 - [Certificate in Digital Humanities, Michigan State University, USA](https://reg.msu.edu/AcademicPrograms/ProgramDetail.aspx?Program=5742)
