@@ -131,6 +131,7 @@ List in progress. Please submit a pull request or add an issue with your suggest
 
 ### Australasia
 - [Major in Digital Humanities and Public Culture](http://cdhr.cass.anu.edu.au/students/future), Australian National University, Australia
+- [Major and Minor in Digital Humanities](http://monash.edu.au/pubs/2018handbooks/aos/digital-humanities/ug-arts-digital-humanities.html), Monash University, Australia
 
 ### Europe
 - [BA Digital Humanities](https://www.uni-wuerzburg.de/studium/angebot/faecher/digihum), Universität Würzburg, Germany 
