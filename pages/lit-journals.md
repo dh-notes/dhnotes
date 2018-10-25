@@ -21,6 +21,11 @@ media and technology in contemporary cultural practices. We are  particularly
 interested in those topics that normally escape scrutiny,  or are ignored or
 excluded for whatever reason.
 
+[**American Literary History**](https://academic.oup.com/alh) covers the study
+of US literature from its origins through the present, providing a much-needed
+forum for the various, often competing voices of contemporary literary
+inquiry.
+
 [**ASAP/Journal**](http://www.artsofthepresent.org/#!about/c3aa), the scholarly
 journal of The Association for the Study of the Arts of the Present, is a forum
 for groundbreaking scholarship that examines the range and significance of the
