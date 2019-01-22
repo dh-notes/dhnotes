@@ -1132,6 +1132,8 @@ cultures of ethnicity and sexuality are becoming conceptually central, and by
 the consequences of these diverse disturbances for educational and cultural
 institutions.
 
+[**Theory, Culture & Society**](https://journals.sagepub.com/home/tcs) builds upon the heritage of the classic founders of social theory and examines the ways in which this tradition has been reshaped by a new generation of theorists.
+
 [**Thresholds**](http://openthresholds.org/) is a digital journal for
 criticism in the spaces between, expected to debut Summer 2016. The journal's
 platform bears witness to the dynamic processes that constitute reading and
