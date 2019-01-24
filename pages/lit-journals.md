@@ -326,6 +326,11 @@ culture. Columbia's Brent Edwards and Brian Larkin are on the editorial board.
 
 [**Style**](http://www.psupress.org/Journals/jnls_Style.html) invites submissions that address questions of style, stylistics, and poetics—as we have traditionally. These submissions may include research and theory in discourse analysis, literary and nonliterary genres, narrative, figuration, metrics, and rhetorical analysis. In addition, Style also now welcomes contributions employing recent developments in several psychologies—cognition, bioevolutionary psychology, family systems, and human development—as those may relate to the study of literature and the humanities. Furthermore, the editors will be pleased to consider submissions on pedagogy generally as such relate to the teaching of literature and the humanities. Contributions may draw from such fields as literary criticism, critical theory, linguistics, philosophy of language, rhetoric, narrative, and composition studies as well as the varieties of psychologies and pedagogies.
 
+[**Substance**](https://www.press.jhu.edu/journals/substance) t is an international nexus for
+discourses converging upon literature from a variety of fields, including philosophy, the
+social science, science, and the arts. Readers have come to expect the unexpected from
+SubStance, and to experience a sense of participating in the formulation of emerging theories.
+
 [[top]](#directory)
 
 ## T
