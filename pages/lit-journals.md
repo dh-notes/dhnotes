@@ -238,24 +238,20 @@ epistemological significance.
 
 ## P
 
-[**Philological
-Encounters**](http://www.brill.com/products/journal/philological-encounters)
-is a double-blind peer-reviewed journal dedicated to the historical and
-philosophical critique of philology. The journal encourages critical and
-comparative perspectives that integrate textual scholarship and the study of
-language from across the world. Alongside four issues a year, monographs and/
-or collected volumes will occasionally be published as supplements to the
-journal. The journal is open to contributions in all fields studying the
-history of textual practices, hermeneutics and philology, philological
-controversies, and the intellectual and global history of writing, archiving,
-tradition-making and publishing. Neither confined to any discipline nor bound
-by any geographical or temporal limits, Philological Encounters takes as its
-point of departure the growing concern with the global significance of
-philology and the potential of historically conscious and politically critical
-philology to challenge exclusivist notions of the self and the canon.
-Philological Encounters welcomes innovative and critical contributions in the
-form of articles as well as review articles, usually of two or three related
-books, and preferably from different disciplines.
+[**Philological Encounters**](http://www.brill.com/products/journal/philological-encounters) is
+a double-blind peer-reviewed journal dedicated to the historical and philosophical critique of
+philology. The journal encourages critical and comparative perspectives that integrate textual
+scholarship and the study of language from across the world. Alongside four issues a year,
+monographs and/ or collected volumes will occasionally be published as supplements to the
+journal. The journal is open to contributions in all fields studying the history of textual
+practices, hermeneutics and philology, philological controversies, and the intellectual and
+global history of writing, archiving, tradition-making and publishing. Neither confined to any
+discipline nor bound by any geographical or temporal limits, Philological Encounters takes as
+its point of departure the growing concern with the global significance of philology and the
+potential of historically conscious and politically critical philology to challenge exclusivist
+notions of the self and the canon.  Philological Encounters welcomes innovative and critical
+contributions in the form of articles as well as review articles, usually of two or three
+related books, and preferably from different disciplines.
 
 [**Poetics**](http://www.journals.elsevier.com/poetics/#description) is an
 interdisciplinary journal of theoretical and  empirical research on culture,
@@ -342,7 +338,14 @@ developments in fields like codicology, material philology, art  history,
 musicology and cultural studies are redefining and integrating  our notions of
 what constitutes a text in diverse cultural contexts.
 
-[**Textual Practice**](http://www.tandfonline.com/action/journalInformation?show=aimsScope&journalCode=rtpr20) is Britain’s principal international journal of radical literary studies, continually pressing theory into new engagements. Today, as customary relations among disciplines and media are questioned and transformed, Textual Practice works at the turning points of theory with politics, history and texts. It is intrigued by the processes through which hitherto marginal cultures of ethnicity and sexuality are becoming conceptually central, and by the consequences of these diverse disturbances for educational and cultural institutions.
+[**Textual
+Practice**](http://www.tandfonline.com/action/journalInformation?show=aimsScope&journalCode=rtpr20)
+is Britain’s principal international journal of radical literary studies, continually pressing
+theory into new engagements. Today, as customary relations among disciplines and media are
+questioned and transformed, Textual Practice works at the turning points of theory with
+politics, history and texts. It is intrigued by the processes through which hitherto marginal
+cultures of ethnicity and sexuality are becoming conceptually central, and by the consequences
+of these diverse disturbances for educational and cultural institutions.
 
 [[top]](#directory)
 

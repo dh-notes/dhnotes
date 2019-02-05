@@ -339,36 +339,43 @@ ICT.
 
 ## F
 
-\*[**The Fibreculture Journal**](http://fibreculturejournal.org/) is a peer
-reviewed international journal, first published in 2003 to explore issues and
-ideas within the Fibreculture network. The Fibreculture Journal now serves
-wider social formations across the international community. We work with those
-thinking critically about, and working with, contemporary digital and
-networked media.
+\*[**The Fibreculture Journal**](http://fibreculturejournal.org/) is a peer reviewed
+international journal, first published in 2003 to explore issues and ideas within the
+Fibreculture network. The Fibreculture Journal now serves wider social formations across the
+international community. We work with those thinking critically about, and working with,
+contemporary digital and networked media.
 
-\*[**First Monday**](http://firstmonday.org) is one of the first openly
-accessible, peer–reviewed journals on the Internet, solely devoted to the
-Internet. Since its start in May 1996, First Monday has published 1,347 papers
-in 213 issues; these papers were written by 1,829 different authors. First
-Monday is indexed in Communication Abstracts, Computer & Communications
-Security Abstracts, DoIS, eGranary Digital Library, INSPEC, Information
-Science & Technology Abstracts, LISA, PAIS, and other services.
+\*[**First Monday**](http://firstmonday.org) is one of the first openly accessible,
+peer–reviewed journals on the Internet, solely devoted to the Internet. Since its start in May
+1996, First Monday has published 1,347 papers in 213 issues; these papers were written by 1,829
+different authors. First Monday is indexed in Communication Abstracts, Computer &
+Communications Security Abstracts, DoIS, eGranary Digital Library, INSPEC, Information Science
+& Technology Abstracts, LISA, PAIS, and other services.
 
 [**Frontiers in Digital
-Humanities**](http://journal.frontiersin.org/journal/digital-humanities)
-publishes articles on the most outstanding discoveries in all the research
-areas where computer science and the humanities intersect, with the aim to
-bring all relevant Digital Humanities areas together on a single, open-access
-platform.
+Humanities**](http://journal.frontiersin.org/journal/digital-humanities) publishes articles on
+the most outstanding discoveries in all the research areas where computer science and the
+humanities intersect, with the aim to bring all relevant Digital Humanities areas together on a
+single, open-access platform.
 
-\*[**Future Internet**](http://www.mdpi.com/journal/futureinternet) is a
-scholarly open access journal which provides an advanced forum for scientific
-studies related to Internet technologies and the information society. It
-publishes regular research papers, reviews and short communications. Our aim
-is to encourage scientists to publish their experimental and theoretical
-results in as much detail as possible. Therefore, there is no restriction on
-the length of the papers or the use of color figures. The full experimental
-details must be provided so that the results can be reproduced.
+[**Frontiers of Narrative Studies**](https://www.degruyter.com/view/j/fns) features articles
+reporting results of research in all branches of narrative studies, in-depth reviews of
+selected current literature in the field, and occasional guest editorials and reports. Its
+broad range of scholarship includes narratives across a variety of media, including literary
+writing, film and television, journalism, and graphic narratives. It welcomes theoretically
+sophisticated essays that examine narratives of all kinds from a host of critical,
+interdisciplinary, or cross-cultural perspectives. Particular emphasis is placed upon
+state-of-the-art research in the field of interdisciplinary narrative inquiries. The journal
+publishes original articles, interviews as well as book reviews. From time to time, Special
+Issues, devoted to topics of particular interest, are assembled by Guest Editors.
+
+\*[**Future Internet**](http://www.mdpi.com/journal/futureinternet) is a scholarly open access
+journal which provides an advanced forum for scientific studies related to Internet
+technologies and the information society. It publishes regular research papers, reviews and
+short communications. Our aim is to encourage scientists to publish their experimental and
+theoretical results in as much detail as possible. Therefore, there is no restriction on the
+length of the papers or the use of color figures. The full experimental details must be
+provided so that the results can be reproduced.
 
 [[top]](#directory)
 
