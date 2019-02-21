@@ -558,6 +558,17 @@ linguistic and scientific traditions.
 
 ## J
 
+[**The Journal for the History of Knowledge**](https://journalhistoryknowledge.org/) is an open access, peer-reviewed journal devoted to
+the history of knowledge in its broadest sense. This includes the study of science, but also of
+indigenous, artisanal, and other types of knowledge as well as the history of knowledge
+developed in the humanities and social sciences. Special attention is paid to interactions and
+processes of demarcation between science and other forms of knowledge. Contributions may deal
+with the history of concepts of knowledge, the study of knowledge making practices and
+institutions and sites of knowledge production, adjudication, and legitimation (including
+universities). Contributions which highlight the relevance of the history of knowledge to
+current policy concerns (for example, by historicizing and problematizing concepts such as the
+"knowledge society") are particularly welcome. 
+
 [**Jahrbuch für
 Computerphilologie**](http://computerphilologie.digital-humanities.de/ejournal.html).
 Online bietet ein Forum für die Diskussion der vielfältigen Möglichkeiten, den
