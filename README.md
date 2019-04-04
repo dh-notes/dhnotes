@@ -62,6 +62,7 @@ Servers](https://github.com/dh-notes/dhnotes/blob/master/tutorials/command-line/
 - [Friendly Design + Development Studios](https://github.com/xpmethod/dhnotes/blob/master/pages/design.md)
 - [Linux on ChromeOS with Crouton](https://github.com/dh-notes/dhnotes/blob/master/pages/chromeos-crouton.md)
 - [VPN for Linux at Columbia](https://github.com/dh-notes/dhnotes/blob/master/pages/columbia-linux-vpn.md)
+- [Advanced Degrees in Digital Humanities](https://github.com/dh-notes/dhnotes/blob/master/pages/dh-programs.md)
 
 <hr>
 made with plain text + vim + git | 
