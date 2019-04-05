@@ -541,8 +541,10 @@ crossroads that is communication study. We encourage readers to REGISTER now.
 entirely devoted to papers, articles and news items on curation of digital
 objects and related issues.
 
-[**Image &
-Narrative**](http://www.imageandnarrative.be/index.php/imagenarrative/index)
+[**International Journal of Digital Humanities**](https://www.springer.com/statistics/journal/42803?detailsPage=editorialBoard) is a peer-reviewed academic journal with a focus on digital media and the development, application and reflection of digital research methodology in the Humanities. It is concerned with the history, current practice and theory of Digital Humanities.
+
+
+[**Image & Narrative**](http://www.imageandnarrative.be/index.php/imagenarrative/index)
 is peer-reviewed e-journal on visual narratology and word and image studies in
 the broadest sense of the term. It does not focus on a narrowly defined corpus
 or theoretical framework, but questions the mutual shaping of literary and
