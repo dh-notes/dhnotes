@@ -256,6 +256,13 @@ Medieval Manuscripts and Parker on the Web. Published twice a year, Digital
 Philology includes scholarly essays, manuscript studies, and reviews of
 relevant resources such as websites, digital projects, and books.
 
+[**Digital Scholarship in the Humanities**](https://academic.oup.com/dsh)
+(Formerly Literary and Linguistic Computing) is an international journal which
+publishes material on all aspects of  computing and information technology
+applied to literature and language  research and teaching. Papers include
+results of research projects,  description and evaluation of techniques and
+methodologies, and reports  on work in progress.
+
 [**Digital Studies / Le champ
 numérique**](http://www.digitalstudies.org/ojs/index.php/digital_studies) is a
 refereed academic journal serving as a formal arena for scholarly  activity
@@ -803,13 +810,6 @@ philosophical texts and terminolgy. A specific  section will be devoted to
 digital philosophy. The journal will have an  interdisciplinary character, and
 will welcome contributions from  philosophers, historians, philologists, and
 linguists.
-
-[**Digital Scholarship in the Humanities**](https://academic.oup.com/dsh)
-(Formerly Literary and Linguistic Computing) is an international journal which
-publishes material on all aspects of  computing and information technology
-applied to literature and language  research and teaching. Papers include
-results of research projects,  description and evaluation of techniques and
-methodologies, and reports  on work in progress.
 
 [[top]](#directory)
 
