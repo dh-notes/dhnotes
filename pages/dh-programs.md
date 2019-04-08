@@ -66,6 +66,7 @@ List in progress. Please submit a pull request or add an issue with your suggest
 - [Master's programme 'Computational Linguistics'](https://www.hse.ru/en/ma/ling/), University Higher School of Economics, Russia
 - [MA Digital Humanities](http://btk.ppke.hu/karunkrol/intezetek-tanszekek/angol-amerikai-intezet/elmeleti-nyelveszet-tanszek/szakajanlo-es-kepzesek/digitalis-bolcseszet-ma/digitalis-kultura-specializacio), Pázmány Péter Catholic University, Hungary
 - [Master's Programme in Digital Humanities](https://lir.gu.se/english/education/masters-second-cycle/master-s-programme-in-digital-humanities), University of Gothenburg, Sweeden
+- [MA by Research, Digital Humanities](https://www.swansea.ac.uk/postgraduate/research/arts-and-humanities/ma-by-research-in-digital-humanities), Swansea University, UK
 
 
 ### North America
