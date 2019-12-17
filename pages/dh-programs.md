@@ -213,6 +213,7 @@ List in progress. Please submit a pull request or add an issue with your suggest
 - [Digital Humanities Minor](http://cnu.edu/academics/areasofstudy/minor-digitalhumanities/), Christopher Newport University, USA
 - [Digital Studies Minor](https://www.davidson.edu/academics/digital-studies), Davidson College, USA
 - [Minor in Digital Culture and Information](https://digitalhumanities.wlu.edu/blog/2018/05/08/minor-in-digital-culture-and-information/), Washington & Lee University, USA
+- [Minor in Digital Humanities and Technology](https://catalog.byu.edu/humanities/digital-humanities-program/digital-humanities-and-technology-minor), Brigham Young University, USA
 
 
 ### South America and the Caribbean
