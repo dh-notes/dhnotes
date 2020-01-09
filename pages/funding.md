@@ -106,6 +106,7 @@ The mission of the American Council of Learned Societies is "the advancement of 
 
 | Grant         | Range(USD)        | Deadline|
 | ------------- | -------------| --------:|
+| [ACLS Digital Extension Grants](https://www.acls.org/Competitions-and-Deadlines/ACLS-Digital-Extension-Grants)| 150,000K | September?|
 |[ACLS Digital Innovation Fellowships](http://www.acls.org/programs/digital/)|60K Stipends, 25K projects|September?|
 |[ACLS Fellowships](http://www.acls.org/programs/acls/)| $35-65K based on rank |September|
 |[ACLS Collaborative Research Fellowships](http://www.acls.org/programs/collaborative/)|Max 140K|September|
