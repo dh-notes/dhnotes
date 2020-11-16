@@ -21,6 +21,11 @@ media and technology in contemporary cultural practices. We are  particularly
 interested in those topics that normally escape scrutiny,  or are ignored or
 excluded for whatever reason.
 
+[**American Literary History**](https://academic.oup.com/alh) covers the study
+of US literature from its origins through the present, providing a much-needed
+forum for the various, often competing voices of contemporary literary
+inquiry.
+
 [**ASAP/Journal**](http://www.artsofthepresent.org/#!about/c3aa), the scholarly
 journal of The Association for the Study of the Arts of the Present, is a forum
 for groundbreaking scholarship that examines the range and significance of the
@@ -233,24 +238,20 @@ epistemological significance.
 
 ## P
 
-[**Philological
-Encounters**](http://www.brill.com/products/journal/philological-encounters)
-is a double-blind peer-reviewed journal dedicated to the historical and
-philosophical critique of philology. The journal encourages critical and
-comparative perspectives that integrate textual scholarship and the study of
-language from across the world. Alongside four issues a year, monographs and/
-or collected volumes will occasionally be published as supplements to the
-journal. The journal is open to contributions in all fields studying the
-history of textual practices, hermeneutics and philology, philological
-controversies, and the intellectual and global history of writing, archiving,
-tradition-making and publishing. Neither confined to any discipline nor bound
-by any geographical or temporal limits, Philological Encounters takes as its
-point of departure the growing concern with the global significance of
-philology and the potential of historically conscious and politically critical
-philology to challenge exclusivist notions of the self and the canon.
-Philological Encounters welcomes innovative and critical contributions in the
-form of articles as well as review articles, usually of two or three related
-books, and preferably from different disciplines.
+[**Philological Encounters**](http://www.brill.com/products/journal/philological-encounters) is
+a double-blind peer-reviewed journal dedicated to the historical and philosophical critique of
+philology. The journal encourages critical and comparative perspectives that integrate textual
+scholarship and the study of language from across the world. Alongside four issues a year,
+monographs and/ or collected volumes will occasionally be published as supplements to the
+journal. The journal is open to contributions in all fields studying the history of textual
+practices, hermeneutics and philology, philological controversies, and the intellectual and
+global history of writing, archiving, tradition-making and publishing. Neither confined to any
+discipline nor bound by any geographical or temporal limits, Philological Encounters takes as
+its point of departure the growing concern with the global significance of philology and the
+potential of historically conscious and politically critical philology to challenge exclusivist
+notions of the self and the canon.  Philological Encounters welcomes innovative and critical
+contributions in the form of articles as well as review articles, usually of two or three
+related books, and preferably from different disciplines.
 
 [**Poetics**](http://www.journals.elsevier.com/poetics/#description) is an
 interdisciplinary journal of theoretical and  empirical research on culture,
@@ -317,7 +318,14 @@ challenging articles from emerging critical voices. Each issue breaks new
 ground in the debates about postcolonialism, postmodernism, and popular
 culture. Columbia's Brent Edwards and Brian Larkin are on the editorial board.
 
+[**Studies in the Novel**](https://studiesinthenovel.org/) has staked its reputation upon publishing incisive scholarship on the canon-forming and cutting-edge novelists that have shaped the genre’s rich history. The journal continues to break new ground by promoting new theoretical approaches, a broader international scope, and an engagement with the contemporary novel as a form of social critique. The editorial vision of Studies in the Novel is informed by our tradition of showcasing fresh perspectives on canonical authors while extending our founders’ mission to highlight scholarship on novelists from around the globe. As an ongoing scholarly endeavor, Studies in the Novel is committed to the belief that there is more at stake in novelistic inquiry than the study of a literary genre. In its fullest meaning, “novel” represents the study of what is truly novel: “Of a new kind or nature; not previously imagined or thought of” (OED). As a vehicle for critical reflection and social transformation, the novel remains what it always has been: a vital source of new ways of thinking and relating to a rapidly changing world.
+
 [**Style**](http://www.psupress.org/Journals/jnls_Style.html) invites submissions that address questions of style, stylistics, and poetics—as we have traditionally. These submissions may include research and theory in discourse analysis, literary and nonliterary genres, narrative, figuration, metrics, and rhetorical analysis. In addition, Style also now welcomes contributions employing recent developments in several psychologies—cognition, bioevolutionary psychology, family systems, and human development—as those may relate to the study of literature and the humanities. Furthermore, the editors will be pleased to consider submissions on pedagogy generally as such relate to the teaching of literature and the humanities. Contributions may draw from such fields as literary criticism, critical theory, linguistics, philosophy of language, rhetoric, narrative, and composition studies as well as the varieties of psychologies and pedagogies.
+
+[**Substance**](https://www.press.jhu.edu/journals/substance) t is an international nexus for
+discourses converging upon literature from a variety of fields, including philosophy, the
+social science, science, and the arts. Readers have come to expect the unexpected from
+SubStance, and to experience a sense of participating in the formulation of emerging theories.
 
 [[top]](#directory)
 
@@ -330,7 +338,14 @@ developments in fields like codicology, material philology, art  history,
 musicology and cultural studies are redefining and integrating  our notions of
 what constitutes a text in diverse cultural contexts.
 
-[**Textual Practice**](http://www.tandfonline.com/action/journalInformation?show=aimsScope&journalCode=rtpr20) is Britain’s principal international journal of radical literary studies, continually pressing theory into new engagements. Today, as customary relations among disciplines and media are questioned and transformed, Textual Practice works at the turning points of theory with politics, history and texts. It is intrigued by the processes through which hitherto marginal cultures of ethnicity and sexuality are becoming conceptually central, and by the consequences of these diverse disturbances for educational and cultural institutions.
+[**Textual
+Practice**](http://www.tandfonline.com/action/journalInformation?show=aimsScope&journalCode=rtpr20)
+is Britain’s principal international journal of radical literary studies, continually pressing
+theory into new engagements. Today, as customary relations among disciplines and media are
+questioned and transformed, Textual Practice works at the turning points of theory with
+politics, history and texts. It is intrigued by the processes through which hitherto marginal
+cultures of ethnicity and sexuality are becoming conceptually central, and by the consequences
+of these diverse disturbances for educational and cultural institutions.
 
 [[top]](#directory)
 

@@ -19,7 +19,7 @@ Research at ISAW” (2012)](http://isaw.nyu.edu/research/AssessingresearchatISAW
 - [The University of Arizona, “Promoting an Inclusive View of Scholarship,”](http://facultyaffairs.arizona.edu/promoting-inclusive-view-scholarship)
 
 ## Tenure & Promotion Guidelines
-- [MLA: Guidelines for Evaluating Work in Digital Humanities and Digital Media](Guidelines for Evaluating Work in Digital Humanities and Digital Media)
+- [MLA: Guidelines for Evaluating Work in Digital Humanities and Digital Media](https://www.mla.org/About-Us/Governance/Committees/Committee-Listings/Professional-Issues/Committee-on-Information-Technology/Guidelines-for-Evaluating-Work-in-Digital-Humanities-and-Digital-Media)
 - [AHA: Guidelines for the Evaluation of Digital Scholarship in History](http://historians.org/teaching-and-learning/digital-history-resources/evaluation-of-digital-scholarship-in-history/guidelines-for-the-evaluation-of-digital-scholarship-in-history)
 - [University of Nebraska-Lincoln: Promotion & Tenure Criteria for Assessing Digital Research in the Humanities](http://cdrh.unl.edu/articles/promotion)
 - [Memorandum From The Emory College Humanities Council Regarding The Evaluation Of Digital Scholarship](http://college.emory.edu/home/assets/documents/faculty/Digital-Scholarship-Memo-Nov2013.pdf)

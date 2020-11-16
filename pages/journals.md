@@ -256,6 +256,13 @@ Medieval Manuscripts and Parker on the Web. Published twice a year, Digital
 Philology includes scholarly essays, manuscript studies, and reviews of
 relevant resources such as websites, digital projects, and books.
 
+[**Digital Scholarship in the Humanities**](https://academic.oup.com/dsh)
+(Formerly Literary and Linguistic Computing) is an international journal which
+publishes material on all aspects of  computing and information technology
+applied to literature and language  research and teaching. Papers include
+results of research projects,  description and evaluation of techniques and
+methodologies, and reports  on work in progress.
+
 [**Digital Studies / Le champ
 numérique**](http://www.digitalstudies.org/ojs/index.php/digital_studies) is a
 refereed academic journal serving as a formal arena for scholarly  activity
@@ -339,36 +346,43 @@ ICT.
 
 ## F
 
-\*[**The Fibreculture Journal**](http://fibreculturejournal.org/) is a peer
-reviewed international journal, first published in 2003 to explore issues and
-ideas within the Fibreculture network. The Fibreculture Journal now serves
-wider social formations across the international community. We work with those
-thinking critically about, and working with, contemporary digital and
-networked media.
+\*[**The Fibreculture Journal**](http://fibreculturejournal.org/) is a peer reviewed
+international journal, first published in 2003 to explore issues and ideas within the
+Fibreculture network. The Fibreculture Journal now serves wider social formations across the
+international community. We work with those thinking critically about, and working with,
+contemporary digital and networked media.
 
-\*[**First Monday**](http://firstmonday.org) is one of the first openly
-accessible, peer–reviewed journals on the Internet, solely devoted to the
-Internet. Since its start in May 1996, First Monday has published 1,347 papers
-in 213 issues; these papers were written by 1,829 different authors. First
-Monday is indexed in Communication Abstracts, Computer & Communications
-Security Abstracts, DoIS, eGranary Digital Library, INSPEC, Information
-Science & Technology Abstracts, LISA, PAIS, and other services.
+\*[**First Monday**](http://firstmonday.org) is one of the first openly accessible,
+peer–reviewed journals on the Internet, solely devoted to the Internet. Since its start in May
+1996, First Monday has published 1,347 papers in 213 issues; these papers were written by 1,829
+different authors. First Monday is indexed in Communication Abstracts, Computer &
+Communications Security Abstracts, DoIS, eGranary Digital Library, INSPEC, Information Science
+& Technology Abstracts, LISA, PAIS, and other services.
 
 [**Frontiers in Digital
-Humanities**](http://journal.frontiersin.org/journal/digital-humanities)
-publishes articles on the most outstanding discoveries in all the research
-areas where computer science and the humanities intersect, with the aim to
-bring all relevant Digital Humanities areas together on a single, open-access
-platform.
+Humanities**](http://journal.frontiersin.org/journal/digital-humanities) publishes articles on
+the most outstanding discoveries in all the research areas where computer science and the
+humanities intersect, with the aim to bring all relevant Digital Humanities areas together on a
+single, open-access platform.
 
-\*[**Future Internet**](http://www.mdpi.com/journal/futureinternet) is a
-scholarly open access journal which provides an advanced forum for scientific
-studies related to Internet technologies and the information society. It
-publishes regular research papers, reviews and short communications. Our aim
-is to encourage scientists to publish their experimental and theoretical
-results in as much detail as possible. Therefore, there is no restriction on
-the length of the papers or the use of color figures. The full experimental
-details must be provided so that the results can be reproduced.
+[**Frontiers of Narrative Studies**](https://www.degruyter.com/view/j/fns) features articles
+reporting results of research in all branches of narrative studies, in-depth reviews of
+selected current literature in the field, and occasional guest editorials and reports. Its
+broad range of scholarship includes narratives across a variety of media, including literary
+writing, film and television, journalism, and graphic narratives. It welcomes theoretically
+sophisticated essays that examine narratives of all kinds from a host of critical,
+interdisciplinary, or cross-cultural perspectives. Particular emphasis is placed upon
+state-of-the-art research in the field of interdisciplinary narrative inquiries. The journal
+publishes original articles, interviews as well as book reviews. From time to time, Special
+Issues, devoted to topics of particular interest, are assembled by Guest Editors.
+
+\*[**Future Internet**](http://www.mdpi.com/journal/futureinternet) is a scholarly open access
+journal which provides an advanced forum for scientific studies related to Internet
+technologies and the information society. It publishes regular research papers, reviews and
+short communications. Our aim is to encourage scientists to publish their experimental and
+theoretical results in as much detail as possible. Therefore, there is no restriction on the
+length of the papers or the use of color figures. The full experimental details must be
+provided so that the results can be reproduced.
 
 [[top]](#directory)
 
@@ -534,8 +548,10 @@ crossroads that is communication study. We encourage readers to REGISTER now.
 entirely devoted to papers, articles and news items on curation of digital
 objects and related issues.
 
-[**Image &
-Narrative**](http://www.imageandnarrative.be/index.php/imagenarrative/index)
+[**International Journal of Digital Humanities**](https://www.springer.com/statistics/journal/42803?detailsPage=editorialBoard) is a peer-reviewed academic journal with a focus on digital media and the development, application and reflection of digital research methodology in the Humanities. It is concerned with the history, current practice and theory of Digital Humanities.
+
+
+[**Image & Narrative**](http://www.imageandnarrative.be/index.php/imagenarrative/index)
 is peer-reviewed e-journal on visual narratology and word and image studies in
 the broadest sense of the term. It does not focus on a narrowly defined corpus
 or theoretical framework, but questions the mutual shaping of literary and
@@ -550,6 +566,17 @@ linguistic and scientific traditions.
 [[top]](#directory)
 
 ## J
+
+[**The Journal for the History of Knowledge**](https://journalhistoryknowledge.org/) is an open access, peer-reviewed journal devoted to
+the history of knowledge in its broadest sense. This includes the study of science, but also of
+indigenous, artisanal, and other types of knowledge as well as the history of knowledge
+developed in the humanities and social sciences. Special attention is paid to interactions and
+processes of demarcation between science and other forms of knowledge. Contributions may deal
+with the history of concepts of knowledge, the study of knowledge making practices and
+institutions and sites of knowledge production, adjudication, and legitimation (including
+universities). Contributions which highlight the relevance of the history of knowledge to
+current policy concerns (for example, by historicizing and problematizing concepts such as the
+"knowledge society") are particularly welcome. 
 
 [**Jahrbuch für
 Computerphilologie**](http://computerphilologie.digital-humanities.de/ejournal.html).
@@ -783,13 +810,6 @@ philosophical texts and terminolgy. A specific  section will be devoted to
 digital philosophy. The journal will have an  interdisciplinary character, and
 will welcome contributions from  philosophers, historians, philologists, and
 linguists.
-
-[**Digital Scholarship in the Humanities**](https://academic.oup.com/dsh)
-(Formerly Literary and Linguistic Computing) is an international journal which
-publishes material on all aspects of  computing and information technology
-applied to literature and language  research and teaching. Papers include
-results of research projects,  description and evaluation of techniques and
-methodologies, and reports  on work in progress.
 
 [[top]](#directory)
 
@@ -1131,6 +1151,8 @@ texts. It is intrigued by the processes through which hitherto marginal
 cultures of ethnicity and sexuality are becoming conceptually central, and by
 the consequences of these diverse disturbances for educational and cultural
 institutions.
+
+[**Theory, Culture & Society**](https://journals.sagepub.com/home/tcs) builds upon the heritage of the classic founders of social theory and examines the ways in which this tradition has been reshaped by a new generation of theorists.
 
 [**Thresholds**](http://openthresholds.org/) is a digital journal for
 criticism in the spaces between, expected to debut Summer 2016. The journal's
