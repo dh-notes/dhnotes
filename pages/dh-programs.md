@@ -146,6 +146,7 @@ List in progress. Please submit a pull request or add an issue with your suggest
 
 
 ### North America
+- [BA in Digital Media, Arts, and Technology, Penn State Erie, The Behrend College, USA](https://bulletins.psu.edu/undergraduate/colleges/behrend/digital-media-arts-technology-ba/)
 - BS in Digital Humanities, Illinois Institute of Technology, USA
 - BA in Interactive Arts and Science, Brock University, Canada
 - BS in Digital Humanities, Illinois Institute of Technology, USA
@@ -171,6 +172,7 @@ List in progress. Please submit a pull request or add an issue with your suggest
 - [Module Information Modelling](https://informationsmodellierung.uni-graz.at/de/studieren/modul-informationsmodellierung/), University of Graz, Austria
 
 ### North America
+- [Digital Humanities Minor, Penn State University, USA](https://bulletins.psu.edu/undergraduate/colleges/liberal-arts/digital-humanities-minor/#programrequirementstext)
 - Certificate in Digital Humanities, Rutgers University, USA
 - [Digital Studies Certificate](http://greensburg.pitt.edu/academics/info/digital-studies), University of Pittsburgh-Greensburg, USA
 - [Advanced Certificate in Digital Humanities](http://dhss.hosting.nyu.edu/advanced-certificate/), New York University, USA
