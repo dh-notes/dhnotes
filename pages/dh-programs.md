@@ -148,6 +148,7 @@ List in progress. Please submit a pull request or add an issue with your suggest
 ### North America
 - BS in Digital Humanities, Illinois Institute of Technology, USA
 - BA in Interactive Arts and Science, Brock University, Canada
+- [BA in Digital and Screen Media](http://catalog.davidson.edu/preview_program.php?catoid=22&poid=1502&returnto=999), Davidson College, North Carolina, USA
 - BS in Digital Humanities, Illinois Institute of Technology, USA
 - [BS Computer Science/History](https://www.ccis.northeastern.edu/program/bs-computer-sciencehistory/), Northeastern University, USA
 - [BS Computer Science/English](https://www.ccis.northeastern.edu/program/bs-computer-scienceenglish/), Northeastern University, USA
