@@ -25,6 +25,7 @@ List in progress. Please submit a pull request or add an issue with your suggest
 ### Asia
 - MD in Digital Humanities, Srishti Institute of Art, Design and Technology, India
 - MS in Digital Humanities, IIT Indore, India
+- MA in Digital Humanities, Renmin University of China, China
 
 ### Australasia
 - [Masters of Digital Humanities and Public Culture](http://cdhr.cass.anu.edu.au/students/future), Australian National University, Australia
@@ -168,6 +169,7 @@ List in progress. Please submit a pull request or add an issue with your suggest
 
 ### Asia
 - [Minor in DH](https://hass.sutd.edu.sg/education/minors/digital-humanities-minor/), Singapore University of Technology and Design, Singapore
+- [Honours Minor in DH](http://irm.ruc.edu.cn/displaynews.php?id=6428), Renmin University of China , China
 
 ### Australasia
 - [Minor in Digital Humanities and Public Culture](http://cdhr.cass.anu.edu.au/students/future), Australian National University, Australia
