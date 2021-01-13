@@ -15,6 +15,7 @@ List in progress. Please submit a pull request or add an issue with your suggest
 - PhD in Digital Humanities, University College London, UK
 - [PhD in Digital Humanities, Institute for Digital Humanities at the University of Cologne, Germany](http://www.dh.uni-koeln.de)
 - [Doktoratsstudium "Digitale Geisteswissenschaften"](https://gewi.uni-graz.at/de/studieren/doktoratsstudium/) (Doctoral programme "Digital Humanities"), University of Graz, Austria
+- [PhD in Digital Humanities](https://www.epfl.ch/education/phd/eddh-digital-humanities/), École Polytechnique Fédérale de Lausanne (EPFL), Switzerland
 
 ### North America
 - [Texts & Technology Ph.D. Program](https://tandt.cah.ucf.edu/), University of Central Florida, USA
@@ -41,7 +42,7 @@ List in progress. Please submit a pull request or add an issue with your suggest
 - [MA in Digital Humanities](http://www.dh.uni-koeln.de), Institute for Digital Humanities at the University of Cologne, Germany
 - [Masters Humanités Numériques](https://esipat.univ-tours.fr/masters/), Université Francois-Rabelais, France
 - [Master of Arts (MA) in Digital Humanities](https://www.unil.ch/formations/en/home/menuinst/masters/humanites-numeriques.html), Université de Lausanne, Switzerland
-- [Master of Science (MS) in Digital Humanities](https://www.unil.ch/formations/en/home/menuinst/masters/humanites-numeriques.html), Université de Lausanne, Switzerland
+- [Master of Science in Digital Humanities](https://www.epfl.ch/education/master/programs/digital-humanities/), École Polytechnique Fédérale de Lausanne (EPFL), Switzerland
 - [Masterstudiengang Digitale Methodik in den Geistes- und Kulturwissenschaften](https://www.digitale-methodik.uni-mainz.de/), Johannes Gutenberg-Universität Mainz, Germany
 - [Masterstudiengang Digital Humanities](http://www.uni-stuttgart.de/dh), Universität Stuttgart, Germany
 - [Master Humanités numériques et computationnelles](http://www.chartes.psl.eu/fr/cursus/master-humanitesnumeriques), École Nationale des Chartes, France
