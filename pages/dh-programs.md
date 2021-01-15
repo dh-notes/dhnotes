@@ -73,6 +73,12 @@ List in progress. Please submit a pull request or add an issue with your suggest
 
 
 ### North America
+- MA in DH, McGill University, Canada
+- MA program, Loyola University Chicago, USA
+- Tufts, M.A. in Digital Tools for Premodern Studies, USA
+- MA in DH, CUNY Graduate Center, USA
+- MA in Digital Humanities (Collaborative Master's), Carleton University, Canada
+- [MA in Digital Studies](https://digitalstudies.uchicago.edu/overview-timeline), University of Chicago, USA
 - [Ad Hoc MA in Digital Humanities](https://www.mcgill.ca/digital-humanities/ma-digital-humanities), McGill University, Canada
 - [MA in Digital Humanities](https://www.luc.edu/ctsdh/academics/maindigitalhumanities/), Loyola University Chicago, USA
 - [M.A. in Digital Tools for Premodern Studies](https://asegrad.tufts.edu/academics/explore-graduate-programs/digital-humanities), Tufts University, USA
@@ -127,6 +133,17 @@ List in progress. Please submit a pull request or add an issue with your suggest
 - [Digital Humanities and Culture Graduate Certificate](https://english.wsu.edu/graduate-certificates/), Washington State University, USA
 - [Graduate Certificate in Data Science in the Humanities](https://iph.wustl.edu/DASHGradCertificateRequirements), Washington University in St. Louis, USA
 - [Digital Humanities Graduate Certificate](https://dsu.edu/graduate-students/digital-humanities-graduate-certificate). Dakota State University, USA
+- [Digital Arts & Humanities Minor / Certificate](https://idah.indiana.edu/training/certificate.html), Indiana University Bloomington, USA
+- [Digital Studies Certificate](https://clas.ucdenver.edu/digital-studies-certificates/graduate-certificate), University of Colorado Denver, USA
+- [Certificate in Digital Humanities](https://www.dom.edu/admission/graduate/library-information-studies-programs/certificate-programs/digital-humanities), Dominican University, USA
+- [Certificate in Digital Humanities](http://bulletin.miami.edu/graduate-academic-programs/arts-sciences/modern-languages-literatures/digital-humanities-certificate/), University of Miami, USA
+- [Graduate Certificate in Digital Humanities and Media Studies](https://dhmediastudies.uconn.edu/dhms-graduate-certificate/), University of Connecticut, USA
+- [Graduate Certificate in Digital Humanities](https://catalog.depaul.edu/programs/digital-humanities-certificate/), DePaul University, USA
+- [Digital Studies Certificate](https://sps.northwestern.edu/advanced-graduate-certificate/digital-studies/), Northwestern University, USA
+- [Graduate Certificate in Digital Studies](https://www.salemstate.edu/academics/college-arts-and-sciences/english/graduate-certificate-digital-studies), Salem State University, USA
+- [Graduate Certificate in Digital Humanities](https://education.missouri.edu/information-science-learning-technologies/certificates/digital-humanities/), University of Missouri, USA
+- [Digital Humanities Graduate Certificate](https://www.colorado.edu/crdds/dhgc), University of Colorado Boulder, USA
+- [Graduate Certificate in Digital Studies](https://digitalstudies.uchicago.edu/graduate-certificate), University of Chicago, USA
 - [Digital Studies in Arts and Humanities, Graduate Certificate](http://dsah.umd.edu/), University of Maryland, USA
 - [Digital Humanities Specialization in Master of Information Science](https://www.sice.indiana.edu/graduate/degrees/information-library-science/dual-degrees/digital-humanities-mis.html), Indiana University Bloomington, USA
 
@@ -159,8 +176,11 @@ List in progress. Please submit a pull request or add an issue with your suggest
 - [BS Computer Science/History](https://www.ccis.northeastern.edu/program/bs-computer-sciencehistory/), Northeastern University, USA
 - [BS Computer Science/English](https://www.ccis.northeastern.edu/program/bs-computer-scienceenglish/), Northeastern University, USA
 - [BS in English for New Media](https://dsu.edu/academics/degrees-and-programs/english-for-new-media-bs), Dakota State University, USA
+- [Bachelor of Arts in Digital Arts and Sciences](https://catalog.ufl.edu/UGRD/colleges-schools/UGART/DAR_BADA_UFO/#modelsemesterplantext), University of Florida, USA
+- [BA in Digital Humanities](https://www.bethel.edu/undergrad/academics/history/majors-minors/digital-humanities), Bethel University, USA
+- [BA/MA in Digital Studies](https://digitalstudies.uchicago.edu/bama), University of Chicago, USA
 - [Digital Technology and Culture](https://dtc.wsu.edu/), Washington State University, USA
-- BA in Comparative and Digital Humanities, Bucknell University, PA, USA
+- [BA in Comparative and Digital Humanities](https://www.bucknell.edu/academics/college-arts-sciences/academic-departments-programs/comparative-digital-humanities), Bucknell University, PA, USA
 
 ### South America and the Caribbean
 - (In design stage) BA in Digital Humanities, University of West Indies \- Mona Campus, Jamaica
@@ -222,13 +242,21 @@ List in progress. Please submit a pull request or add an issue with your suggest
 - [Digital Humanities Minor](http://cnu.edu/academics/areasofstudy/minor-digitalhumanities/), Christopher Newport University, USA
 - [Digital Studies Minor](https://www.davidson.edu/academics/digital-studies), Davidson College, USA
 - [Minor in Digital Culture and Information](https://digitalhumanities.wlu.edu/blog/2018/05/08/minor-in-digital-culture-and-information/), Washington & Lee University, USA
+- [Minor in Digital Arts & Sciences](https://digitalworlds.ufl.edu/programs/minor-in-das/), University of Florida, USA
+- [Minor in Digital Humanities](http://www.buffalo.edu/cas/english/undergraduate-programs/digital-humanities.html), University at Buffalo, USA
+- [Digital Humanities Minor](https://www.stonehill.edu/programs/digital-humanities/), Stonehill College, USA
+- [Minor in Digital Humanities and New Media](https://catalog.wcupa.edu/undergraduate/arts-humanities/english/digital-humanities-new-media-minor/), West Chester University, USA
+- [Certificate in Digital Humanities](https://digi.uga.edu/certificate/), University of Georgia, USA
+- [Digital Humanities Certificate](https://catalog.utexas.edu/undergraduate/liberal-arts/minor-and-certificate-programs/#digitalhumanitiescertificate), University of Texas, USA
+- [Digital Studies Certificate](https://clas.ucdenver.edu/digital-studies-certificates/undergraduate-certificate), University of Colorado Denver, USA
+- [Minor in Digital Studies](https://digitalstudies.uchicago.edu/minor), University of Chicago, USA
 - [Minor in Digital Arts & Humanities](https://www.carleton.edu/digital-arts-humanities/the-minor/), Carleton College, USA
 - [Minor in Digital Humanities and Technology](https://catalog.byu.edu/humanities/digital-humanities-program/digital-humanities-and-technology-minor), Brigham Young University, USA
 
 
+
 ### South America and the Caribbean
 - Digital Humanities Research and Service Learning Certificate, Create Caribbean, Dominica
-
 
 ## Notes
 
@@ -238,5 +266,5 @@ Brett Bobley, Director of ODH, started a [Google Doc list](https://docs.google.c
 
 DARIAH has a useful list of courses and programs in their [Digital Humanities Courses Registry](https://registries.clarin-dariah.eu/courses/).
 
-
+Cole Crawford, Humanities Research Computing Specialist at Harvard, maintains a [Google Sheet](https://docs.google.com/spreadsheets/d/1N5AQcIdiG2uUcPqkAsnLV3E1-A8EZQXqW6na_SKqtEM/edit?usp=sharing) of Graduate Certificates and Programs in Digital Humanities focused on the US, with some additional metadata about required courses, credits, and components.
 
