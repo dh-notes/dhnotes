@@ -75,7 +75,7 @@ List in progress. Please submit a pull request or add an issue with your suggest
 ### North America
 
 - [MA/MLIS in Humanities Computing](https://www.ualberta.ca/school-of-library-and-information-studies/programs/mamlis), University of Alberta, Canada
-- [MA in Digital Humanities](https://www.ualberta.ca/interdisciplinary-studies/digital-humanities), University of Alberta
+- [MA in Digital Humanities](https://www.ualberta.ca/interdisciplinary-studies/digital-humanities), University of Alberta, Canada
 - [MA in Digital Humanities (Collaborative Master's)](https://graduate.carleton.ca/cu-programs/digital-humanities-collaborative-masters/), Carleton University, Canada
 - [MA in Digital Studies](https://digitalstudies.uchicago.edu/overview-timeline), University of Chicago, USA
 - [Maestría en Comunicación y Humanidades Digitales](http://elclaustro.edu.mx/licenciaturas/maestria-en-comunicacion-y-humanidades-digitales/), Universidad del Claustro de Sor Juana, Mexico
@@ -84,7 +84,7 @@ List in progress. Please submit a pull request or add an issue with your suggest
 - [MA in Digital Humanities](https://www.luc.edu/ctsdh/academics/maindigitalhumanities/), Loyola University Chicago, USA
 - [Ad-Hoc MA in Digital Humanities](https://www.mcgill.ca/digital-humanities/ma-digital-humanities), McGill University, Canada
 - [MA in Digital Tools for Premodern Studies](https://asegrad.tufts.edu/academics/explore-graduate-programs/digital-humanities), Tufts University, USA
-- [Master of Arts in Digital Tools for Premodern Studies](https://ase.tufts.edu/classics/graduate/digitalTools.htm), Tufts University, USA
+- [MA in Digital Tools for Premodern Studies](https://ase.tufts.edu/classics/graduate/digitalTools.htm), Tufts University, USA
 
 ### South America and the Caribbean
 - Maestría en Humanidades Digitales, Universidad de los Andes, Bogota, Colombia
