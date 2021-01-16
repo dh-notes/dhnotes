@@ -3,7 +3,7 @@
 
 *These documents contain the working notes, tutorials, manuals, and other "local knowledge" materials from [Columbia's Group for Experimental Methods in the Humanities](http://xpmethod.plaintext.in/).*
 
-> **Funding, Journals, Review and Conferences**
+> **Funding, Journals, Programs, Review, and Conferences**
 
 - **[Conferences](https://github.com/dh-notes/dhnotes/blob/master/pages/conferences.md)**
 - **[Peer Review and T&P
@@ -14,6 +14,7 @@
 - **[Essay and Book Prizes in
   Literary/Media/DH](https://github.com/dh-notes/dhnotes/blob/master/pages/book-essay-prizes.md)**
 - [**Selected Journals in Literary Studies**](https://github.com/dh-notes/dhnotes/blob/master/pages/lit-journals.md)
+- **[Advanced Degrees in Digital Humanities](https://github.com/dh-notes/dhnotes/blob/master/pages/dh-programs.md)**
 
 > **Tutorials**
 
