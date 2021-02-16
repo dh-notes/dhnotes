@@ -16,6 +16,7 @@ List in progress. Please submit a pull request or add an issue with your suggest
 - [PhD in Digital Humanities, Institute for Digital Humanities at the University of Cologne, Germany](http://www.dh.uni-koeln.de)
 - [Doktoratsstudium "Digitale Geisteswissenschaften"](https://gewi.uni-graz.at/de/studieren/doktoratsstudium/) (Doctoral programme "Digital Humanities"), University of Graz, Austria
 - [PhD in Digital Humanities](https://www.epfl.ch/education/phd/eddh-digital-humanities/), École Polytechnique Fédérale de Lausanne (EPFL), Switzerland
+- [PhD in Digital Humanities. Digital Technologies, Arts, Languages, Cultures and Communication](https://digitalhumanities.phd.unige.it/), Università degli Studi di Genova-Università degli Studi di Torino, Italy
 
 ### North America
 - [Texts & Technology Ph.D. Program](https://tandt.cah.ucf.edu/), University of Central Florida, USA
