@@ -567,16 +567,7 @@ linguistic and scientific traditions.
 
 ## J
 
-[**The Journal for the History of Knowledge**](https://journalhistoryknowledge.org/) is an open access, peer-reviewed journal devoted to
-the history of knowledge in its broadest sense. This includes the study of science, but also of
-indigenous, artisanal, and other types of knowledge as well as the history of knowledge
-developed in the humanities and social sciences. Special attention is paid to interactions and
-processes of demarcation between science and other forms of knowledge. Contributions may deal
-with the history of concepts of knowledge, the study of knowledge making practices and
-institutions and sites of knowledge production, adjudication, and legitimation (including
-universities). Contributions which highlight the relevance of the history of knowledge to
-current policy concerns (for example, by historicizing and problematizing concepts such as the
-"knowledge society") are particularly welcome. 
+
 
 [**Jahrbuch für
 Computerphilologie**](http://computerphilologie.digital-humanities.de/ejournal.html).
@@ -634,6 +625,8 @@ qualitative or quantitative analyses. The Journal also publishes research
 notes, review articles, theoretical essays, and book reviews relevant for
 comparative research.
 
+[**Journal of Computational Literary Studies**](https://jcls.io/) (JCLS) is an international, open access, peer-reviewed online journal dedicated to all aspects of computational approaches to Literary Studies. JCLS responds to the increasing differentiation of subfields within the Digital Humanities, an ongoing process in which Computational Literary Studies has already gained considerable maturity and visibility.
+
 [**Journal on Computing and Cultural Heritage**](http://jocch.acm.org) (JOCCH)
 publishes papers of significant and lasting value in all areas relating to the
 use of information and communication technologies (ICT) in support of Cultural
@@ -670,6 +663,17 @@ important niche by recognizing that print communication was in the throes of
 significant change, and that digital communication would become an
 important—and in some cases predominant—means for transmitting published
 information.
+
+[**The Journal for the History of Knowledge**](https://journalhistoryknowledge.org/) is an open access, peer-reviewed journal devoted to
+the history of knowledge in its broadest sense. This includes the study of science, but also of
+indigenous, artisanal, and other types of knowledge as well as the history of knowledge
+developed in the humanities and social sciences. Special attention is paid to interactions and
+processes of demarcation between science and other forms of knowledge. Contributions may deal
+with the history of concepts of knowledge, the study of knowledge making practices and
+institutions and sites of knowledge production, adjudication, and legitimation (including
+universities). Contributions which highlight the relevance of the history of knowledge to
+current policy concerns (for example, by historicizing and problematizing concepts such as the
+"knowledge society") are particularly welcome. 
 
 [**Journal of Human-Robot
 Interaction**](http://humanrobotinteraction.org/journal/index.php/HRI) aims to
