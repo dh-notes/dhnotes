@@ -142,7 +142,7 @@ List in progress. Please submit a pull request or add an issue with your suggest
 - [Graduate Certificate in Digital Studies](https://digitalstudies.uchicago.edu/graduate-certificate), University of Chicago, USA
 - [Digital Studies in Arts and Humanities, Graduate Certificate](http://dsah.umd.edu/), University of Maryland, USA
 - [Digital Humanities Specialization in Master of Information Science](https://www.sice.indiana.edu/graduate/degrees/information-library-science/dual-degrees/digital-humanities-mis.html), Indiana University Bloomington, USA
-
+- [Cultural Analytics Graduate Certificate](https://www.temple.edu/academics/degree-programs/cultural-analytics-certificate-graduate-co-cuan-grad), Temple University, USA
 ## Undergraduate Major
 
 ### Asia
