@@ -544,6 +544,8 @@ journal that, while centered in communication, is open and welcoming to
 contributions from the many disciplines and approaches that meet at the
 crossroads that is communication study. We encourage readers to REGISTER now.
 
+[**International Journal of Humanities and Arts Computing: A Journal of Digital Humanities**](https://www.euppublishing.com/loi/ijhac?widget=journaleditorialboard#de6dc34d-c714-4ed7-8457-32996500e695-b6de7b7c-de82-45a5-9538-313dd15c6659) (IJHAC) is one of the world’s premier multi-disciplinary, peer-reviewed forums for research on all aspects of arts and humanities computing. The journal focuses both on conceptual and theoretical approaches, as well as case studies and essays demonstrating how advanced information technologies can further scholarly understanding of traditional topics in the arts and humanities.
+
 [**International Journal of Digital Curation**](http://www.ijdc.net/) is
 entirely devoted to papers, articles and news items on curation of digital
 objects and related issues.
