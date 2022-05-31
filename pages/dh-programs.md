@@ -248,6 +248,7 @@ List in progress. Please submit a pull request or add an issue with your suggest
 - [Minor in Digital Studies](https://digitalstudies.uchicago.edu/minor), University of Chicago, USA
 - [Minor in Digital Arts & Humanities](https://www.carleton.edu/digital-arts-humanities/the-minor/), Carleton College, USA
 - [Minor in Digital Humanities and Technology](https://catalog.byu.edu/humanities/digital-humanities-program/digital-humanities-and-technology-minor), Brigham Young University, USA
+- [Digital Humanities Certificate Program] (https://www.bc.edu/content/bc-web/schools/mcas/departments/history/graduate/certificate-in-digital-humanities.html), Boston College, USA
 
 
 
