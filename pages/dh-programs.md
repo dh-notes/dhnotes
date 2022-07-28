@@ -1,8 +1,8 @@
 # Advanced Degrees in Digital Humanities
 
-The list is meant to be global and comprehensive of all types of degrees. The list is focused on degrees and certificates granted as part of the main accreditation mechanisms of colleges and universities. The list does not take into account the main mechanisms by which a large number of practitioners continue to learn digital humanities today, namely, outside the curriculum. 
+The list is meant to be global and comprehensive of all types of degrees. The list is focused on degrees and certificates granted as part of the main accreditation mechanisms of colleges and universities. The list does not take into account the main mechanisms by which a large number of practitioners continue to learn digital humanities today, namely, outside the curriculum.
 
-List in progress. Please submit a pull request or add an issue with your suggestion. 
+List in progress. Please submit a pull request or add an issue with your suggestion.
 
 ## PhD Programs
 ### Asia
@@ -19,6 +19,7 @@ List in progress. Please submit a pull request or add an issue with your suggest
 
 ### North America
 - [Texts & Technology Ph.D. Program](https://tandt.cah.ucf.edu/), University of Central Florida, USA
+- [Digital History Ph.D. Program](https://www.clemson.edu/caah/academics/history-and-geography/graduate/digital-history-phd/index.html), Clemson University, South Carolina, USA.
 
 ## Masters
 
@@ -33,8 +34,8 @@ List in progress. Please submit a pull request or add an issue with your suggest
 
 ### Europe
 - MA in Digital Humanities, King's College London, UK
-- [M.Sc. Computing in the Humanities](https://www.uni-bamberg.de/ma-cith/), Otto-Friedrich-Universität Bamberg, Germany 
-- [MA Digital Humanities](https://www.uni-wuerzburg.de/studium/angebot/faecher/digihum), Universität Würzburg, Germany 
+- [M.Sc. Computing in the Humanities](https://www.uni-bamberg.de/ma-cith/), Otto-Friedrich-Universität Bamberg, Germany
+- [MA Digital Humanities](https://www.uni-wuerzburg.de/studium/angebot/faecher/digihum), Universität Würzburg, Germany
 - [MA Digital Humanities](http://www.uni-stuttgart.de/dh/studium/masterstudiengang/), Universität Stuttgart, Germany
 - [MA Digital Humanities](https://www.uni-trier.de/index.php?id=1175), Universität Trier, Germany
 - [MPhil in Digital Humanities and Culture](https://www.tcd.ie/courses/postgraduate/az/course.php?id=DPTLL-DHCU-2F09), Trinity College Dublin, Ireland
@@ -153,14 +154,14 @@ List in progress. Please submit a pull request or add an issue with your suggest
 - [Major and Minor in Digital Humanities](http://monash.edu.au/pubs/2018handbooks/aos/digital-humanities/ug-arts-digital-humanities.html), Monash University, Australia
 
 ### Europe
-- [BA Digital Humanities](https://www.uni-wuerzburg.de/studium/angebot/faecher/digihum), Universität Würzburg, Germany 
-- [BA Digital Humanities and Social Studies](https://meinstudium.fau.de/studiengang/digitale-geistes-und-sozialwissenschaften-ba/), FAU Universität Erlangen-Nürnberg, Germany 
+- [BA Digital Humanities](https://www.uni-wuerzburg.de/studium/angebot/faecher/digihum), Universität Würzburg, Germany
+- [BA Digital Humanities and Social Studies](https://meinstudium.fau.de/studiengang/digitale-geistes-und-sozialwissenschaften-ba/), FAU Universität Erlangen-Nürnberg, Germany
 - [BSc Digital Humanities](http://www.dh.uni-leipzig.de/wo/), Universität Leipzig, Germany
 - BA in Digital Culture, King's College London, UK
 - BA in Digital Humanities and Information Technology, University College Cork, Ireland
 - [BA in Digital Humanities: two study programs](http://www.dh.uni-koeln.de), Institute for Digital Humanities at the University of Cologne, Germany
 - [BA in Digital Humanities](http://www.uni-wuerzburg.de/?id=87781), Julius-Maximilians-Universität Würzburg, Germany
-- [MA Digital Media & Information Studies](https://www.gla.ac.uk/undergraduate/degrees/digitalmedia/), University of Glasgow, UK 
+- [MA Digital Media & Information Studies](https://www.gla.ac.uk/undergraduate/degrees/digitalmedia/), University of Glasgow, UK
 
 
 ### North America
@@ -263,4 +264,3 @@ Brett Bobley, Director of ODH, started a [Google Doc list](https://docs.google.c
 DARIAH has a useful list of courses and programs in their [Digital Humanities Courses Registry](https://registries.clarin-dariah.eu/courses/).
 
 Cole Crawford, Humanities Research Computing Specialist at Harvard, maintains a [Google Sheet](https://docs.google.com/spreadsheets/d/1N5AQcIdiG2uUcPqkAsnLV3E1-A8EZQXqW6na_SKqtEM/edit?usp=sharing) of Graduate Certificates and Programs in Digital Humanities focused on the US, with some additional metadata about required courses, credits, and components.
-
