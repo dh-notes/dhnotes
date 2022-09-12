@@ -103,7 +103,7 @@ List in progress. Please submit a pull request or add an issue with your suggest
 - [Certificate in Digital Humanities, Michigan State University, USA](https://reg.msu.edu/AcademicPrograms/ProgramDetail.aspx?Program=5742)
 - [Certificate in Digital Humanities, North Carolina State University, USA](https://dh.chass.ncsu.edu/grad/)
 - [Certificate in Digital Humanities, Stanford University, USA](https://cesta.stanford.edu/programs/graduate-programs/graduate-certificate-digital-humanities)
-- Certificate in Digital Humanities, Texas A&M University, USA
+- [Certificate in Digital Humanities, Texas A&M University, USA](https://dhcertificate.tamu.edu/)
 - [Certificate in Book History and Digital Humanities, Texas Tech University, USA](https://www.depts.ttu.edu/english/grad_degrees/Book_History/BHDHcert_requirements.php)
 - [Graduate Certificate in Digital Humanities, UCLA, USA](http://dh.ucla.edu/graduate-certificate/)
 - [Concentration in Humanities Computing, University of Georgia, USA](https://www.english.uga.edu/areas-emphasis)
