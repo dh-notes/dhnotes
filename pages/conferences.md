@@ -24,7 +24,7 @@
 - alt.chi* (See CHI in September)  
 - American Studies Association (ASA)  
 - New Directions in the Humanities
-- [Computational Humanities Research](computational-humanities-research.org) (CHR)
+- [Computational Humanities Research](https://computational-humanities-research.org) (CHR)
 
 **January**  
 - ACM Hypertext*
