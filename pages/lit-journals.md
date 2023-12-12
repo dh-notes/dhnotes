@@ -46,6 +46,8 @@ well as the creative and conceptual rigor, of the contemporary arts.
 
 [[top]](#directory)
 
+[**Book History**](https://www.press.jhu.edu/journals/book-history) is devoted to every aspect of the history of the book, broadly defined as the history of the creation, dissemination, and reception of script and print. It publishes research on the social, economic, and cultural history of authorship, editing, printing, the book arts, publishing, the book trade, periodicals, newspapers, ephemera, copyright, censorship, literary agents, libraries, literary criticism, canon formation, literacy, literary education, reading habits, and reader response. Book History is the official publication of the Society for the History of Authorship, Reading and Publishing, Inc. (SHARP).
+
 ## C
 
 [**Configurations**](https://www.press.jhu.edu/journals/configurations/)
