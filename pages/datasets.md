@@ -6,6 +6,8 @@ An archive of 27600 computer manuals containing over 2.9 million pages.
 - [British Parliament (Hansard) 1803-2005](http://www.hansard-corpus.org/)
 7.6 million speeches, 1.6 billion words. This Hansard corpus (or collection of texts) contains nearly every speech given in the British Parliament from 1803-2005, and it allows you to search these speeches (including semantically-based searches) in ways that are not possible with any other resource.
 
+  - [Corpus of Contemporary American English](https://www.english-corpora.org/coca/) is the only large and "balanced" corpus of American English. It contains more than one billion words of text (25+ million words each year 1990-2019) from eight genres: spoken, fiction, popular magazines, newspapers, academic texts, TV and movies subtitles, blogs, and other web pages.
+
 - [**The Dream Bank**](http://www.dreambank.net/)  
 Welcome to The DreamBank, a collection of over 20,000 dream reports. The
 reports come from a variety of different sources and research studies, from
