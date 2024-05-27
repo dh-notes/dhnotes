@@ -178,6 +178,11 @@ Arcadia works to preserve near extinct languages, rare historical archives and m
 | ------------- | -------------| --------:|
 |[Endangered Culture ](http://www.arcadiafund.org.uk/grants/endangered-culture)|||
 
+# Library of Congress, Kluge Center
+
+Paid Research Fellowships at the John W. Kluge Center at the Library of Congress
+https://www.h-net.org/jobs/job_display.php?id=67174
+
 # The Kress Foundation
 Through its Grant Programs, the Kress Foundation supports scholarly projects that promote the appreciation, interpretation, preservation, study and teaching of European art from antiquity to the early 19th century. These areas are also supported through our Fellowships.  These competitive grants are awarded to institutions only.
 
