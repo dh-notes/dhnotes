@@ -153,6 +153,15 @@ behavior and society, both positive and negative.
 
 ## D
 
+[**D-Lib Magazine**](http://www.dlib.org/dlib.html) is an electronic
+publication with a focus on digital library research and development,
+including new technologies, applications, and contextual social and economic
+issues. D-Lib Magazine appeals to a broad technical and professional audience.
+The primary goal of the magazine is timely and efficient information exchange
+for the digital library community to help digital libraries be a broad
+interdisciplinary field, and not a set of specialties that know little of each
+other.
+
 [**Design and Culture**](http://designandculture.org) seeks to establish a
 dynamic relationship between design and its many cultural contexts.
 Encompassing the numerous professional fields of design and so-called "amateur
@@ -234,15 +243,6 @@ Contributors may also submit curated electronic texts for peer-review, as well
 as thoroughly-documented hermeneutical methods and tools. Any digital project
 with a literary focus, whether that be a digital edition, tool, or otherwise,
 may be considered for peer-review.
-
-[**D-Lib Magazine**](http://www.dlib.org/dlib.html) is an electronic
-publication with a focus on digital library research and development,
-including new technologies, applications, and contextual social and economic
-issues. D-Lib Magazine appeals to a broad technical and professional audience.
-The primary goal of the magazine is timely and efficient information exchange
-for the digital library community to help digital libraries be a broad
-interdisciplinary field, and not a set of specialties that know little of each
-other.
 
 [**Digital Philology: A Journal of Medieval
 Cultures**](http://muse.jhu.edu/journals/digital_philology/toc/dph.2.2.html)
