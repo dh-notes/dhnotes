@@ -1068,6 +1068,18 @@ about RIDE in our editorial.
 
 ## S
 
+[**Scholarly Editing**](https://scholarlyediting.org) is an open-access, peer-reviewed
+journal committed to the development and advancement of all aspects of textual and 
+documentary editing, including the recovery of texts and artifacts that represent 
+and celebrate the lives of and contributions from and about Black, Latinx, and 
+Indigenous peoples; Asian Americans and Pacific Islanders; women; LGBTQ+ individuals;
+and peoples of the Global South. In addition to projects that illustrate the traditional
+range of editorial methodologies and practices, we welcome those that feature rare or
+marginal texts, texts that dislodge the single-author model, oral histories and tales,
+community recovery, creative works of “rememory,” and the decolonizing of artistic works,
+archives, records, and editions for the discoverability of racialized and underrepresented
+stories and cultural artifacts.
+
 [**Science, Technology, & Human
 Values**](https://us.sagepub.com/en-us/nam/science-technology-human-values/journal200858)
 is a peer-reviewed, international, interdisciplinary journal containing
