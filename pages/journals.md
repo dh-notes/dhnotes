@@ -772,6 +772,8 @@ religion and digital media. Published articles should contribute new insights
 to debates in the social sciences or digital humanities. Studies of any
 religious tradition are welcomed.
 
+The [**Journal for Undergraduate Multimedia Projects**](https://jumpplus.net/) is an electronic journal dedicated to providing an outlet for the excellent digital/multimedia projects occurring in undergraduate courses around the globe, and to providing a pedagogical resource for teachers working with (or wanting to work with) “new media.”  The journal is designed to be not only a repository for quality multimedia scholarship—bringing together some of the most rhetorically creative and rhetorically impactful works produced/composed by our undergraduates—but also it seeks to also offer a critical perspective. The projects we publish include assignment descriptions, project timelines, reflections by the instructor(s), and design rationales or process/product reflections by the student author(s)/composer(s) themselves. Additionally, our editorial collective members—current and emerging scholars with connections to digital media, multimedia, new media, communicational technologies, social media, digital rhetorics, and the like—offer responses to and/or comments on the projects.
+
 [[top]](#directory)
 
 ## K
