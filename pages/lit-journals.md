@@ -1,4 +1,4 @@
-# Selected Literature Journals*  
+# Selected Journals*  
 *Indicates open access 
 
 A selected (and incomplete) list of literary journals known for excellence in
@@ -175,6 +175,8 @@ significant scholarly resources.
 [[top]](#directory)
 
 ## M
+
+[**Misinformation Review**](https://misinforeview.hks.harvard.edu/) publishes high-quality, interdisciplinary research that examines misinformation from different perspectives, from its prevalence and impact to the effectiveness of possible interventions. We currently publish six regular issues per year. We also publish special issues on themes of particular relevance curated by guest editors..
 
 [**Modern Philology**](https://www.journals.uchicago.edu/journals/mp/about)
 sets the standard for literary scholarship, history, and criticism. The
