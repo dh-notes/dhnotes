@@ -1014,14 +1014,7 @@ sexuality, advertising/consumer culture, television, radio, music, magazines,
 and dance. The journal welcomes diverse theoretical and methodological
 perspectives within the tradition of cultural studies.
 
-\*[**The Programming Historian 2**](http://programminghistorian.org/) is a
-tutorial-based open access textbook designed to teach humanists practical
-computer programming skills that are immediately useful to real research
-needs.  But we haven’t stopped there. PH2 is also a community-driven
-collaborative textbook. We welcome lessons and lesson ideas from anyone who
-thinks they have a programming skill or technique that they’d like to share.
-All of our lessons are peer-reviewed before they are incorporated as part of
-the live project to ensure only high quality work reaches our learners.
+\*[**Programming Historian**](http://programminghistorian.org/) (ProgHist Ltd) is a multilingual, Diamond Open Access publisher of article-length lessons on digital techniques and workflows. These lessons are written by and for today’s scholars and educators. That is, people whose own research in the fields of history, social sciences, or the humanities has prompted them to take up digital tools to acquire, transform, analyse, present, or preserve their data. Programming Historian lessons are created by a global community of authors, editors, peer-reviewers and translators who have collaborated to create more than 200 lessons across its four journals: in English, Spanish, French and Portuguese. Every lesson is openly peer reviewed and licensed under the Creative Commons - Attribution 4.0 International CC-BY 4.0 Licence.
 
 [**Public Culture**](http://publicculture.dukejournals.org/) is a
 peer-reviewed interdisciplinary journal of cultural studies, sponsored by the
