@@ -114,6 +114,12 @@ best work on English-language writing from its beginnings to the present day.
 
 ## F
 
+[Frontiers of Narrative Studies](https://www.degruyterbrill.com/journal/key/fns/html?lang=en)
+features articles reporting results of research in all branches of narrative studies, in-depth
+reviews of selected current literature in the field, and occasional guest editorials and
+reports. Its broad range of scholarship includes narratives across a variety of media,
+including literary writing, film and television, journalism, and graphic narratives.
+
 [[top]](#directory)
 
 ## G
