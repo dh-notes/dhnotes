@@ -184,6 +184,14 @@ significant scholarly resources.
 
 [**Misinformation Review**](https://misinforeview.hks.harvard.edu/) publishes high-quality, interdisciplinary research that examines misinformation from different perspectives, from its prevalence and impact to the effectiveness of possible interventions. We currently publish six regular issues per year. We also publish special issues on themes of particular relevance curated by guest editors..
 
+[Modern Fiction Studies](https://www.press.jhu.edu/journals/mfs-modern-fiction-studies)
+publishes scholarly essays that analyze the important aesthetic, cultural, political, and
+environmental developments currently shaping today’s academic and public conversations. A
+leading international literature and humanities journal, MFS focuses on the various modalities
+and uses of fiction in the broadest sense of the term—publishing material designed to speak
+to a wide audience of scholars, public intellectuals, and cultural practitioners working across
+diverse fields, regions, and venues.
+
 [**Modern Philology**](https://www.journals.uchicago.edu/journals/mp/about)
 sets the standard for literary scholarship, history, and criticism. The
 journal features contributions on literature in all modern world languages,
@@ -350,8 +358,7 @@ developments in fields like codicology, material philology, art  history,
 musicology and cultural studies are redefining and integrating  our notions of
 what constitutes a text in diverse cultural contexts.
 
-[**Textual
-Practice**](http://www.tandfonline.com/action/journalInformation?show=aimsScope&journalCode=rtpr20)
+[**Textual Practice**](http://www.tandfonline.com/action/journalInformation?show=aimsScope&journalCode=rtpr20)
 is Britain’s principal international journal of radical literary studies, continually pressing
 theory into new engagements. Today, as customary relations among disciplines and media are
 questioned and transformed, Textual Practice works at the turning points of theory with
